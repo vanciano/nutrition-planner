@@ -8,10 +8,12 @@ from fastapi import FastAPI, Request
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
-from config import get_logger
+from config import get_logger, log_startup_config
 from routers import chat, health, phases
 
 logger = get_logger(__name__)
+
+log_startup_config()
 
 app = FastAPI(title="Nutrition Planner", docs_url="/api/docs")
 

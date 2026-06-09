@@ -10,6 +10,7 @@ The OBO token is used transiently to open one connection and is never stored,
 logged, or returned.
 """
 import os
+import time
 from typing import Any
 
 from databricks import sql
@@ -52,10 +53,14 @@ def query(
         # Local / SP fallback.
         kwargs["credentials_provider"] = lambda: cfg.authenticate
 
-    logger.info("Running warehouse query (obo=%s)", bool(user_token))
+    logger.info("warehouse query start (obo=%s): %s", bool(user_token), sql_text[:120])
+    started = time.monotonic()
     with sql.connect(**kwargs) as conn, conn.cursor() as cur:
         cur.execute(sql_text, params)
         if cur.description is None:
+            logger.info("warehouse query ok: 0 rows in %d ms", int((time.monotonic() - started) * 1000))
             return []
         cols = [c[0] for c in cur.description]
-        return [dict(zip(cols, row)) for row in cur.fetchall()]
+        rows = [dict(zip(cols, row)) for row in cur.fetchall()]
+        logger.info("warehouse query ok: %d rows in %d ms", len(rows), int((time.monotonic() - started) * 1000))
+        return rows
