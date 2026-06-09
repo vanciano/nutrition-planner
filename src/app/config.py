@@ -53,3 +53,28 @@ class Settings:
 
 
 settings = Settings()
+
+
+def log_startup_config() -> None:
+    """Log the effective (non-secret) config so env issues are obvious in logs.
+
+    No tokens/credentials are logged -- only resolved identifiers and flags.
+    """
+    log = get_logger("config")
+    log.info(
+        "startup config: catalog=%s schema=%s team_schema=%s warehouse_id=%s "
+        "auth_mode=%s llm_endpoint=%s retrieval_mode=%s vector_index=%s",
+        settings.catalog,
+        settings.schema,
+        settings.team_schema,
+        settings.warehouse_id or "<unset>",
+        settings.auth_mode,
+        settings.llm_endpoint,
+        settings.retrieval_mode,
+        settings.vector_index or "<unset>",
+    )
+    # Flag likely-misconfig early (warn, don't crash).
+    if not settings.warehouse_id:
+        log.warning("DATABRICKS_WAREHOUSE_ID is unset -- /api/phases and chat context will fail")
+    if settings.retrieval_mode == "vector" and not settings.vector_index:
+        log.warning("RETRIEVAL_MODE=vector but VECTOR_INDEX is unset -- retrieval will fail")

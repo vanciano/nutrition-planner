@@ -4,6 +4,8 @@ Uses the OpenAI-compatible client from the Databricks SDK. Auth is the app
 service principal (or local profile) via WorkspaceClient -- no infra to stand up,
 no tokens handled in app code.
 """
+import time
+
 from databricks.sdk import WorkspaceClient
 from openai import OpenAI
 
@@ -48,10 +50,16 @@ def chat(messages: list[dict], phase_context: str | None = None) -> str:
         )
     msgs.extend(messages)
 
-    logger.info("LLM chat request endpoint=%s msgs=%d", settings.llm_endpoint, len(msgs))
+    logger.info(
+        "LLM chat start endpoint=%s msgs=%d context=%dB",
+        settings.llm_endpoint, len(msgs), len(phase_context or ""),
+    )
+    started = time.monotonic()
     resp = client().chat.completions.create(
         model=settings.llm_endpoint,
         messages=msgs,
         max_tokens=800,
     )
-    return resp.choices[0].message.content or ""
+    reply = resp.choices[0].message.content or ""
+    logger.info("LLM chat ok: %d chars in %d ms", len(reply), int((time.monotonic() - started) * 1000))
+    return reply
