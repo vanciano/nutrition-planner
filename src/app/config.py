@@ -64,6 +64,45 @@ class Settings:
     def meal_plans_table(self) -> str:
         return f"{self.catalog}.{self.schema}.cycle_meal_plans"
 
+    # --- Plan tab: the synthetic meal + nutrition dictionaries live in the
+    # team7 schema (not the read-only uc5 sample). All keyed by meal_id. ----
+    def _team(self, name: str) -> str:
+        return f"{self.catalog}.{self.team_schema}.{name}"
+
+    @property
+    def cycle_meals_table(self) -> str:
+        return self._team("cycle_meal_plans")
+
+    @property
+    def meal_nutrition_table(self) -> str:
+        return self._team("np_meal_nutrition")
+
+    @property
+    def meal_allergens_table(self) -> str:
+        return self._team("np_meal_allergens")
+
+    @property
+    def meal_ingredients_table(self) -> str:
+        return self._team("np_meal_ingredients")
+
+    @property
+    def meal_images_table(self) -> str:
+        return self._team("np_meal_images")
+
+    @property
+    def meal_images_direct_table(self) -> str:
+        # backfilled direct image URLs (resolved from the Flickr/Wikimedia page
+        # og:image); the base table only has unembeddable page URLs.
+        return self._team("np_meal_images_direct")
+
+    @property
+    def focus_nutrients_table(self) -> str:
+        return self._team("focus_nutrients_by_phase")
+
+    @property
+    def daily_targets_table(self) -> str:
+        return self._team("daily_nutrition_targets")
+
 
 settings = Settings()
 

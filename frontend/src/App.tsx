@@ -4,6 +4,7 @@ import { PHASES, DEFAULT_CALORIE_TARGET, type PhaseKey } from "./data";
 import TopBar from "./components/TopBar";
 import BottomNav, { type TabKey } from "./components/BottomNav";
 import ProfileTab from "./tabs/ProfileTab";
+import PlanTab from "./tabs/PlanTab";
 import PlaceholderTab from "./tabs/PlaceholderTab";
 
 const DEFAULT_PROFILE: Profile = {
@@ -13,9 +14,9 @@ const DEFAULT_PROFILE: Profile = {
 };
 
 export default function App() {
-  // No phase selector ships until the Plan tab; phase is a fixed default for theming.
-  const [phaseKey] = useState<PhaseKey>("menstrual");
-  const [tab, setTab] = useState<TabKey>("profile");
+  // The Plan tab's phase selector drives theming app-wide (TopBar + BottomNav accent).
+  const [phaseKey, setPhaseKey] = useState<PhaseKey>("menstrual");
+  const [tab, setTab] = useState<TabKey>("plan");
   const [profile, setProfile] = useState<Profile>(DEFAULT_PROFILE);
 
   const dirtyRef = useRef(false);
@@ -51,7 +52,14 @@ export default function App() {
     <div className="w-app">
       <TopBar phase={phase} />
 
-      {tab === "plan" && <PlaceholderTab which="plan" accent={phase.accent} />}
+      {tab === "plan" && (
+        <PlanTab
+          phaseKey={phaseKey}
+          setPhaseKey={setPhaseKey}
+          profile={profile}
+          onEditPrefs={() => setTab("profile")}
+        />
+      )}
       {tab === "dashboard" && <PlaceholderTab which="dashboard" accent={phase.accent} />}
       {tab === "profile" && (
         <ProfileTab phaseKey={phaseKey} profile={profile} setProfile={updateProfile} />

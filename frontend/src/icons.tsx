@@ -5,7 +5,22 @@ import type { ReactElement } from "react";
 
 type Icon = (color?: string) => ReactElement;
 
-export const NPIcon: Record<"info" | "check" | "plus" | "minus" | "chevron" | "chevronDown", Icon> = {
+export const NPIcon: Record<
+  "info" | "check" | "plus" | "minus" | "chevron" | "chevronDown" | "spark" | "clock" | "close" | "swap",
+  Icon
+> = {
+  spark: (c = "currentColor") => (
+    <svg width="14" height="14" viewBox="0 0 18 18" fill="none"><path d="M9 1.5l1.6 4.4 4.4 1.6-4.4 1.6L9 13.5 7.4 9.1 3 7.5l4.4-1.6L9 1.5z" fill={c} /></svg>
+  ),
+  clock: (c = "currentColor") => (
+    <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><circle cx="8" cy="8" r="6.2" stroke={c} strokeWidth="1.5" /><path d="M8 4.6V8l2.4 1.6" stroke={c} strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /></svg>
+  ),
+  close: (c = "currentColor") => (
+    <svg width="16" height="16" viewBox="0 0 18 18" fill="none"><path d="M4 4l10 10M14 4L4 14" stroke={c} strokeWidth="2" strokeLinecap="round" /></svg>
+  ),
+  swap: (c = "currentColor") => (
+    <svg width="14" height="14" viewBox="0 0 18 18" fill="none"><path d="M3 6h9l-2.5-2.5M15 12H6l2.5 2.5" stroke={c} strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" /></svg>
+  ),
   info: (c = "currentColor") => (
     <svg width="18" height="18" viewBox="0 0 20 20" fill="none"><circle cx="10" cy="10" r="8" stroke={c} strokeWidth="1.6" /><path d="M10 9v4.5" stroke={c} strokeWidth="1.7" strokeLinecap="round" /><circle cx="10" cy="6.4" r="1" fill={c} /></svg>
   ),
