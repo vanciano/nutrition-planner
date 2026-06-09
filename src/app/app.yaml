@@ -1,0 +1,24 @@
+command: ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
+
+env:
+  - name: DATABRICKS_WAREHOUSE_ID
+    valueFrom: sql-warehouse
+  - name: NUTRITION_CATALOG
+    value: "flo_heatlh_hackathon"
+  - name: NUTRITION_SCHEMA
+    value: "uc5_nutrition_planner"
+  - name: NUTRITION_TEAM_SCHEMA
+    value: "team7"
+  - name: AUTH_MODE
+    value: "sp"
+  - name: LLM_ENDPOINT
+    value: "databricks-claude-sonnet-4-6"
+  - name: RETRIEVAL_MODE
+    value: "static"
+  - name: EMBEDDING_ENDPOINT
+    value: "databricks-gte-large-en"
+  # Set these when flipping RETRIEVAL_MODE to "vector":
+  # - name: VECTOR_ENDPOINT
+  #   value: "<vector-search-endpoint>"
+  # - name: VECTOR_INDEX
+  #   value: "flo_heatlh_hackathon.team7.meals_idx"

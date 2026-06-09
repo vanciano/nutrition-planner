@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+databricks-sdk
+databricks-sql-connector
+openai
+databricks-vectorsearch
+psycopg[binary]
+psycopg-pool

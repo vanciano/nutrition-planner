@@ -1,0 +1,61 @@
+"""Databricks SQL warehouse access.
+
+Two auth paths:
+- Deployed app with user authorization: pass the per-request OBO token
+  (``x-forwarded-access-token``) -> queries run as the signed-in user.
+- Local dev / app service-principal fallback: no token -> ``Config()`` resolves
+  credentials from the active profile / injected SP env vars.
+
+The OBO token is used transiently to open one connection and is never stored,
+logged, or returned.
+"""
+import os
+from typing import Any
+
+from databricks import sql
+from databricks.sdk.core import Config
+
+from config import get_logger
+
+logger = get_logger(__name__)
+_cfg: Config | None = None
+
+
+def _config() -> Config:
+    # Lazy so importing this module never triggers SDK/network init -> fast startup.
+    global _cfg
+    if _cfg is None:
+        _cfg = Config()
+    return _cfg
+
+
+def _http_path() -> str:
+    warehouse_id = os.environ["DATABRICKS_WAREHOUSE_ID"]
+    return f"/sql/1.0/warehouses/{warehouse_id}"
+
+
+def query(
+    sql_text: str,
+    params: dict | list | None = None,
+    user_token: str | None = None,
+) -> list[dict[str, Any]]:
+    """Run a query and return rows as a list of dicts."""
+    cfg = _config()
+    kwargs: dict[str, Any] = {
+        "server_hostname": cfg.host,
+        "http_path": _http_path(),
+    }
+    if user_token:
+        # Deployed app: on-behalf-of the signed-in user.
+        kwargs["access_token"] = user_token
+    else:
+        # Local / SP fallback.
+        kwargs["credentials_provider"] = lambda: cfg.authenticate
+
+    logger.info("Running warehouse query (obo=%s)", bool(user_token))
+    with sql.connect(**kwargs) as conn, conn.cursor() as cur:
+        cur.execute(sql_text, params)
+        if cur.description is None:
+            return []
+        cols = [c[0] for c in cur.description]
+        return [dict(zip(cols, row)) for row in cur.fetchall()]
