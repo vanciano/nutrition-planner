@@ -9,7 +9,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from config import get_logger, log_startup_config
-from routers import chat, health, phases, profile
+from routers import chat, health, meals, phases, profile
 
 logger = get_logger(__name__)
 
@@ -22,6 +22,7 @@ app.include_router(health.router, prefix="/api")
 app.include_router(phases.router, prefix="/api")
 app.include_router(chat.router, prefix="/api")
 app.include_router(profile.router, prefix="/api")
+app.include_router(meals.router, prefix="/api")
 
 
 @app.exception_handler(Exception)
