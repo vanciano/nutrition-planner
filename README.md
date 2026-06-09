@@ -8,7 +8,9 @@ guidance tailored to where they are in their cycle.
 
 - **Backend:** FastAPI (`src/app`, run with `uvicorn app:app`)
 - **Frontend:** React + Vite (`frontend/`), built into `src/app/static` and served by FastAPI at `/`
-- **Data store:** Unity Catalog sample data today; **Lakebase (deferred)** for app-owned state
+- **Data store:** Unity Catalog sample data (read); a Delta table in our writable `team7`
+  schema for app-owned user profiles, with an in-memory fallback when no warehouse is
+  configured (see [Profile persistence](#profile-persistence))
 - **Hosting:** Databricks Apps (Declarative Asset Bundle)
 - **LLM:** Databricks Foundation Model API (`databricks-claude-sonnet-4-6`)
 - **Retrieval:** static dictionary by default; opt-in **Vector Search** (`databricks-gte-large-en` embeddings)
@@ -136,6 +138,21 @@ To scale up to semantic retrieval over the meal-plan data:
    ```
 
 3. Redeploy with `scripts/deploy.sh`.
+
+## Profile persistence
+
+User profiles (`/api/profile`, the Profile tab) persist in a Delta table
+`flo_heatlh_hackathon.team7.user_profiles`, read/written through the SQL warehouse as the
+app's service principal and keyed by the signed-in user (`X-Forwarded-Email`). Diets and
+allergies are stored as JSON strings. See [src/app/db.py](src/app/db.py).
+
+When no real warehouse is configured (tests use the `test-wh` placeholder; warehouse-less
+local runs), the store falls back to a **process-local in-memory dict** — the API works
+end-to-end, but values reset on restart. No setup needed for local dev or tests.
+
+On deploy, [scripts/deploy.sh](scripts/deploy.sh) grants the app SP `USE SCHEMA` +
+`CREATE TABLE` + `SELECT` + `MODIFY` on `team7`; the table is created automatically on
+first use and the startup log shows `profile_persistence=True`.
 
 ## Token hygiene
 

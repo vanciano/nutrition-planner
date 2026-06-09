@@ -9,7 +9,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from config import get_logger, log_startup_config
-from routers import chat, health, phases
+from routers import chat, health, phases, profile
 
 logger = get_logger(__name__)
 
@@ -21,6 +21,7 @@ app = FastAPI(title="Nutrition Planner", docs_url="/api/docs")
 app.include_router(health.router, prefix="/api")
 app.include_router(phases.router, prefix="/api")
 app.include_router(chat.router, prefix="/api")
+app.include_router(profile.router, prefix="/api")
 
 
 @app.exception_handler(Exception)

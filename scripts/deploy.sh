@@ -17,6 +17,7 @@ WAREHOUSE_ID="56adb3367ffc45e8"
 LLM_ENDPOINT="databricks-claude-sonnet-4-6"
 CATALOG="flo_heatlh_hackathon"
 SCHEMA="uc5_nutrition_planner"
+TEAM_SCHEMA="team7"
 
 # --- a. pre-deploy gate: tests (abort on failure) --------------------------------
 echo "==> [1/8] Running tests"
@@ -107,6 +108,11 @@ PY
   run_grant "GRANT USE CATALOG ON CATALOG ${CATALOG} TO \`${SP}\`"
   run_grant "GRANT USE SCHEMA ON SCHEMA ${CATALOG}.${SCHEMA} TO \`${SP}\`"
   run_grant "GRANT SELECT ON SCHEMA ${CATALOG}.${SCHEMA} TO \`${SP}\`"
+
+  # NOTE: profile reads/writes to ${CATALOG}.${TEAM_SCHEMA}.user_profiles run
+  # on-behalf-of the signed-in user (app `sql` user scope), who is in `account users`
+  # and already holds USE SCHEMA / CREATE TABLE / SELECT / MODIFY on ${TEAM_SCHEMA}.
+  # So the app service principal needs no grant there.
 
   # --- h. grant CAN_QUERY on the LLM serving endpoint --------------------------
   echo "==> [8/8] Granting CAN_QUERY on serving endpoint ${LLM_ENDPOINT} (non-fatal)"
