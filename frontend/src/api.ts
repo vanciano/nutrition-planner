@@ -125,3 +125,19 @@ export async function sendChat(
   const data = await res.json();
   return data.reply ?? "";
 }
+
+/* AI Coach — follow-up Q&A about the recommended meals, grounded server-side
+   in the user's current phase + profile + plan. */
+export async function sendCoach(
+  messages: ChatMessage[],
+  phase?: string,
+): Promise<string> {
+  const res = await fetch("/api/coach", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ messages, phase }),
+  });
+  if (!res.ok) throw new Error(`POST /api/coach -> ${res.status}`);
+  const data = await res.json();
+  return data.reply ?? "";
+}

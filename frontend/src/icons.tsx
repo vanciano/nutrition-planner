@@ -42,12 +42,12 @@ export const NPIcon: Record<
 };
 
 /* bottom-nav tab glyphs */
-export const WTabIcon: Record<"plan" | "dashboard" | "profile", Icon> = {
+export const WTabIcon: Record<"plan" | "coach" | "profile", Icon> = {
   plan: (c = "currentColor") => (
     <svg width="23" height="23" viewBox="0 0 24 24" fill="none"><path d="M6 4h9l4 4v12a1 1 0 01-1 1H6a1 1 0 01-1-1V5a1 1 0 011-1z" stroke={c} strokeWidth="1.8" strokeLinejoin="round" /><path d="M9 11h6M9 15h4" stroke={c} strokeWidth="1.8" strokeLinecap="round" /></svg>
   ),
-  dashboard: (c = "currentColor") => (
-    <svg width="23" height="23" viewBox="0 0 24 24" fill="none"><path d="M5 19V11M12 19V5M19 19v-6" stroke={c} strokeWidth="2" strokeLinecap="round" /></svg>
+  coach: (c = "currentColor") => (
+    <svg width="23" height="23" viewBox="0 0 24 24" fill="none"><path d="M4 6.5A2.5 2.5 0 016.5 4h11A2.5 2.5 0 0120 6.5v7A2.5 2.5 0 0117.5 16H9l-4 3.5V16H6.5A2.5 2.5 0 014 13.5v-7z" stroke={c} strokeWidth="1.8" strokeLinejoin="round" /><path d="M8.5 9.5h7M8.5 12.5h4" stroke={c} strokeWidth="1.8" strokeLinecap="round" /></svg>
   ),
   profile: (c = "currentColor") => (
     <svg width="23" height="23" viewBox="0 0 24 24" fill="none"><circle cx="12" cy="8.5" r="3.6" stroke={c} strokeWidth="1.8" /><path d="M5.5 19.5c0-3.4 2.9-6 6.5-6s6.5 2.6 6.5 6" stroke={c} strokeWidth="1.8" strokeLinecap="round" /></svg>

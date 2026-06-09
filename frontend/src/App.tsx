@@ -5,7 +5,7 @@ import TopBar from "./components/TopBar";
 import BottomNav, { type TabKey } from "./components/BottomNav";
 import ProfileTab from "./tabs/ProfileTab";
 import PlanTab from "./tabs/PlanTab";
-import PlaceholderTab from "./tabs/PlaceholderTab";
+import ChatTab from "./tabs/ChatTab";
 
 const DEFAULT_PROFILE: Profile = {
   energy_target: DEFAULT_CALORIE_TARGET,
@@ -60,7 +60,7 @@ export default function App() {
           onEditPrefs={() => setTab("profile")}
         />
       )}
-      {tab === "dashboard" && <PlaceholderTab which="dashboard" accent={phase.accent} />}
+      {tab === "coach" && <ChatTab phaseKey={phaseKey} profile={profile} />}
       {tab === "profile" && (
         <ProfileTab phaseKey={phaseKey} profile={profile} setProfile={updateProfile} />
       )}

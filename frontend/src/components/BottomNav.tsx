@@ -1,10 +1,10 @@
 import { WTabIcon } from "../icons";
 
-export type TabKey = "plan" | "dashboard" | "profile";
+export type TabKey = "plan" | "coach" | "profile";
 
 const TABS: { k: TabKey; label: string; icon: (typeof WTabIcon)[keyof typeof WTabIcon] }[] = [
   { k: "plan", label: "Plan", icon: WTabIcon.plan },
-  { k: "dashboard", label: "Dashboard", icon: WTabIcon.dashboard },
+  { k: "coach", label: "Coach", icon: WTabIcon.coach },
   { k: "profile", label: "Profile", icon: WTabIcon.profile },
 ];
 
