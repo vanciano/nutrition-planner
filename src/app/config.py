@@ -44,8 +44,21 @@ class Settings:
     vector_index: str = os.environ.get("VECTOR_INDEX", "")
 
     @property
+    def profile_persistence(self) -> bool:
+        """True when a real warehouse backs profiles (else the in-memory fallback).
+
+        The test suite runs with the placeholder ``test-wh`` warehouse id and must use
+        the in-memory store, so that value is treated as 'no persistence'.
+        """
+        return bool(self.warehouse_id) and self.warehouse_id != "test-wh"
+
+    @property
     def phase_goals_table(self) -> str:
         return f"{self.catalog}.{self.schema}.phase_nutrient_goals"
+
+    @property
+    def user_profiles_table(self) -> str:
+        return f"{self.catalog}.{self.team_schema}.user_profiles"
 
     @property
     def meal_plans_table(self) -> str:
@@ -63,7 +76,8 @@ def log_startup_config() -> None:
     log = get_logger("config")
     log.info(
         "startup config: catalog=%s schema=%s team_schema=%s warehouse_id=%s "
-        "auth_mode=%s llm_endpoint=%s retrieval_mode=%s vector_index=%s",
+        "auth_mode=%s llm_endpoint=%s retrieval_mode=%s vector_index=%s "
+        "profile_persistence=%s",
         settings.catalog,
         settings.schema,
         settings.team_schema,
@@ -72,6 +86,7 @@ def log_startup_config() -> None:
         settings.llm_endpoint,
         settings.retrieval_mode,
         settings.vector_index or "<unset>",
+        settings.profile_persistence,
     )
     # Flag likely-misconfig early (warn, don't crash).
     if not settings.warehouse_id:

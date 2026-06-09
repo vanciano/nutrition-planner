@@ -8,6 +8,28 @@ export interface ChatMessage {
   content: string;
 }
 
+export interface Profile {
+  energy_target: number;
+  diets: string[];
+  allergies: string[];
+}
+
+export async function getProfile(): Promise<Profile> {
+  const res = await fetch("/api/profile");
+  if (!res.ok) throw new Error(`GET /api/profile -> ${res.status}`);
+  return res.json();
+}
+
+export async function saveProfile(profile: Profile): Promise<Profile> {
+  const res = await fetch("/api/profile", {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(profile),
+  });
+  if (!res.ok) throw new Error(`PUT /api/profile -> ${res.status}`);
+  return res.json();
+}
+
 export async function getPhases(): Promise<Phase[]> {
   const res = await fetch("/api/phases");
   if (!res.ok) throw new Error(`GET /api/phases -> ${res.status}`);
