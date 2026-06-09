@@ -1,0 +1,15 @@
+resources:
+  apps:
+    nutrition_planner:
+      name: nutrition-planner-${bundle.target}
+      description: "Flo Nutrition Planner (team 7)"
+      source_code_path: ../src/app
+      # On-behalf-of user scopes: 'sql' lets the forwarded user token query the
+      # warehouse, so reads run as the signed-in user (no SP grants needed).
+      user_api_scopes:
+        - sql
+      resources:
+        - name: sql-warehouse
+          sql_warehouse:
+            id: 56adb3367ffc45e8
+            permission: CAN_USE
