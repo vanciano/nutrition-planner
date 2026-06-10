@@ -1,0 +1,19 @@
+nutrient_category,nutrient_name,daily_target_value,unit,target_type,applies_to_phase,basis,notes
+Macronutrient,Calories,2000,kcal,Default (user-adjustable),All phases,FDA standard reference value,Default for sedentary-to-moderately active adult women; user-adjustable
+Macronutrient,Protein,75,g,Lower bound,All phases,USDA AMDR,Range 75-100g; upper end prioritised in luteal phase
+Macronutrient,Protein,100,g,Upper bound,All phases,USDA AMDR,Range 75-100g; upper end prioritised in luteal phase
+Macronutrient,Total Fat,44,g,Lower bound,All phases,USDA AMDR,Range 44-78g (20-35% of calories)
+Macronutrient,Total Fat,78,g,Upper bound,All phases,USDA AMDR,Range 44-78g (20-35% of calories)
+Macronutrient,Total Carbohydrate,225,g,Lower bound,All phases,USDA AMDR,Range 225-325g (45-65% of calories)
+Macronutrient,Total Carbohydrate,325,g,Upper bound,All phases,USDA AMDR,Range 225-325g (45-65% of calories)
+Macronutrient,Dietary Fibre,25,g,Target,All phases,AI (USDA DRI),Based on 14g per 1000kcal; prioritised in luteal phase for satiety
+Macronutrient,Added Sugars,50,g,Upper limit,All phases,Dietary Guidelines for Americans 2020-2025,Upper limit not a target (<10% of calories)
+Macronutrient,Saturated Fat,22,g,Upper limit,All phases,Dietary Guidelines for Americans 2020-2025,Upper limit not a target (<10% of calories)
+Micronutrient,Iron,18,mg,RDA,All phases,USDA DRI,Elevated vs male RDA (8mg) due to menstrual losses; most relevant for women with heavy flow
+Micronutrient,Calcium,1000,mg,RDA,All phases,USDA DRI,RCT evidence for PMS symptom reduction; increases to 1200mg for women 51+
+Micronutrient,Magnesium,310,mg,RDA,All phases,USDA DRI,Lower end for women 19-30; 320mg for women 31-50; moderate RCT evidence for PMS and dysmenorrhea
+Micronutrient,Folate,400,µg DFE,RDA,All phases,USDA DRI,Critical for all women of reproductive age
+Micronutrient,Vitamin D,25,µg,Clinical consensus,All phases,Clinical consensus (above USDA RDA of 15µg),Widespread deficiency; supports calcium absorption and mood; equivalent to 1000 IU
+Micronutrient,Vitamin C,75,mg,RDA,All phases,USDA DRI,Enhances non-haem iron absorption; relevant pairing with iron-rich meals
+Micronutrient,Potassium,2600,mg,AI,All phases,USDA DRI,No RDA established; supports bloating and water retention management in luteal phase
+Micronutrient,Sodium,2300,mg,Upper limit,All phases,CDRR (USDA DRI),Upper limit not a target; moderation prioritised in luteal phase

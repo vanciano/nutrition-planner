@@ -1,0 +1,1695 @@
+meal_id,food_name,grams,ingredient_role,is_primary
+MEAL-0177,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0177,"Quinoa, cooked",120.0,grain,false
+MEAL-0177,"Spinach, raw",80.0,veg,false
+MEAL-0178,"Kale, raw",80.0,veg,true
+MEAL-0178,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0178,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0178,"Quinoa, cooked",120.0,grain,false
+MEAL-0179,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0179,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0179,"Quinoa, cooked",120.0,grain,false
+MEAL-0179,"Spinach, raw",80.0,veg,false
+MEAL-0180,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0180,"Quinoa, cooked",120.0,grain,false
+MEAL-0180,"Spinach, raw",80.0,veg,false
+MEAL-0181,"Nuts, raw, cashew nuts",20.0,nut,true
+MEAL-0181,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0181,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0181,"Quinoa, cooked",120.0,grain,false
+MEAL-0181,"Spinach, raw",80.0,veg,false
+MEAL-0182,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0182,"Quinoa, cooked",120.0,grain,false
+MEAL-0182,"Spinach, raw",80.0,veg,false
+MEAL-0183,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0183,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0183,"Quinoa, cooked",120.0,grain,false
+MEAL-0184,"Pasta, cooked, whole-wheat",120.0,grain,true
+MEAL-0184,"Spinach, raw",80.0,veg,false
+MEAL-0184,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0184,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0185,"Lamb, raw, ground",120.0,protein,true
+MEAL-0185,"Quinoa, cooked",120.0,grain,false
+MEAL-0185,"Spinach, raw",80.0,veg,false
+MEAL-0186,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0186,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0186,"Spinach, raw",80.0,veg,false
+MEAL-0187,Oats,120.0,grain,true
+MEAL-0187,"Beets, raw",80.0,veg,false
+MEAL-0187,"Cheese, soft type, goat",30.0,dairy,false
+MEAL-0187,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0188,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0188,"Corn, raw, white, sweet",80.0,veg,false
+MEAL-0188,"Quinoa, cooked",120.0,grain,false
+MEAL-0189,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0189,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0189,"Quinoa, cooked",120.0,grain,false
+MEAL-0189,"Spinach, raw",80.0,veg,false
+MEAL-0190,"Mollusks, raw, Pacific, oyster",90.0,protein,true
+MEAL-0190,"Quinoa, cooked",120.0,grain,false
+MEAL-0190,"Spinach, raw",80.0,veg,false
+MEAL-0191,"Chicken, raw, ground",120.0,protein,true
+MEAL-0191,"Carrots, raw",80.0,veg,false
+MEAL-0191,"Quinoa, cooked",120.0,grain,false
+MEAL-0192,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0192,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0192,"Quinoa, cooked",120.0,grain,false
+MEAL-0192,"Spinach, raw",80.0,veg,false
+MEAL-0193,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0193,"Quinoa, cooked",120.0,grain,false
+MEAL-0194,"Lamb, raw, ground",120.0,protein,true
+MEAL-0194,"Couscous, dry",120.0,grain,false
+MEAL-0194,"Spinach, raw",80.0,veg,false
+MEAL-0195,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0195,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0195,"Spinach, raw",80.0,veg,false
+MEAL-0196,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0196,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0196,"Quinoa, cooked",120.0,grain,false
+MEAL-0196,"Spinach, raw",80.0,veg,false
+MEAL-0197,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0197,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0197,"Bananas, raw",90.0,fruit,false
+MEAL-0197,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0197,Oats,120.0,grain,false
+MEAL-0198,Oats,120.0,grain,true
+MEAL-0198,"Bananas, raw",90.0,fruit,false
+MEAL-0198,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0199,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0199,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0199,"Bananas, raw",90.0,fruit,false
+MEAL-0200,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0200,Oats,120.0,grain,false
+MEAL-0200,"Bananas, raw",90.0,fruit,false
+MEAL-0201,Oats,120.0,grain,true
+MEAL-0201,Millet flour,120.0,grain,false
+MEAL-0201,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0201,"Bananas, raw",90.0,fruit,false
+MEAL-0202,"Buckwheat groats, dry, roasted",120.0,grain,true
+MEAL-0202,"Bananas, raw",90.0,fruit,false
+MEAL-0202,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0203,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0203,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0203,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0204,"Bananas, raw",90.0,fruit,true
+MEAL-0204,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0204,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0204,"Quinoa, cooked",120.0,grain,false
+MEAL-0205,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0205,"Quinoa, cooked",120.0,grain,false
+MEAL-0205,"Spinach, raw",80.0,veg,false
+MEAL-0206,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0206,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0206,"Quinoa, cooked",120.0,grain,false
+MEAL-0206,"Spinach, raw",80.0,veg,false
+MEAL-0207,"Bananas, raw",90.0,fruit,true
+MEAL-0207,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0207,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0207,"Quinoa, cooked",120.0,grain,false
+MEAL-0208,"Nuts, almonds",20.0,nut,true
+MEAL-0208,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0208,"Quinoa, cooked",120.0,grain,false
+MEAL-0208,"Spinach, raw",80.0,veg,false
+MEAL-0209,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,true
+MEAL-0209,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0209,"Quinoa, cooked",120.0,grain,false
+MEAL-0209,"Spinach, raw",80.0,veg,false
+MEAL-0210,"Bananas, raw",90.0,fruit,true
+MEAL-0210,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0210,"Quinoa, cooked",120.0,grain,false
+MEAL-0211,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0211,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0211,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0211,"Quinoa, cooked",120.0,grain,false
+MEAL-0212,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0212,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0212,"Spinach, raw",80.0,veg,false
+MEAL-0213,"Ground turkey, raw",120.0,protein,true
+MEAL-0213,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0213,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0213,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0214,"Barley, hulled",120.0,grain,true
+MEAL-0214,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0214,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0215,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0215,"Quinoa, cooked",120.0,grain,false
+MEAL-0215,"Spinach, raw",80.0,veg,false
+MEAL-0216,"Lentils, raw",150.0,protein_veg,true
+MEAL-0216,"Bread, rye",120.0,grain,false
+MEAL-0216,"Spinach, raw",80.0,veg,false
+MEAL-0217,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0217,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0217,"Spinach, raw",80.0,veg,false
+MEAL-0218,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0218,"Bananas, raw",90.0,fruit,false
+MEAL-0218,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0219,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0219,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0219,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0219,"Quinoa, cooked",120.0,grain,false
+MEAL-0220,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0220,"Fish, raw, pink, salmon",90.0,protein,false
+MEAL-0220,"Broccoli, raw",80.0,veg,false
+MEAL-0221,"Chicken, raw, ground",120.0,protein,true
+MEAL-0221,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0221,"Quinoa, cooked",120.0,grain,false
+MEAL-0221,"Spinach, raw",80.0,veg,false
+MEAL-0222,"Rice, enriched, raw, medium-grain, white",120.0,grain,true
+MEAL-0222,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0222,"Spinach, raw",80.0,veg,false
+MEAL-0223,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0223,"Quinoa, cooked",120.0,grain,false
+MEAL-0223,"Spinach, raw",80.0,veg,false
+MEAL-0224,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0224,"Rice noodles, cooked",120.0,grain,false
+MEAL-0224,"Spinach, raw",80.0,veg,false
+MEAL-0225,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0225,"Spinach, raw",80.0,veg,false
+MEAL-0225,Oats,120.0,grain,false
+MEAL-0226,Oats,120.0,grain,true
+MEAL-0226,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0226,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0226,"Bananas, raw",90.0,fruit,false
+MEAL-0227,"Ginger root, raw",8.0,extra,true
+MEAL-0227,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0227,Oats,120.0,grain,false
+MEAL-0227,"Bananas, raw",90.0,fruit,false
+MEAL-0228,"Lentils, raw",150.0,protein_veg,true
+MEAL-0228,"Spinach, raw",80.0,veg,false
+MEAL-0228,Oats,120.0,grain,false
+MEAL-0229,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0229,"Bread, rye",120.0,grain,false
+MEAL-0229,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0230,"Beets, raw",80.0,veg,true
+MEAL-0230,"Blueberries, raw",90.0,fruit,false
+MEAL-0230,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0230,Oats,120.0,grain,false
+MEAL-0231,"Apricots, raw",90.0,fruit,true
+MEAL-0231,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0231,Oats,120.0,grain,false
+MEAL-0232,"Cocoa, unsweetened, dry powder",8.0,extra,true
+MEAL-0232,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0232,"Quinoa, cooked",120.0,grain,false
+MEAL-0232,"Spinach, raw",80.0,veg,false
+MEAL-0233,"Ginger root, raw",8.0,extra,true
+MEAL-0233,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0233,"Quinoa, cooked",120.0,grain,false
+MEAL-0233,"Spinach, raw",80.0,veg,false
+MEAL-0234,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0234,"Beets, raw",80.0,veg,false
+MEAL-0234,"Quinoa, cooked",120.0,grain,false
+MEAL-0235,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0235,"Quinoa, cooked",120.0,grain,false
+MEAL-0235,"Spinach, raw",80.0,veg,false
+MEAL-0236,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0236,"Quinoa, cooked",120.0,grain,false
+MEAL-0236,"Spinach, raw",80.0,veg,false
+MEAL-0237,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0237,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0237,"Quinoa, cooked",120.0,grain,false
+MEAL-0237,"Spinach, raw",80.0,veg,false
+MEAL-0238,"Spinach, raw",80.0,veg,true
+MEAL-0238,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0238,"Quinoa, cooked",120.0,grain,false
+MEAL-0239,"Lentils, raw",150.0,protein_veg,true
+MEAL-0239,"Kale, raw",80.0,veg,false
+MEAL-0239,"Quinoa, cooked",120.0,grain,false
+MEAL-0240,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0240,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0240,"Spinach, raw",80.0,veg,false
+MEAL-0241,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0241,"Spinach, raw",80.0,veg,false
+MEAL-0241,"Quinoa, cooked",120.0,grain,false
+MEAL-0242,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0242,"Broccoli, raw",80.0,veg,false
+MEAL-0242,"Quinoa, cooked",120.0,grain,false
+MEAL-0243,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",90.0,protein,true
+MEAL-0243,"Quinoa, cooked",120.0,grain,false
+MEAL-0243,"Spinach, raw",80.0,veg,false
+MEAL-0244,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0244,"Quinoa, cooked",120.0,grain,false
+MEAL-0244,"Spinach, raw",80.0,veg,false
+MEAL-0245,"Chicken, raw, all classes, liver",120.0,protein,true
+MEAL-0245,"Bread, rye",120.0,grain,false
+MEAL-0245,"Spinach, raw",80.0,veg,false
+MEAL-0246,"Lamb, raw, ground",120.0,protein,true
+MEAL-0246,"Lentils, raw",150.0,protein_veg,false
+MEAL-0246,"Quinoa, cooked",120.0,grain,false
+MEAL-0246,"Spinach, raw",80.0,veg,false
+MEAL-0247,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0247,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0247,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0247,"Quinoa, cooked",120.0,grain,false
+MEAL-0248,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0248,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0248,"Quinoa, cooked",120.0,grain,false
+MEAL-0248,"Spinach, raw",80.0,veg,false
+MEAL-0249,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0249,"Rice noodles, cooked",120.0,grain,false
+MEAL-0249,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0250,"Chicken, raw, ground",120.0,protein,true
+MEAL-0250,"Chicken, raw, all classes, liver",120.0,protein,false
+MEAL-0250,"Bread, rye",120.0,grain,false
+MEAL-0250,"Spinach, raw",80.0,veg,false
+MEAL-0251,"Game meat, raw, deer",120.0,protein,true
+MEAL-0251,"Beef, raw, ground, grass-fed",120.0,protein,false
+MEAL-0251,"Cabbage, raw",80.0,veg,false
+MEAL-0251,"Quinoa, cooked",120.0,grain,false
+MEAL-0252,"Mollusks, raw, blue, mussel",90.0,protein,true
+MEAL-0252,"Quinoa, cooked",120.0,grain,false
+MEAL-0252,"Spinach, raw",80.0,veg,false
+MEAL-0253,Oats,120.0,grain,true
+MEAL-0253,"Blueberries, raw",90.0,fruit,false
+MEAL-0253,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0254,"Ground turkey, raw",120.0,protein,true
+MEAL-0254,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0254,Oats,120.0,grain,false
+MEAL-0254,"Bananas, raw",90.0,fruit,false
+MEAL-0255,"Blueberries, raw",90.0,fruit,true
+MEAL-0255,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0255,Oats,120.0,grain,false
+MEAL-0256,Oats,120.0,grain,true
+MEAL-0256,"Quinoa, cooked",120.0,grain,false
+MEAL-0256,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0256,"Bananas, raw",90.0,fruit,false
+MEAL-0257,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0257,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0257,Oats,120.0,grain,false
+MEAL-0257,"Bananas, raw",90.0,fruit,false
+MEAL-0258,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0258,Oats,120.0,grain,false
+MEAL-0258,"Bananas, raw",90.0,fruit,false
+MEAL-0259,"Cheese, with vegetables, cottage",150.0,dairy,true
+MEAL-0259,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0259,Oats,120.0,grain,false
+MEAL-0259,"Bananas, raw",90.0,fruit,false
+MEAL-0260,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0260,"Tomatoes, raw, green",80.0,veg,false
+MEAL-0260,"Quinoa, cooked",120.0,grain,false
+MEAL-0261,"Blueberries, raw",90.0,fruit,true
+MEAL-0261,"Nuts, almonds",20.0,nut,false
+MEAL-0261,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0261,"Quinoa, cooked",120.0,grain,false
+MEAL-0262,"Chicken, raw, ground",120.0,protein,true
+MEAL-0262,"Quinoa, cooked",120.0,grain,false
+MEAL-0262,"Spinach, raw",80.0,veg,false
+MEAL-0350,"Spinach, raw",80.0,veg,true
+MEAL-0350,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0350,"Quinoa, cooked",120.0,grain,false
+MEAL-0351,"Lentils, raw",150.0,protein_veg,true
+MEAL-0351,"Kale, raw",80.0,veg,false
+MEAL-0351,"Quinoa, cooked",120.0,grain,false
+MEAL-0352,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0352,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0352,"Spinach, raw",80.0,veg,false
+MEAL-0353,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0353,"Spinach, raw",80.0,veg,false
+MEAL-0353,"Quinoa, cooked",120.0,grain,false
+MEAL-0354,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0354,"Broccoli, raw",80.0,veg,false
+MEAL-0354,"Quinoa, cooked",120.0,grain,false
+MEAL-0355,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",90.0,protein,true
+MEAL-0355,"Quinoa, cooked",120.0,grain,false
+MEAL-0355,"Spinach, raw",80.0,veg,false
+MEAL-0356,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0356,"Quinoa, cooked",120.0,grain,false
+MEAL-0356,"Spinach, raw",80.0,veg,false
+MEAL-0357,"Chicken, raw, all classes, liver",120.0,protein,true
+MEAL-0357,"Bread, rye",120.0,grain,false
+MEAL-0357,"Spinach, raw",80.0,veg,false
+MEAL-0358,"Lamb, raw, ground",120.0,protein,true
+MEAL-0358,"Lentils, raw",150.0,protein_veg,false
+MEAL-0358,"Quinoa, cooked",120.0,grain,false
+MEAL-0358,"Spinach, raw",80.0,veg,false
+MEAL-0359,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0359,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0359,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0359,"Quinoa, cooked",120.0,grain,false
+MEAL-0360,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0360,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0360,"Quinoa, cooked",120.0,grain,false
+MEAL-0360,"Spinach, raw",80.0,veg,false
+MEAL-0361,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0361,"Rice noodles, cooked",120.0,grain,false
+MEAL-0361,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0362,"Chicken, raw, ground",120.0,protein,true
+MEAL-0362,"Chicken, raw, all classes, liver",120.0,protein,false
+MEAL-0362,"Bread, rye",120.0,grain,false
+MEAL-0362,"Spinach, raw",80.0,veg,false
+MEAL-0363,"Game meat, raw, deer",120.0,protein,true
+MEAL-0363,"Beef, raw, ground, grass-fed",120.0,protein,false
+MEAL-0363,"Cabbage, raw",80.0,veg,false
+MEAL-0363,"Quinoa, cooked",120.0,grain,false
+MEAL-0364,"Mollusks, raw, blue, mussel",90.0,protein,true
+MEAL-0364,"Quinoa, cooked",120.0,grain,false
+MEAL-0364,"Spinach, raw",80.0,veg,false
+MEAL-0365,Oats,120.0,grain,true
+MEAL-0365,"Blueberries, raw",90.0,fruit,false
+MEAL-0365,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0366,"Ground turkey, raw",120.0,protein,true
+MEAL-0366,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0366,Oats,120.0,grain,false
+MEAL-0366,"Bananas, raw",90.0,fruit,false
+MEAL-0367,"Blueberries, raw",90.0,fruit,true
+MEAL-0367,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0367,Oats,120.0,grain,false
+MEAL-0368,Oats,120.0,grain,true
+MEAL-0368,"Quinoa, cooked",120.0,grain,false
+MEAL-0368,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0368,"Bananas, raw",90.0,fruit,false
+MEAL-0369,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0369,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0369,Oats,120.0,grain,false
+MEAL-0369,"Bananas, raw",90.0,fruit,false
+MEAL-0370,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0370,Oats,120.0,grain,false
+MEAL-0370,"Bananas, raw",90.0,fruit,false
+MEAL-0371,"Cheese, with vegetables, cottage",150.0,dairy,true
+MEAL-0371,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0371,Oats,120.0,grain,false
+MEAL-0371,"Bananas, raw",90.0,fruit,false
+MEAL-0372,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0372,"Tomatoes, raw, green",80.0,veg,false
+MEAL-0372,"Quinoa, cooked",120.0,grain,false
+MEAL-0373,"Blueberries, raw",90.0,fruit,true
+MEAL-0373,"Nuts, almonds",20.0,nut,false
+MEAL-0373,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0373,"Quinoa, cooked",120.0,grain,false
+MEAL-0374,"Chicken, raw, ground",120.0,protein,true
+MEAL-0374,"Quinoa, cooked",120.0,grain,false
+MEAL-0374,"Spinach, raw",80.0,veg,false
+MEAL-0375,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0375,"Quinoa, cooked",120.0,grain,false
+MEAL-0375,"Spinach, raw",80.0,veg,false
+MEAL-0376,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0376,"Quinoa, cooked",120.0,grain,false
+MEAL-0376,"Spinach, raw",80.0,veg,false
+MEAL-0377,"Ground turkey, raw",120.0,protein,true
+MEAL-0377,"Quinoa, cooked",120.0,grain,false
+MEAL-0377,"Spinach, raw",80.0,veg,false
+MEAL-0378,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0378,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0378,"Spinach, raw",80.0,veg,false
+MEAL-0379,"Chicken, raw, ground",120.0,protein,true
+MEAL-0379,"Quinoa, cooked",120.0,grain,false
+MEAL-0379,"Spinach, raw",80.0,veg,false
+MEAL-0380,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0380,"Quinoa, cooked",120.0,grain,false
+MEAL-0380,"Spinach, raw",80.0,veg,false
+MEAL-0381,"Ground turkey, raw",120.0,protein,true
+MEAL-0381,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0381,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0382,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0382,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0382,"Spinach, raw",80.0,veg,false
+MEAL-0383,"Chicken, raw, ground",120.0,protein,true
+MEAL-0383,"Cheese, hard, parmesan",30.0,dairy,false
+MEAL-0383,"Quinoa, cooked",120.0,grain,false
+MEAL-0383,"Spinach, raw",80.0,veg,false
+MEAL-0384,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0384,"Rice noodles, cooked",120.0,grain,false
+MEAL-0384,"Spinach, raw",80.0,veg,false
+MEAL-0385,"Chicken, raw, ground",120.0,protein,true
+MEAL-0385,"Quinoa, cooked",120.0,grain,false
+MEAL-0385,"Spinach, raw",80.0,veg,false
+MEAL-0386,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0386,"Asparagus, raw",80.0,veg,false
+MEAL-0386,"Quinoa, cooked",120.0,grain,false
+MEAL-0387,"Chicken, raw, ground",120.0,protein,true
+MEAL-0387,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0387,"Quinoa, cooked",120.0,grain,false
+MEAL-0387,"Spinach, raw",80.0,veg,false
+MEAL-0388,"Fish, raw, Atlantic, cod",90.0,protein,true
+MEAL-0388,"Couscous, dry",120.0,grain,false
+MEAL-0388,"Spinach, raw",80.0,veg,false
+MEAL-0389,"Ground turkey, raw",120.0,protein,true
+MEAL-0389,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0389,"Spinach, raw",80.0,veg,false
+MEAL-0390,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0390,"Quinoa, cooked",120.0,grain,false
+MEAL-0390,"Spinach, raw",80.0,veg,false
+MEAL-0391,"Chicken, raw, ground",120.0,protein,true
+MEAL-0391,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0391,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0391,"Quinoa, cooked",120.0,grain,false
+MEAL-0392,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0392,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0392,"Spinach, raw",80.0,veg,false
+MEAL-0393,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0393,Oats,120.0,grain,false
+MEAL-0393,"Bananas, raw",90.0,fruit,false
+MEAL-0394,"Bread, rye",120.0,grain,true
+MEAL-0394,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0394,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0394,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0395,Oats,120.0,grain,true
+MEAL-0395,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0395,"Bananas, raw",90.0,fruit,false
+MEAL-0396,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0396,"Bagels, wheat",120.0,grain,false
+MEAL-0396,"Bananas, raw",90.0,fruit,false
+MEAL-0397,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0397,"Spinach, raw",80.0,veg,false
+MEAL-0397,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0397,Oats,120.0,grain,false
+MEAL-0398,"Bread, rye",120.0,grain,true
+MEAL-0398,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0398,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0398,"Bananas, raw",90.0,fruit,false
+MEAL-0399,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0399,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0399,Oats,120.0,grain,false
+MEAL-0399,"Bananas, raw",90.0,fruit,false
+MEAL-0400,"Mushrooms, raw, white",80.0,veg,true
+MEAL-0400,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0400,"Quinoa, cooked",120.0,grain,false
+MEAL-0401,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0401,"Quinoa, cooked",120.0,grain,false
+MEAL-0401,"Spinach, raw",80.0,veg,false
+MEAL-0402,"Kale, raw",80.0,veg,true
+MEAL-0402,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0402,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0402,"Quinoa, cooked",120.0,grain,false
+MEAL-0403,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0403,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0403,"Quinoa, cooked",120.0,grain,false
+MEAL-0403,"Spinach, raw",80.0,veg,false
+MEAL-0404,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0404,"Quinoa, cooked",120.0,grain,false
+MEAL-0404,"Spinach, raw",80.0,veg,false
+MEAL-0405,"Nuts, raw, cashew nuts",20.0,nut,true
+MEAL-0405,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0405,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0405,"Quinoa, cooked",120.0,grain,false
+MEAL-0405,"Spinach, raw",80.0,veg,false
+MEAL-0406,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0406,"Quinoa, cooked",120.0,grain,false
+MEAL-0406,"Spinach, raw",80.0,veg,false
+MEAL-0407,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0407,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0407,"Quinoa, cooked",120.0,grain,false
+MEAL-0408,"Pasta, cooked, whole-wheat",120.0,grain,true
+MEAL-0408,"Spinach, raw",80.0,veg,false
+MEAL-0408,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0408,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0409,"Lamb, raw, ground",120.0,protein,true
+MEAL-0409,"Quinoa, cooked",120.0,grain,false
+MEAL-0409,"Spinach, raw",80.0,veg,false
+MEAL-0410,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0410,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0410,"Spinach, raw",80.0,veg,false
+MEAL-0411,Oats,120.0,grain,true
+MEAL-0411,"Beets, raw",80.0,veg,false
+MEAL-0411,"Cheese, soft type, goat",30.0,dairy,false
+MEAL-0411,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0412,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0412,"Corn, raw, white, sweet",80.0,veg,false
+MEAL-0412,"Quinoa, cooked",120.0,grain,false
+MEAL-0413,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0413,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0413,"Quinoa, cooked",120.0,grain,false
+MEAL-0413,"Spinach, raw",80.0,veg,false
+MEAL-0414,"Mollusks, raw, Pacific, oyster",90.0,protein,true
+MEAL-0414,"Quinoa, cooked",120.0,grain,false
+MEAL-0414,"Spinach, raw",80.0,veg,false
+MEAL-0415,"Chicken, raw, ground",120.0,protein,true
+MEAL-0415,"Carrots, raw",80.0,veg,false
+MEAL-0415,"Quinoa, cooked",120.0,grain,false
+MEAL-0416,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0416,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0416,"Quinoa, cooked",120.0,grain,false
+MEAL-0416,"Spinach, raw",80.0,veg,false
+MEAL-0417,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0417,"Quinoa, cooked",120.0,grain,false
+MEAL-0418,"Lamb, raw, ground",120.0,protein,true
+MEAL-0418,"Couscous, dry",120.0,grain,false
+MEAL-0418,"Spinach, raw",80.0,veg,false
+MEAL-0419,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0419,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0419,"Spinach, raw",80.0,veg,false
+MEAL-0420,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0420,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0420,"Quinoa, cooked",120.0,grain,false
+MEAL-0420,"Spinach, raw",80.0,veg,false
+MEAL-0421,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0421,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0421,"Bananas, raw",90.0,fruit,false
+MEAL-0421,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0421,Oats,120.0,grain,false
+MEAL-0422,Oats,120.0,grain,true
+MEAL-0422,"Bananas, raw",90.0,fruit,false
+MEAL-0422,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0423,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0423,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0423,"Bananas, raw",90.0,fruit,false
+MEAL-0424,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0424,Oats,120.0,grain,false
+MEAL-0424,"Bananas, raw",90.0,fruit,false
+MEAL-0425,Oats,120.0,grain,true
+MEAL-0425,Millet flour,120.0,grain,false
+MEAL-0425,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0425,"Bananas, raw",90.0,fruit,false
+MEAL-0426,"Buckwheat groats, dry, roasted",120.0,grain,true
+MEAL-0426,"Bananas, raw",90.0,fruit,false
+MEAL-0426,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0427,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0427,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0427,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0428,"Bananas, raw",90.0,fruit,true
+MEAL-0428,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0428,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0428,"Quinoa, cooked",120.0,grain,false
+MEAL-0429,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0429,"Quinoa, cooked",120.0,grain,false
+MEAL-0429,"Spinach, raw",80.0,veg,false
+MEAL-0430,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0430,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0430,"Quinoa, cooked",120.0,grain,false
+MEAL-0430,"Spinach, raw",80.0,veg,false
+MEAL-0431,"Bananas, raw",90.0,fruit,true
+MEAL-0431,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0431,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0431,"Quinoa, cooked",120.0,grain,false
+MEAL-0432,"Nuts, almonds",20.0,nut,true
+MEAL-0432,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0432,"Quinoa, cooked",120.0,grain,false
+MEAL-0432,"Spinach, raw",80.0,veg,false
+MEAL-0433,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,true
+MEAL-0433,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0433,"Quinoa, cooked",120.0,grain,false
+MEAL-0433,"Spinach, raw",80.0,veg,false
+MEAL-0434,"Bananas, raw",90.0,fruit,true
+MEAL-0434,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0434,"Quinoa, cooked",120.0,grain,false
+MEAL-0435,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0435,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0435,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0435,"Quinoa, cooked",120.0,grain,false
+MEAL-0436,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0436,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0436,"Spinach, raw",80.0,veg,false
+MEAL-0437,"Ground turkey, raw",120.0,protein,true
+MEAL-0437,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0001,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0001,"Spinach, raw",80.0,veg,false
+MEAL-0001,Oats,120.0,grain,false
+MEAL-0002,Oats,120.0,grain,true
+MEAL-0002,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0002,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0002,"Bananas, raw",90.0,fruit,false
+MEAL-0003,"Ginger root, raw",8.0,extra,true
+MEAL-0003,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0003,Oats,120.0,grain,false
+MEAL-0003,"Bananas, raw",90.0,fruit,false
+MEAL-0004,"Lentils, raw",150.0,protein_veg,true
+MEAL-0004,"Spinach, raw",80.0,veg,false
+MEAL-0004,Oats,120.0,grain,false
+MEAL-0005,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0005,"Bread, rye",120.0,grain,false
+MEAL-0005,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0006,"Beets, raw",80.0,veg,true
+MEAL-0006,"Blueberries, raw",90.0,fruit,false
+MEAL-0006,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0006,Oats,120.0,grain,false
+MEAL-0007,"Apricots, raw",90.0,fruit,true
+MEAL-0007,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0007,Oats,120.0,grain,false
+MEAL-0008,"Cocoa, unsweetened, dry powder",8.0,extra,true
+MEAL-0008,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0008,"Quinoa, cooked",120.0,grain,false
+MEAL-0008,"Spinach, raw",80.0,veg,false
+MEAL-0009,"Ginger root, raw",8.0,extra,true
+MEAL-0009,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0009,"Quinoa, cooked",120.0,grain,false
+MEAL-0009,"Spinach, raw",80.0,veg,false
+MEAL-0010,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0010,"Beets, raw",80.0,veg,false
+MEAL-0010,"Quinoa, cooked",120.0,grain,false
+MEAL-0011,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0011,"Quinoa, cooked",120.0,grain,false
+MEAL-0011,"Spinach, raw",80.0,veg,false
+MEAL-0012,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0012,"Quinoa, cooked",120.0,grain,false
+MEAL-0012,"Spinach, raw",80.0,veg,false
+MEAL-0013,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0013,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0013,"Quinoa, cooked",120.0,grain,false
+MEAL-0013,"Spinach, raw",80.0,veg,false
+MEAL-0014,"Spinach, raw",80.0,veg,true
+MEAL-0014,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0014,"Quinoa, cooked",120.0,grain,false
+MEAL-0015,"Lentils, raw",150.0,protein_veg,true
+MEAL-0015,"Kale, raw",80.0,veg,false
+MEAL-0015,"Quinoa, cooked",120.0,grain,false
+MEAL-0016,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0016,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0016,"Spinach, raw",80.0,veg,false
+MEAL-0017,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0017,"Spinach, raw",80.0,veg,false
+MEAL-0017,"Quinoa, cooked",120.0,grain,false
+MEAL-0018,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0018,"Broccoli, raw",80.0,veg,false
+MEAL-0018,"Quinoa, cooked",120.0,grain,false
+MEAL-0019,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",90.0,protein,true
+MEAL-0019,"Quinoa, cooked",120.0,grain,false
+MEAL-0019,"Spinach, raw",80.0,veg,false
+MEAL-0020,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0020,"Quinoa, cooked",120.0,grain,false
+MEAL-0020,"Spinach, raw",80.0,veg,false
+MEAL-0021,"Chicken, raw, all classes, liver",120.0,protein,true
+MEAL-0021,"Bread, rye",120.0,grain,false
+MEAL-0021,"Spinach, raw",80.0,veg,false
+MEAL-0022,"Lamb, raw, ground",120.0,protein,true
+MEAL-0022,"Lentils, raw",150.0,protein_veg,false
+MEAL-0022,"Quinoa, cooked",120.0,grain,false
+MEAL-0022,"Spinach, raw",80.0,veg,false
+MEAL-0023,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0023,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0023,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0023,"Quinoa, cooked",120.0,grain,false
+MEAL-0024,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0024,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0024,"Quinoa, cooked",120.0,grain,false
+MEAL-0024,"Spinach, raw",80.0,veg,false
+MEAL-0025,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0025,"Rice noodles, cooked",120.0,grain,false
+MEAL-0025,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0026,"Chicken, raw, ground",120.0,protein,true
+MEAL-0026,"Chicken, raw, all classes, liver",120.0,protein,false
+MEAL-0026,"Bread, rye",120.0,grain,false
+MEAL-0026,"Spinach, raw",80.0,veg,false
+MEAL-0027,"Game meat, raw, deer",120.0,protein,true
+MEAL-0027,"Beef, raw, ground, grass-fed",120.0,protein,false
+MEAL-0027,"Cabbage, raw",80.0,veg,false
+MEAL-0027,"Quinoa, cooked",120.0,grain,false
+MEAL-0028,"Mollusks, raw, blue, mussel",90.0,protein,true
+MEAL-0028,"Quinoa, cooked",120.0,grain,false
+MEAL-0028,"Spinach, raw",80.0,veg,false
+MEAL-0029,Oats,120.0,grain,true
+MEAL-0029,"Blueberries, raw",90.0,fruit,false
+MEAL-0029,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0030,"Ground turkey, raw",120.0,protein,true
+MEAL-0030,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0030,Oats,120.0,grain,false
+MEAL-0030,"Bananas, raw",90.0,fruit,false
+MEAL-0031,"Blueberries, raw",90.0,fruit,true
+MEAL-0031,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0031,Oats,120.0,grain,false
+MEAL-0032,Oats,120.0,grain,true
+MEAL-0032,"Quinoa, cooked",120.0,grain,false
+MEAL-0032,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0032,"Bananas, raw",90.0,fruit,false
+MEAL-0033,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0033,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0033,Oats,120.0,grain,false
+MEAL-0033,"Bananas, raw",90.0,fruit,false
+MEAL-0034,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0034,Oats,120.0,grain,false
+MEAL-0034,"Bananas, raw",90.0,fruit,false
+MEAL-0035,"Cheese, with vegetables, cottage",150.0,dairy,true
+MEAL-0035,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0035,Oats,120.0,grain,false
+MEAL-0035,"Bananas, raw",90.0,fruit,false
+MEAL-0036,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0036,"Tomatoes, raw, green",80.0,veg,false
+MEAL-0036,"Quinoa, cooked",120.0,grain,false
+MEAL-0037,"Blueberries, raw",90.0,fruit,true
+MEAL-0037,"Nuts, almonds",20.0,nut,false
+MEAL-0037,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0037,"Quinoa, cooked",120.0,grain,false
+MEAL-0038,"Chicken, raw, ground",120.0,protein,true
+MEAL-0038,"Quinoa, cooked",120.0,grain,false
+MEAL-0038,"Spinach, raw",80.0,veg,false
+MEAL-0039,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0039,"Quinoa, cooked",120.0,grain,false
+MEAL-0039,"Spinach, raw",80.0,veg,false
+MEAL-0040,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0040,"Quinoa, cooked",120.0,grain,false
+MEAL-0040,"Spinach, raw",80.0,veg,false
+MEAL-0041,"Ground turkey, raw",120.0,protein,true
+MEAL-0041,"Quinoa, cooked",120.0,grain,false
+MEAL-0041,"Spinach, raw",80.0,veg,false
+MEAL-0042,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0042,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0042,"Spinach, raw",80.0,veg,false
+MEAL-0043,"Chicken, raw, ground",120.0,protein,true
+MEAL-0043,"Quinoa, cooked",120.0,grain,false
+MEAL-0043,"Spinach, raw",80.0,veg,false
+MEAL-0044,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0044,"Quinoa, cooked",120.0,grain,false
+MEAL-0044,"Spinach, raw",80.0,veg,false
+MEAL-0045,"Ground turkey, raw",120.0,protein,true
+MEAL-0045,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0045,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0046,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0046,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0046,"Spinach, raw",80.0,veg,false
+MEAL-0047,"Chicken, raw, ground",120.0,protein,true
+MEAL-0047,"Cheese, hard, parmesan",30.0,dairy,false
+MEAL-0047,"Quinoa, cooked",120.0,grain,false
+MEAL-0047,"Spinach, raw",80.0,veg,false
+MEAL-0048,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0048,"Rice noodles, cooked",120.0,grain,false
+MEAL-0048,"Spinach, raw",80.0,veg,false
+MEAL-0049,"Chicken, raw, ground",120.0,protein,true
+MEAL-0049,"Quinoa, cooked",120.0,grain,false
+MEAL-0049,"Spinach, raw",80.0,veg,false
+MEAL-0050,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0050,"Asparagus, raw",80.0,veg,false
+MEAL-0050,"Quinoa, cooked",120.0,grain,false
+MEAL-0051,"Chicken, raw, ground",120.0,protein,true
+MEAL-0051,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0051,"Quinoa, cooked",120.0,grain,false
+MEAL-0051,"Spinach, raw",80.0,veg,false
+MEAL-0052,"Fish, raw, Atlantic, cod",90.0,protein,true
+MEAL-0052,"Couscous, dry",120.0,grain,false
+MEAL-0052,"Spinach, raw",80.0,veg,false
+MEAL-0053,"Ground turkey, raw",120.0,protein,true
+MEAL-0053,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0053,"Spinach, raw",80.0,veg,false
+MEAL-0054,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0054,"Quinoa, cooked",120.0,grain,false
+MEAL-0054,"Spinach, raw",80.0,veg,false
+MEAL-0055,"Chicken, raw, ground",120.0,protein,true
+MEAL-0055,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0055,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0055,"Quinoa, cooked",120.0,grain,false
+MEAL-0056,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0056,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0056,"Spinach, raw",80.0,veg,false
+MEAL-0057,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0057,Oats,120.0,grain,false
+MEAL-0057,"Bananas, raw",90.0,fruit,false
+MEAL-0058,"Bread, rye",120.0,grain,true
+MEAL-0058,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0058,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0058,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0059,Oats,120.0,grain,true
+MEAL-0059,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0059,"Bananas, raw",90.0,fruit,false
+MEAL-0060,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0060,"Bagels, wheat",120.0,grain,false
+MEAL-0060,"Bananas, raw",90.0,fruit,false
+MEAL-0061,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0061,"Spinach, raw",80.0,veg,false
+MEAL-0061,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0061,Oats,120.0,grain,false
+MEAL-0062,"Bread, rye",120.0,grain,true
+MEAL-0062,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0062,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0062,"Bananas, raw",90.0,fruit,false
+MEAL-0063,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0063,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0063,Oats,120.0,grain,false
+MEAL-0063,"Bananas, raw",90.0,fruit,false
+MEAL-0064,"Mushrooms, raw, white",80.0,veg,true
+MEAL-0064,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0064,"Quinoa, cooked",120.0,grain,false
+MEAL-0065,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0065,"Quinoa, cooked",120.0,grain,false
+MEAL-0065,"Spinach, raw",80.0,veg,false
+MEAL-0066,"Kale, raw",80.0,veg,true
+MEAL-0066,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0066,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0066,"Quinoa, cooked",120.0,grain,false
+MEAL-0067,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0067,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0067,"Quinoa, cooked",120.0,grain,false
+MEAL-0067,"Spinach, raw",80.0,veg,false
+MEAL-0068,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0068,"Quinoa, cooked",120.0,grain,false
+MEAL-0068,"Spinach, raw",80.0,veg,false
+MEAL-0069,"Nuts, raw, cashew nuts",20.0,nut,true
+MEAL-0069,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0069,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0069,"Quinoa, cooked",120.0,grain,false
+MEAL-0069,"Spinach, raw",80.0,veg,false
+MEAL-0070,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0070,"Quinoa, cooked",120.0,grain,false
+MEAL-0070,"Spinach, raw",80.0,veg,false
+MEAL-0071,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0071,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0071,"Quinoa, cooked",120.0,grain,false
+MEAL-0072,"Pasta, cooked, whole-wheat",120.0,grain,true
+MEAL-0072,"Spinach, raw",80.0,veg,false
+MEAL-0072,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0072,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0073,"Lamb, raw, ground",120.0,protein,true
+MEAL-0073,"Quinoa, cooked",120.0,grain,false
+MEAL-0073,"Spinach, raw",80.0,veg,false
+MEAL-0074,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0074,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0074,"Spinach, raw",80.0,veg,false
+MEAL-0075,Oats,120.0,grain,true
+MEAL-0075,"Beets, raw",80.0,veg,false
+MEAL-0075,"Cheese, soft type, goat",30.0,dairy,false
+MEAL-0075,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0076,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0076,"Corn, raw, white, sweet",80.0,veg,false
+MEAL-0076,"Quinoa, cooked",120.0,grain,false
+MEAL-0077,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0077,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0077,"Quinoa, cooked",120.0,grain,false
+MEAL-0077,"Spinach, raw",80.0,veg,false
+MEAL-0078,"Mollusks, raw, Pacific, oyster",90.0,protein,true
+MEAL-0078,"Quinoa, cooked",120.0,grain,false
+MEAL-0078,"Spinach, raw",80.0,veg,false
+MEAL-0079,"Chicken, raw, ground",120.0,protein,true
+MEAL-0079,"Carrots, raw",80.0,veg,false
+MEAL-0079,"Quinoa, cooked",120.0,grain,false
+MEAL-0080,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0080,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0080,"Quinoa, cooked",120.0,grain,false
+MEAL-0080,"Spinach, raw",80.0,veg,false
+MEAL-0081,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0081,"Quinoa, cooked",120.0,grain,false
+MEAL-0082,"Lamb, raw, ground",120.0,protein,true
+MEAL-0082,"Couscous, dry",120.0,grain,false
+MEAL-0082,"Spinach, raw",80.0,veg,false
+MEAL-0083,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0083,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0083,"Spinach, raw",80.0,veg,false
+MEAL-0084,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0084,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0084,"Quinoa, cooked",120.0,grain,false
+MEAL-0084,"Spinach, raw",80.0,veg,false
+MEAL-0085,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0085,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0085,"Bananas, raw",90.0,fruit,false
+MEAL-0085,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0085,Oats,120.0,grain,false
+MEAL-0086,Oats,120.0,grain,true
+MEAL-0086,"Bananas, raw",90.0,fruit,false
+MEAL-0086,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0087,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0087,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0087,"Bananas, raw",90.0,fruit,false
+MEAL-0088,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0088,Oats,120.0,grain,false
+MEAL-0088,"Bananas, raw",90.0,fruit,false
+MEAL-0089,Oats,120.0,grain,true
+MEAL-0437,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0437,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0438,"Barley, hulled",120.0,grain,true
+MEAL-0438,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0438,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0439,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0439,"Quinoa, cooked",120.0,grain,false
+MEAL-0439,"Spinach, raw",80.0,veg,false
+MEAL-0440,"Lentils, raw",150.0,protein_veg,true
+MEAL-0440,"Bread, rye",120.0,grain,false
+MEAL-0440,"Spinach, raw",80.0,veg,false
+MEAL-0441,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0441,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0441,"Spinach, raw",80.0,veg,false
+MEAL-0442,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0442,"Bananas, raw",90.0,fruit,false
+MEAL-0442,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0443,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0443,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0443,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0443,"Quinoa, cooked",120.0,grain,false
+MEAL-0444,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0444,"Fish, raw, pink, salmon",90.0,protein,false
+MEAL-0444,"Broccoli, raw",80.0,veg,false
+MEAL-0445,"Chicken, raw, ground",120.0,protein,true
+MEAL-0445,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0445,"Quinoa, cooked",120.0,grain,false
+MEAL-0445,"Spinach, raw",80.0,veg,false
+MEAL-0446,"Rice, enriched, raw, medium-grain, white",120.0,grain,true
+MEAL-0446,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0446,"Spinach, raw",80.0,veg,false
+MEAL-0447,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0447,"Quinoa, cooked",120.0,grain,false
+MEAL-0447,"Spinach, raw",80.0,veg,false
+MEAL-0448,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0448,"Rice noodles, cooked",120.0,grain,false
+MEAL-0448,"Spinach, raw",80.0,veg,false
+MEAL-0449,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0449,"Spinach, raw",80.0,veg,false
+MEAL-0449,Oats,120.0,grain,false
+MEAL-0450,Oats,120.0,grain,true
+MEAL-0450,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0450,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0450,"Bananas, raw",90.0,fruit,false
+MEAL-0451,"Ginger root, raw",8.0,extra,true
+MEAL-0451,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0451,Oats,120.0,grain,false
+MEAL-0451,"Bananas, raw",90.0,fruit,false
+MEAL-0452,"Lentils, raw",150.0,protein_veg,true
+MEAL-0452,"Spinach, raw",80.0,veg,false
+MEAL-0452,Oats,120.0,grain,false
+MEAL-0453,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0453,"Bread, rye",120.0,grain,false
+MEAL-0453,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0454,"Beets, raw",80.0,veg,true
+MEAL-0454,"Blueberries, raw",90.0,fruit,false
+MEAL-0454,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0454,Oats,120.0,grain,false
+MEAL-0455,"Apricots, raw",90.0,fruit,true
+MEAL-0455,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0455,Oats,120.0,grain,false
+MEAL-0456,"Cocoa, unsweetened, dry powder",8.0,extra,true
+MEAL-0456,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0456,"Quinoa, cooked",120.0,grain,false
+MEAL-0456,"Spinach, raw",80.0,veg,false
+MEAL-0457,"Ginger root, raw",8.0,extra,true
+MEAL-0457,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0457,"Quinoa, cooked",120.0,grain,false
+MEAL-0457,"Spinach, raw",80.0,veg,false
+MEAL-0458,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0458,"Beets, raw",80.0,veg,false
+MEAL-0458,"Quinoa, cooked",120.0,grain,false
+MEAL-0459,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0459,"Quinoa, cooked",120.0,grain,false
+MEAL-0459,"Spinach, raw",80.0,veg,false
+MEAL-0460,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0460,"Quinoa, cooked",120.0,grain,false
+MEAL-0460,"Spinach, raw",80.0,veg,false
+MEAL-0461,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0461,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0461,"Quinoa, cooked",120.0,grain,false
+MEAL-0461,"Spinach, raw",80.0,veg,false
+MEAL-0462,"Spinach, raw",80.0,veg,true
+MEAL-0462,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0462,"Quinoa, cooked",120.0,grain,false
+MEAL-0463,"Lentils, raw",150.0,protein_veg,true
+MEAL-0463,"Kale, raw",80.0,veg,false
+MEAL-0463,"Quinoa, cooked",120.0,grain,false
+MEAL-0464,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0464,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0464,"Spinach, raw",80.0,veg,false
+MEAL-0465,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0465,"Spinach, raw",80.0,veg,false
+MEAL-0465,"Quinoa, cooked",120.0,grain,false
+MEAL-0466,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0466,"Broccoli, raw",80.0,veg,false
+MEAL-0466,"Quinoa, cooked",120.0,grain,false
+MEAL-0467,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",90.0,protein,true
+MEAL-0467,"Quinoa, cooked",120.0,grain,false
+MEAL-0467,"Spinach, raw",80.0,veg,false
+MEAL-0468,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0468,"Quinoa, cooked",120.0,grain,false
+MEAL-0468,"Spinach, raw",80.0,veg,false
+MEAL-0469,"Chicken, raw, all classes, liver",120.0,protein,true
+MEAL-0469,"Bread, rye",120.0,grain,false
+MEAL-0469,"Spinach, raw",80.0,veg,false
+MEAL-0470,"Lamb, raw, ground",120.0,protein,true
+MEAL-0470,"Lentils, raw",150.0,protein_veg,false
+MEAL-0470,"Quinoa, cooked",120.0,grain,false
+MEAL-0470,"Spinach, raw",80.0,veg,false
+MEAL-0471,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0471,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0471,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0471,"Quinoa, cooked",120.0,grain,false
+MEAL-0472,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0472,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0472,"Quinoa, cooked",120.0,grain,false
+MEAL-0472,"Spinach, raw",80.0,veg,false
+MEAL-0473,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0473,"Rice noodles, cooked",120.0,grain,false
+MEAL-0473,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0474,"Chicken, raw, ground",120.0,protein,true
+MEAL-0474,"Chicken, raw, all classes, liver",120.0,protein,false
+MEAL-0474,"Bread, rye",120.0,grain,false
+MEAL-0474,"Spinach, raw",80.0,veg,false
+MEAL-0475,"Game meat, raw, deer",120.0,protein,true
+MEAL-0475,"Beef, raw, ground, grass-fed",120.0,protein,false
+MEAL-0475,"Cabbage, raw",80.0,veg,false
+MEAL-0475,"Quinoa, cooked",120.0,grain,false
+MEAL-0476,"Mollusks, raw, blue, mussel",90.0,protein,true
+MEAL-0476,"Quinoa, cooked",120.0,grain,false
+MEAL-0476,"Spinach, raw",80.0,veg,false
+MEAL-0477,Oats,120.0,grain,true
+MEAL-0477,"Blueberries, raw",90.0,fruit,false
+MEAL-0477,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0478,"Ground turkey, raw",120.0,protein,true
+MEAL-0478,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0478,Oats,120.0,grain,false
+MEAL-0478,"Bananas, raw",90.0,fruit,false
+MEAL-0479,"Blueberries, raw",90.0,fruit,true
+MEAL-0479,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0479,Oats,120.0,grain,false
+MEAL-0480,Oats,120.0,grain,true
+MEAL-0480,"Quinoa, cooked",120.0,grain,false
+MEAL-0480,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0480,"Bananas, raw",90.0,fruit,false
+MEAL-0481,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0481,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0481,Oats,120.0,grain,false
+MEAL-0481,"Bananas, raw",90.0,fruit,false
+MEAL-0482,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0482,Oats,120.0,grain,false
+MEAL-0482,"Bananas, raw",90.0,fruit,false
+MEAL-0483,"Cheese, with vegetables, cottage",150.0,dairy,true
+MEAL-0483,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0483,Oats,120.0,grain,false
+MEAL-0483,"Bananas, raw",90.0,fruit,false
+MEAL-0484,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0484,"Tomatoes, raw, green",80.0,veg,false
+MEAL-0484,"Quinoa, cooked",120.0,grain,false
+MEAL-0485,"Blueberries, raw",90.0,fruit,true
+MEAL-0485,"Nuts, almonds",20.0,nut,false
+MEAL-0485,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0485,"Quinoa, cooked",120.0,grain,false
+MEAL-0486,"Chicken, raw, ground",120.0,protein,true
+MEAL-0486,"Quinoa, cooked",120.0,grain,false
+MEAL-0486,"Spinach, raw",80.0,veg,false
+MEAL-0487,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0487,"Quinoa, cooked",120.0,grain,false
+MEAL-0487,"Spinach, raw",80.0,veg,false
+MEAL-0488,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0488,"Quinoa, cooked",120.0,grain,false
+MEAL-0488,"Spinach, raw",80.0,veg,false
+MEAL-0489,"Ground turkey, raw",120.0,protein,true
+MEAL-0489,"Quinoa, cooked",120.0,grain,false
+MEAL-0489,"Spinach, raw",80.0,veg,false
+MEAL-0490,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0490,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0490,"Spinach, raw",80.0,veg,false
+MEAL-0491,"Chicken, raw, ground",120.0,protein,true
+MEAL-0491,"Quinoa, cooked",120.0,grain,false
+MEAL-0491,"Spinach, raw",80.0,veg,false
+MEAL-0492,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0492,"Quinoa, cooked",120.0,grain,false
+MEAL-0492,"Spinach, raw",80.0,veg,false
+MEAL-0493,"Ground turkey, raw",120.0,protein,true
+MEAL-0493,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0493,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0494,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0494,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0494,"Spinach, raw",80.0,veg,false
+MEAL-0495,"Chicken, raw, ground",120.0,protein,true
+MEAL-0495,"Cheese, hard, parmesan",30.0,dairy,false
+MEAL-0495,"Quinoa, cooked",120.0,grain,false
+MEAL-0495,"Spinach, raw",80.0,veg,false
+MEAL-0496,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0496,"Rice noodles, cooked",120.0,grain,false
+MEAL-0496,"Spinach, raw",80.0,veg,false
+MEAL-0497,"Chicken, raw, ground",120.0,protein,true
+MEAL-0497,"Quinoa, cooked",120.0,grain,false
+MEAL-0497,"Spinach, raw",80.0,veg,false
+MEAL-0498,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0498,"Asparagus, raw",80.0,veg,false
+MEAL-0498,"Quinoa, cooked",120.0,grain,false
+MEAL-0499,"Chicken, raw, ground",120.0,protein,true
+MEAL-0499,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0499,"Quinoa, cooked",120.0,grain,false
+MEAL-0499,"Spinach, raw",80.0,veg,false
+MEAL-0500,"Fish, raw, Atlantic, cod",90.0,protein,true
+MEAL-0500,"Couscous, dry",120.0,grain,false
+MEAL-0500,"Spinach, raw",80.0,veg,false
+MEAL-0263,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0263,"Quinoa, cooked",120.0,grain,false
+MEAL-0263,"Spinach, raw",80.0,veg,false
+MEAL-0264,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0264,"Quinoa, cooked",120.0,grain,false
+MEAL-0264,"Spinach, raw",80.0,veg,false
+MEAL-0265,"Ground turkey, raw",120.0,protein,true
+MEAL-0265,"Quinoa, cooked",120.0,grain,false
+MEAL-0265,"Spinach, raw",80.0,veg,false
+MEAL-0266,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0266,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0266,"Spinach, raw",80.0,veg,false
+MEAL-0267,"Chicken, raw, ground",120.0,protein,true
+MEAL-0267,"Quinoa, cooked",120.0,grain,false
+MEAL-0267,"Spinach, raw",80.0,veg,false
+MEAL-0268,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0268,"Quinoa, cooked",120.0,grain,false
+MEAL-0268,"Spinach, raw",80.0,veg,false
+MEAL-0269,"Ground turkey, raw",120.0,protein,true
+MEAL-0269,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0269,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0270,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0270,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0270,"Spinach, raw",80.0,veg,false
+MEAL-0271,"Chicken, raw, ground",120.0,protein,true
+MEAL-0271,"Cheese, hard, parmesan",30.0,dairy,false
+MEAL-0271,"Quinoa, cooked",120.0,grain,false
+MEAL-0271,"Spinach, raw",80.0,veg,false
+MEAL-0272,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0272,"Rice noodles, cooked",120.0,grain,false
+MEAL-0272,"Spinach, raw",80.0,veg,false
+MEAL-0273,"Chicken, raw, ground",120.0,protein,true
+MEAL-0273,"Quinoa, cooked",120.0,grain,false
+MEAL-0273,"Spinach, raw",80.0,veg,false
+MEAL-0274,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0274,"Asparagus, raw",80.0,veg,false
+MEAL-0274,"Quinoa, cooked",120.0,grain,false
+MEAL-0275,"Chicken, raw, ground",120.0,protein,true
+MEAL-0275,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0275,"Quinoa, cooked",120.0,grain,false
+MEAL-0275,"Spinach, raw",80.0,veg,false
+MEAL-0276,"Fish, raw, Atlantic, cod",90.0,protein,true
+MEAL-0276,"Couscous, dry",120.0,grain,false
+MEAL-0276,"Spinach, raw",80.0,veg,false
+MEAL-0277,"Ground turkey, raw",120.0,protein,true
+MEAL-0277,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0277,"Spinach, raw",80.0,veg,false
+MEAL-0278,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0278,"Quinoa, cooked",120.0,grain,false
+MEAL-0278,"Spinach, raw",80.0,veg,false
+MEAL-0279,"Chicken, raw, ground",120.0,protein,true
+MEAL-0279,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0279,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0279,"Quinoa, cooked",120.0,grain,false
+MEAL-0280,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0280,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0280,"Spinach, raw",80.0,veg,false
+MEAL-0281,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0281,Oats,120.0,grain,false
+MEAL-0281,"Bananas, raw",90.0,fruit,false
+MEAL-0282,"Bread, rye",120.0,grain,true
+MEAL-0282,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0282,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0282,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0283,Oats,120.0,grain,true
+MEAL-0283,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0283,"Bananas, raw",90.0,fruit,false
+MEAL-0284,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0284,"Bagels, wheat",120.0,grain,false
+MEAL-0284,"Bananas, raw",90.0,fruit,false
+MEAL-0285,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0285,"Spinach, raw",80.0,veg,false
+MEAL-0285,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0285,Oats,120.0,grain,false
+MEAL-0286,"Bread, rye",120.0,grain,true
+MEAL-0286,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0286,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0286,"Bananas, raw",90.0,fruit,false
+MEAL-0287,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0287,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0287,Oats,120.0,grain,false
+MEAL-0287,"Bananas, raw",90.0,fruit,false
+MEAL-0288,"Mushrooms, raw, white",80.0,veg,true
+MEAL-0288,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0288,"Quinoa, cooked",120.0,grain,false
+MEAL-0289,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0289,"Quinoa, cooked",120.0,grain,false
+MEAL-0289,"Spinach, raw",80.0,veg,false
+MEAL-0290,"Kale, raw",80.0,veg,true
+MEAL-0290,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0290,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0290,"Quinoa, cooked",120.0,grain,false
+MEAL-0291,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0291,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0291,"Quinoa, cooked",120.0,grain,false
+MEAL-0291,"Spinach, raw",80.0,veg,false
+MEAL-0292,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0292,"Quinoa, cooked",120.0,grain,false
+MEAL-0292,"Spinach, raw",80.0,veg,false
+MEAL-0293,"Nuts, raw, cashew nuts",20.0,nut,true
+MEAL-0293,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0293,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0293,"Quinoa, cooked",120.0,grain,false
+MEAL-0293,"Spinach, raw",80.0,veg,false
+MEAL-0294,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0294,"Quinoa, cooked",120.0,grain,false
+MEAL-0294,"Spinach, raw",80.0,veg,false
+MEAL-0295,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0295,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0295,"Quinoa, cooked",120.0,grain,false
+MEAL-0296,"Pasta, cooked, whole-wheat",120.0,grain,true
+MEAL-0296,"Spinach, raw",80.0,veg,false
+MEAL-0296,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0296,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0297,"Lamb, raw, ground",120.0,protein,true
+MEAL-0297,"Quinoa, cooked",120.0,grain,false
+MEAL-0297,"Spinach, raw",80.0,veg,false
+MEAL-0298,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0298,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0298,"Spinach, raw",80.0,veg,false
+MEAL-0299,Oats,120.0,grain,true
+MEAL-0299,"Beets, raw",80.0,veg,false
+MEAL-0299,"Cheese, soft type, goat",30.0,dairy,false
+MEAL-0299,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0300,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0300,"Corn, raw, white, sweet",80.0,veg,false
+MEAL-0300,"Quinoa, cooked",120.0,grain,false
+MEAL-0301,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0301,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0301,"Quinoa, cooked",120.0,grain,false
+MEAL-0301,"Spinach, raw",80.0,veg,false
+MEAL-0302,"Mollusks, raw, Pacific, oyster",90.0,protein,true
+MEAL-0302,"Quinoa, cooked",120.0,grain,false
+MEAL-0302,"Spinach, raw",80.0,veg,false
+MEAL-0303,"Chicken, raw, ground",120.0,protein,true
+MEAL-0303,"Carrots, raw",80.0,veg,false
+MEAL-0303,"Quinoa, cooked",120.0,grain,false
+MEAL-0304,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0304,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,false
+MEAL-0304,"Quinoa, cooked",120.0,grain,false
+MEAL-0304,"Spinach, raw",80.0,veg,false
+MEAL-0305,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0305,"Quinoa, cooked",120.0,grain,false
+MEAL-0306,"Lamb, raw, ground",120.0,protein,true
+MEAL-0306,"Couscous, dry",120.0,grain,false
+MEAL-0306,"Spinach, raw",80.0,veg,false
+MEAL-0307,"Crustaceans, raw, blue, crab",90.0,protein,true
+MEAL-0307,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0307,"Spinach, raw",80.0,veg,false
+MEAL-0308,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0308,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0308,"Quinoa, cooked",120.0,grain,false
+MEAL-0308,"Spinach, raw",80.0,veg,false
+MEAL-0309,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0309,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0309,"Bananas, raw",90.0,fruit,false
+MEAL-0309,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0309,Oats,120.0,grain,false
+MEAL-0310,Oats,120.0,grain,true
+MEAL-0310,"Bananas, raw",90.0,fruit,false
+MEAL-0310,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0311,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0311,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0311,"Bananas, raw",90.0,fruit,false
+MEAL-0312,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0312,Oats,120.0,grain,false
+MEAL-0312,"Bananas, raw",90.0,fruit,false
+MEAL-0313,Oats,120.0,grain,true
+MEAL-0313,Millet flour,120.0,grain,false
+MEAL-0313,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0313,"Bananas, raw",90.0,fruit,false
+MEAL-0314,"Buckwheat groats, dry, roasted",120.0,grain,true
+MEAL-0314,"Bananas, raw",90.0,fruit,false
+MEAL-0314,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0315,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0315,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0315,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0316,"Bananas, raw",90.0,fruit,true
+MEAL-0316,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0316,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0316,"Quinoa, cooked",120.0,grain,false
+MEAL-0317,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0317,"Quinoa, cooked",120.0,grain,false
+MEAL-0317,"Spinach, raw",80.0,veg,false
+MEAL-0318,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0318,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0318,"Quinoa, cooked",120.0,grain,false
+MEAL-0318,"Spinach, raw",80.0,veg,false
+MEAL-0319,"Bananas, raw",90.0,fruit,true
+MEAL-0319,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0319,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0319,"Quinoa, cooked",120.0,grain,false
+MEAL-0320,"Nuts, almonds",20.0,nut,true
+MEAL-0320,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0320,"Quinoa, cooked",120.0,grain,false
+MEAL-0320,"Spinach, raw",80.0,veg,false
+MEAL-0321,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,true
+MEAL-0321,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0321,"Quinoa, cooked",120.0,grain,false
+MEAL-0321,"Spinach, raw",80.0,veg,false
+MEAL-0322,"Bananas, raw",90.0,fruit,true
+MEAL-0322,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0322,"Quinoa, cooked",120.0,grain,false
+MEAL-0323,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0323,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0323,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0323,"Quinoa, cooked",120.0,grain,false
+MEAL-0324,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0324,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0324,"Spinach, raw",80.0,veg,false
+MEAL-0325,"Ground turkey, raw",120.0,protein,true
+MEAL-0325,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0325,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0325,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0326,"Barley, hulled",120.0,grain,true
+MEAL-0326,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0326,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0327,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0327,"Quinoa, cooked",120.0,grain,false
+MEAL-0327,"Spinach, raw",80.0,veg,false
+MEAL-0328,"Lentils, raw",150.0,protein_veg,true
+MEAL-0328,"Bread, rye",120.0,grain,false
+MEAL-0328,"Spinach, raw",80.0,veg,false
+MEAL-0329,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0329,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0329,"Spinach, raw",80.0,veg,false
+MEAL-0330,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0330,"Bananas, raw",90.0,fruit,false
+MEAL-0330,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0331,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0331,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0331,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0331,"Quinoa, cooked",120.0,grain,false
+MEAL-0332,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0332,"Fish, raw, pink, salmon",90.0,protein,false
+MEAL-0332,"Broccoli, raw",80.0,veg,false
+MEAL-0333,"Chicken, raw, ground",120.0,protein,true
+MEAL-0333,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0333,"Quinoa, cooked",120.0,grain,false
+MEAL-0333,"Spinach, raw",80.0,veg,false
+MEAL-0334,"Rice, enriched, raw, medium-grain, white",120.0,grain,true
+MEAL-0334,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0334,"Spinach, raw",80.0,veg,false
+MEAL-0335,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0335,"Quinoa, cooked",120.0,grain,false
+MEAL-0335,"Spinach, raw",80.0,veg,false
+MEAL-0336,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0336,"Rice noodles, cooked",120.0,grain,false
+MEAL-0336,"Spinach, raw",80.0,veg,false
+MEAL-0337,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0337,"Spinach, raw",80.0,veg,false
+MEAL-0337,Oats,120.0,grain,false
+MEAL-0338,Oats,120.0,grain,true
+MEAL-0338,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0338,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0338,"Bananas, raw",90.0,fruit,false
+MEAL-0339,"Ginger root, raw",8.0,extra,true
+MEAL-0339,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0339,Oats,120.0,grain,false
+MEAL-0339,"Bananas, raw",90.0,fruit,false
+MEAL-0340,"Lentils, raw",150.0,protein_veg,true
+MEAL-0340,"Spinach, raw",80.0,veg,false
+MEAL-0340,Oats,120.0,grain,false
+MEAL-0341,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0341,"Bread, rye",120.0,grain,false
+MEAL-0341,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0342,"Beets, raw",80.0,veg,true
+MEAL-0342,"Blueberries, raw",90.0,fruit,false
+MEAL-0342,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0342,Oats,120.0,grain,false
+MEAL-0343,"Apricots, raw",90.0,fruit,true
+MEAL-0343,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0343,Oats,120.0,grain,false
+MEAL-0344,"Cocoa, unsweetened, dry powder",8.0,extra,true
+MEAL-0344,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0344,"Quinoa, cooked",120.0,grain,false
+MEAL-0344,"Spinach, raw",80.0,veg,false
+MEAL-0345,"Ginger root, raw",8.0,extra,true
+MEAL-0345,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0345,"Quinoa, cooked",120.0,grain,false
+MEAL-0345,"Spinach, raw",80.0,veg,false
+MEAL-0346,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0346,"Beets, raw",80.0,veg,false
+MEAL-0346,"Quinoa, cooked",120.0,grain,false
+MEAL-0347,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0347,"Quinoa, cooked",120.0,grain,false
+MEAL-0347,"Spinach, raw",80.0,veg,false
+MEAL-0348,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0348,"Quinoa, cooked",120.0,grain,false
+MEAL-0348,"Spinach, raw",80.0,veg,false
+MEAL-0349,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0349,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0349,"Quinoa, cooked",120.0,grain,false
+MEAL-0349,"Spinach, raw",80.0,veg,false
+MEAL-0089,Millet flour,120.0,grain,false
+MEAL-0089,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0089,"Bananas, raw",90.0,fruit,false
+MEAL-0090,"Buckwheat groats, dry, roasted",120.0,grain,true
+MEAL-0090,"Bananas, raw",90.0,fruit,false
+MEAL-0090,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0091,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0091,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0091,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0092,"Bananas, raw",90.0,fruit,true
+MEAL-0092,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0092,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0092,"Quinoa, cooked",120.0,grain,false
+MEAL-0093,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0093,"Quinoa, cooked",120.0,grain,false
+MEAL-0093,"Spinach, raw",80.0,veg,false
+MEAL-0094,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0094,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0094,"Quinoa, cooked",120.0,grain,false
+MEAL-0094,"Spinach, raw",80.0,veg,false
+MEAL-0095,"Bananas, raw",90.0,fruit,true
+MEAL-0095,"Nuts, english, walnuts",20.0,nut,false
+MEAL-0095,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0095,"Quinoa, cooked",120.0,grain,false
+MEAL-0096,"Nuts, almonds",20.0,nut,true
+MEAL-0096,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0096,"Quinoa, cooked",120.0,grain,false
+MEAL-0096,"Spinach, raw",80.0,veg,false
+MEAL-0097,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,true
+MEAL-0097,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0097,"Quinoa, cooked",120.0,grain,false
+MEAL-0097,"Spinach, raw",80.0,veg,false
+MEAL-0098,"Bananas, raw",90.0,fruit,true
+MEAL-0098,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0098,"Quinoa, cooked",120.0,grain,false
+MEAL-0099,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0099,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0099,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0099,"Quinoa, cooked",120.0,grain,false
+MEAL-0100,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0100,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0100,"Spinach, raw",80.0,veg,false
+MEAL-0101,"Ground turkey, raw",120.0,protein,true
+MEAL-0101,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0101,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0101,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0102,"Barley, hulled",120.0,grain,true
+MEAL-0102,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0102,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0103,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0103,"Quinoa, cooked",120.0,grain,false
+MEAL-0103,"Spinach, raw",80.0,veg,false
+MEAL-0104,"Lentils, raw",150.0,protein_veg,true
+MEAL-0104,"Bread, rye",120.0,grain,false
+MEAL-0104,"Spinach, raw",80.0,veg,false
+MEAL-0105,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0105,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0105,"Spinach, raw",80.0,veg,false
+MEAL-0106,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0106,"Bananas, raw",90.0,fruit,false
+MEAL-0106,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0107,"Sweet potato, unprepared, raw",80.0,veg,true
+MEAL-0107,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0107,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0107,"Quinoa, cooked",120.0,grain,false
+MEAL-0108,"Rice, raw, long-grain, brown",120.0,grain,true
+MEAL-0108,"Fish, raw, pink, salmon",90.0,protein,false
+MEAL-0108,"Broccoli, raw",80.0,veg,false
+MEAL-0109,"Chicken, raw, ground",120.0,protein,true
+MEAL-0109,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,false
+MEAL-0109,"Quinoa, cooked",120.0,grain,false
+MEAL-0109,"Spinach, raw",80.0,veg,false
+MEAL-0110,"Rice, enriched, raw, medium-grain, white",120.0,grain,true
+MEAL-0110,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0110,"Spinach, raw",80.0,veg,false
+MEAL-0111,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0111,"Quinoa, cooked",120.0,grain,false
+MEAL-0111,"Spinach, raw",80.0,veg,false
+MEAL-0112,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0112,"Rice noodles, cooked",120.0,grain,false
+MEAL-0112,"Spinach, raw",80.0,veg,false
+MEAL-0113,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0113,"Spinach, raw",80.0,veg,false
+MEAL-0113,Oats,120.0,grain,false
+MEAL-0114,Oats,120.0,grain,true
+MEAL-0114,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0114,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0114,"Bananas, raw",90.0,fruit,false
+MEAL-0115,"Ginger root, raw",8.0,extra,true
+MEAL-0115,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0115,Oats,120.0,grain,false
+MEAL-0115,"Bananas, raw",90.0,fruit,false
+MEAL-0116,"Lentils, raw",150.0,protein_veg,true
+MEAL-0116,"Spinach, raw",80.0,veg,false
+MEAL-0116,Oats,120.0,grain,false
+MEAL-0117,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0117,"Bread, rye",120.0,grain,false
+MEAL-0117,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0118,"Beets, raw",80.0,veg,true
+MEAL-0118,"Blueberries, raw",90.0,fruit,false
+MEAL-0118,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0118,Oats,120.0,grain,false
+MEAL-0119,"Apricots, raw",90.0,fruit,true
+MEAL-0119,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0119,Oats,120.0,grain,false
+MEAL-0120,"Cocoa, unsweetened, dry powder",8.0,extra,true
+MEAL-0120,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0120,"Quinoa, cooked",120.0,grain,false
+MEAL-0120,"Spinach, raw",80.0,veg,false
+MEAL-0121,"Ginger root, raw",8.0,extra,true
+MEAL-0121,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0121,"Quinoa, cooked",120.0,grain,false
+MEAL-0121,"Spinach, raw",80.0,veg,false
+MEAL-0122,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0122,"Beets, raw",80.0,veg,false
+MEAL-0122,"Quinoa, cooked",120.0,grain,false
+MEAL-0123,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0123,"Quinoa, cooked",120.0,grain,false
+MEAL-0123,"Spinach, raw",80.0,veg,false
+MEAL-0124,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0124,"Quinoa, cooked",120.0,grain,false
+MEAL-0124,"Spinach, raw",80.0,veg,false
+MEAL-0125,"Seeds, roasted and toasted, whole, sesame seeds",20.0,nut,true
+MEAL-0125,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0125,"Quinoa, cooked",120.0,grain,false
+MEAL-0125,"Spinach, raw",80.0,veg,false
+MEAL-0126,"Spinach, raw",80.0,veg,true
+MEAL-0126,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0126,"Quinoa, cooked",120.0,grain,false
+MEAL-0127,"Lentils, raw",150.0,protein_veg,true
+MEAL-0127,"Kale, raw",80.0,veg,false
+MEAL-0127,"Quinoa, cooked",120.0,grain,false
+MEAL-0128,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0128,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0128,"Spinach, raw",80.0,veg,false
+MEAL-0129,"Chickpeas (garbanzo beans, bengal gram), raw, mature seeds",150.0,protein_veg,true
+MEAL-0129,"Spinach, raw",80.0,veg,false
+MEAL-0129,"Quinoa, cooked",120.0,grain,false
+MEAL-0130,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0130,"Broccoli, raw",80.0,veg,false
+MEAL-0130,"Quinoa, cooked",120.0,grain,false
+MEAL-0131,"Fish, drained solids with bone, canned in oil, Atlantic, sardine",90.0,protein,true
+MEAL-0131,"Quinoa, cooked",120.0,grain,false
+MEAL-0131,"Spinach, raw",80.0,veg,false
+MEAL-0132,"Beans, raw, mature seeds, black",150.0,protein_veg,true
+MEAL-0132,"Quinoa, cooked",120.0,grain,false
+MEAL-0132,"Spinach, raw",80.0,veg,false
+MEAL-0133,"Chicken, raw, all classes, liver",120.0,protein,true
+MEAL-0133,"Bread, rye",120.0,grain,false
+MEAL-0133,"Spinach, raw",80.0,veg,false
+MEAL-0134,"Lamb, raw, ground",120.0,protein,true
+MEAL-0134,"Lentils, raw",150.0,protein_veg,false
+MEAL-0134,"Quinoa, cooked",120.0,grain,false
+MEAL-0134,"Spinach, raw",80.0,veg,false
+MEAL-0135,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0135,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0135,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0135,"Quinoa, cooked",120.0,grain,false
+MEAL-0136,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0136,"Cocoa, unsweetened, dry powder",8.0,extra,false
+MEAL-0136,"Quinoa, cooked",120.0,grain,false
+MEAL-0136,"Spinach, raw",80.0,veg,false
+MEAL-0137,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0137,"Rice noodles, cooked",120.0,grain,false
+MEAL-0137,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0138,"Chicken, raw, ground",120.0,protein,true
+MEAL-0138,"Chicken, raw, all classes, liver",120.0,protein,false
+MEAL-0138,"Bread, rye",120.0,grain,false
+MEAL-0138,"Spinach, raw",80.0,veg,false
+MEAL-0139,"Game meat, raw, deer",120.0,protein,true
+MEAL-0139,"Beef, raw, ground, grass-fed",120.0,protein,false
+MEAL-0139,"Cabbage, raw",80.0,veg,false
+MEAL-0139,"Quinoa, cooked",120.0,grain,false
+MEAL-0140,"Mollusks, raw, blue, mussel",90.0,protein,true
+MEAL-0140,"Quinoa, cooked",120.0,grain,false
+MEAL-0140,"Spinach, raw",80.0,veg,false
+MEAL-0141,Oats,120.0,grain,true
+MEAL-0141,"Blueberries, raw",90.0,fruit,false
+MEAL-0141,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0142,"Ground turkey, raw",120.0,protein,true
+MEAL-0142,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0142,Oats,120.0,grain,false
+MEAL-0142,"Bananas, raw",90.0,fruit,false
+MEAL-0143,"Blueberries, raw",90.0,fruit,true
+MEAL-0143,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0143,Oats,120.0,grain,false
+MEAL-0144,Oats,120.0,grain,true
+MEAL-0144,"Quinoa, cooked",120.0,grain,false
+MEAL-0144,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0144,"Bananas, raw",90.0,fruit,false
+MEAL-0145,"Yogurt, nonfat, plain, Greek",150.0,dairy,true
+MEAL-0145,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0145,Oats,120.0,grain,false
+MEAL-0145,"Bananas, raw",90.0,fruit,false
+MEAL-0146,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0146,Oats,120.0,grain,false
+MEAL-0146,"Bananas, raw",90.0,fruit,false
+MEAL-0147,"Cheese, with vegetables, cottage",150.0,dairy,true
+MEAL-0147,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0147,Oats,120.0,grain,false
+MEAL-0147,"Bananas, raw",90.0,fruit,false
+MEAL-0148,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0148,"Tomatoes, raw, green",80.0,veg,false
+MEAL-0148,"Quinoa, cooked",120.0,grain,false
+MEAL-0149,"Blueberries, raw",90.0,fruit,true
+MEAL-0149,"Nuts, almonds",20.0,nut,false
+MEAL-0149,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0149,"Quinoa, cooked",120.0,grain,false
+MEAL-0150,"Chicken, raw, ground",120.0,protein,true
+MEAL-0150,"Quinoa, cooked",120.0,grain,false
+MEAL-0150,"Spinach, raw",80.0,veg,false
+MEAL-0151,"Edamame, prepared, frozen",150.0,protein_veg,true
+MEAL-0151,"Quinoa, cooked",120.0,grain,false
+MEAL-0151,"Spinach, raw",80.0,veg,false
+MEAL-0152,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0152,"Quinoa, cooked",120.0,grain,false
+MEAL-0152,"Spinach, raw",80.0,veg,false
+MEAL-0153,"Ground turkey, raw",120.0,protein,true
+MEAL-0153,"Quinoa, cooked",120.0,grain,false
+MEAL-0153,"Spinach, raw",80.0,veg,false
+MEAL-0154,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0154,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0154,"Spinach, raw",80.0,veg,false
+MEAL-0155,"Chicken, raw, ground",120.0,protein,true
+MEAL-0155,"Quinoa, cooked",120.0,grain,false
+MEAL-0155,"Spinach, raw",80.0,veg,false
+MEAL-0156,"Fish, raw, bluefin, fresh, tuna",90.0,protein,true
+MEAL-0156,"Quinoa, cooked",120.0,grain,false
+MEAL-0156,"Spinach, raw",80.0,veg,false
+MEAL-0157,"Ground turkey, raw",120.0,protein,true
+MEAL-0157,"Tortillas, corn, ready-to-bake or -fry",120.0,grain,false
+MEAL-0157,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0158,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0158,"Rice, enriched, raw, medium-grain, white",120.0,grain,false
+MEAL-0158,"Spinach, raw",80.0,veg,false
+MEAL-0159,"Chicken, raw, ground",120.0,protein,true
+MEAL-0159,"Cheese, hard, parmesan",30.0,dairy,false
+MEAL-0159,"Quinoa, cooked",120.0,grain,false
+MEAL-0159,"Spinach, raw",80.0,veg,false
+MEAL-0160,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0160,"Rice noodles, cooked",120.0,grain,false
+MEAL-0160,"Spinach, raw",80.0,veg,false
+MEAL-0161,"Chicken, raw, ground",120.0,protein,true
+MEAL-0161,"Quinoa, cooked",120.0,grain,false
+MEAL-0161,"Spinach, raw",80.0,veg,false
+MEAL-0162,"Beef, raw, ground, grass-fed",120.0,protein,true
+MEAL-0162,"Asparagus, raw",80.0,veg,false
+MEAL-0162,"Quinoa, cooked",120.0,grain,false
+MEAL-0163,"Chicken, raw, ground",120.0,protein,true
+MEAL-0163,"Nuts, raw, cashew nuts",20.0,nut,false
+MEAL-0163,"Quinoa, cooked",120.0,grain,false
+MEAL-0163,"Spinach, raw",80.0,veg,false
+MEAL-0164,"Fish, raw, Atlantic, cod",90.0,protein,true
+MEAL-0164,"Couscous, dry",120.0,grain,false
+MEAL-0164,"Spinach, raw",80.0,veg,false
+MEAL-0165,"Ground turkey, raw",120.0,protein,true
+MEAL-0165,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0165,"Spinach, raw",80.0,veg,false
+MEAL-0166,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0166,"Quinoa, cooked",120.0,grain,false
+MEAL-0166,"Spinach, raw",80.0,veg,false
+MEAL-0167,"Chicken, raw, ground",120.0,protein,true
+MEAL-0167,"Sweet potato, unprepared, raw",80.0,veg,false
+MEAL-0167,"Potatoes, skin, raw",80.0,veg,false
+MEAL-0167,"Quinoa, cooked",120.0,grain,false
+MEAL-0168,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0168,"Pasta, cooked, whole-wheat",120.0,grain,false
+MEAL-0168,"Spinach, raw",80.0,veg,false
+MEAL-0169,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,true
+MEAL-0169,Oats,120.0,grain,false
+MEAL-0169,"Bananas, raw",90.0,fruit,false
+MEAL-0170,"Bread, rye",120.0,grain,true
+MEAL-0170,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0170,"Avocados, Florida, raw",90.0,fruit,false
+MEAL-0170,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0171,Oats,120.0,grain,true
+MEAL-0171,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0171,"Bananas, raw",90.0,fruit,false
+MEAL-0172,"Fish, raw, pink, salmon",90.0,protein,true
+MEAL-0172,"Bagels, wheat",120.0,grain,false
+MEAL-0172,"Bananas, raw",90.0,fruit,false
+MEAL-0173,"Egg, fresh, raw, yolk",100.0,protein,true
+MEAL-0173,"Spinach, raw",80.0,veg,false
+MEAL-0173,"Mushrooms, raw, white",80.0,veg,false
+MEAL-0173,Oats,120.0,grain,false
+MEAL-0174,"Bread, rye",120.0,grain,true
+MEAL-0174,"Seeds, without salt, roasted, pumpkin and squash seed kernels",20.0,nut,false
+MEAL-0174,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0174,"Bananas, raw",90.0,fruit,false
+MEAL-0175,"Crustaceans, raw (not previously frozen), shrimp",90.0,protein,true
+MEAL-0175,"Egg, fresh, raw, yolk",100.0,protein,false
+MEAL-0175,Oats,120.0,grain,false
+MEAL-0175,"Bananas, raw",90.0,fruit,false
+MEAL-0176,"Mushrooms, raw, white",80.0,veg,true
+MEAL-0176,"Tofu, prepared with calcium sulfate, firm, raw",150.0,protein_veg,false
+MEAL-0176,"Quinoa, cooked",120.0,grain,false
+MEAL-0081,"Peppers, raw, green, sweet",80.0,veg,true
+MEAL-0193,"Peppers, raw, green, sweet",80.0,veg,true
+MEAL-0305,"Peppers, raw, green, sweet",80.0,veg,true
+MEAL-0417,"Peppers, raw, green, sweet",80.0,veg,true
