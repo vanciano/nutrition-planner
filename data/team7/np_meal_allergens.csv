@@ -1,0 +1,501 @@
+meal_id,meal_name,cycle_phase,meal_type,dietary_tags,contains_nuts,contains_dairy,contains_gluten,contains_shellfish,contains_eggs,contains_soy,contains_sesame,allergens
+MEAL-0001,Iron-Boosted Spinach Omelette,menstrual,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0002,Dark Chocolate Overnight Oats,menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0003,Ginger Turmeric Smoothie Bowl,menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0004,Lentil and Spinach Breakfast Bowl,menstrual,breakfast,vegetarian,false,false,false,false,false,false,false,
+MEAL-0005,Salmon Avocado Toast,menstrual,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0006,Beetroot and Berry Smoothie,menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0007,Fortified Cereal with Dried Apricots,menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0008,Trail Mix with Dark Chocolate,menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0009,Ginger Tea with Honey,menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0010,Beetroot Hummus with Veggies,menstrual,snack,vegan,false,false,false,false,false,false,false,
+MEAL-0011,Warm Cinnamon Apple Slices,menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0012,Energy Date Balls,menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0013,Molasses and Tahini Dip,menstrual,snack,vegan,false,false,false,false,false,true,true,soy;sesame
+MEAL-0014,Spinach and Cheese Muffin,menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0015,Lentil and Kale Soup,menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0016,Salmon Teriyaki Rice Bowl,menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0017,Spinach and Chickpea Curry,menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0018,Beef and Broccoli Stir-Fry,menstrual,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0019,Mediterranean Sardine Salad,menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0020,Black Bean and Quinoa Bowl,menstrual,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0021,Liver Pate Sandwich,menstrual,lunch,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0022,Lamb and Lentil Stew,menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0023,Baked Salmon with Sweet Potato,menstrual,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0024,Dark Chocolate Chili Con Carne,menstrual,dinner,gluten_free,false,false,false,false,false,false,false,
+MEAL-0025,Tofu and Mushroom Ramen,menstrual,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0026,Chicken Liver Pate with Crostini,menstrual,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0027,Venison Steak with Red Cabbage,menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0028,Mussels in White Wine Sauce,menstrual,dinner,pescatarian,false,false,false,true,false,false,false,shellfish
+MEAL-0029,Protein Pancakes with Berries,follicular,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0030,Scrambled Eggs with Smoked Turkey,follicular,breakfast,dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0031,Acai Berry Bowl,follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0032,Quinoa Breakfast Porridge,follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0033,Greek Yogurt Parfait,follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0034,Egg White Veggie Scramble,follicular,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0035,Cottage Cheese and Fruit Bowl,follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0036,Boiled Eggs and Cherry Tomatoes,follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0037,Berries and Almond Butter,follicular,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0038,Chicken Jerky Strips,follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0039,Edamame with Sea Salt,follicular,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0040,Protein Smoothie,follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0041,Turkey Roll-Ups,follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0042,Rice Cake with Tuna,follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0043,Grilled Chicken Quinoa Bowl,follicular,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0044,Tuna Nicoise Salad,follicular,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0045,Turkey and Avocado Wrap,follicular,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0046,Egg Fried Rice with Vegetables,follicular,lunch,vegetarian;dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0047,Chicken Caesar Salad,follicular,lunch,omnivore,false,true,false,false,false,false,false,dairy
+MEAL-0048,Prawn Stir-Fry Noodles,follicular,lunch,pescatarian;dairy_free,false,false,false,true,false,false,false,shellfish
+MEAL-0049,Greek Chicken Souvlaki Bowl,follicular,lunch,omnivore,false,false,false,false,false,false,false,
+MEAL-0050,Grilled Steak with Asparagus,follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0051,Chicken Stir-Fry with Cashews,follicular,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0052,Baked Cod with Herbed Couscous,follicular,dinner,pescatarian;dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0053,Turkey Meatballs with Pasta,follicular,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0054,Prawn and Vegetable Curry,follicular,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0055,Chicken and Sweet Potato Bake,follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0056,Salmon Pasta Bake,follicular,dinner,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0057,Green Goddess Smoothie,ovulation,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0058,Avocado Toast with Pumpkin Seeds,ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0059,Nut and Seed Granola Bowl,ovulation,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0060,Smoked Salmon Bagel,ovulation,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0061,Spinach and Mushroom Frittata,ovulation,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0062,Pumpkin Seed Butter on Toast,ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0063,Shellfish Omelette,ovulation,breakfast,pescatarian;gluten_free,false,false,false,true,true,false,false,shellfish;eggs
+MEAL-0064,Oyster Mushroom Crisps,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0065,Mixed Nuts and Seeds,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0066,Kale Chips with Tahini,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0067,Cucumber and Sesame Bites,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0068,Pomegranate and Pistachio Mix,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0069,Cashew and Cacao Bites,ovulation,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0070,Seaweed Snack Pack,ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0071,Prawn and Avocado Salad,ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0072,Spinach and Walnut Pesto Pasta,ovulation,lunch,vegetarian,true,false,true,false,true,false,false,nuts;gluten;eggs
+MEAL-0073,Grilled Lamb Chop Salad,ovulation,lunch,gluten_free,false,false,false,false,false,false,false,
+MEAL-0074,Sushi Bowl with Edamame,ovulation,lunch,pescatarian;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0075,Roasted Beetroot and Goat Cheese Salad,ovulation,lunch,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0076,Crab and Corn Chowder,ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0077,Chickpea and Pumpkin Seed Salad,ovulation,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0078,Grilled Oysters with Lemon,ovulation,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0079,Roasted Chicken with Root Vegetables,ovulation,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0080,Sesame-Crusted Tuna Steak,ovulation,dinner,pescatarian;dairy_free,false,false,false,false,false,false,true,sesame
+MEAL-0081,Stuffed Bell Peppers,ovulation,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0082,Lamb Kofta with Tabbouleh,ovulation,dinner,omnivore,false,false,true,false,false,false,false,gluten
+MEAL-0083,Crab Linguine,ovulation,dinner,pescatarian;dairy_free,false,false,true,true,false,false,false,gluten;shellfish
+MEAL-0084,Beef and Cashew Stir-Fry,ovulation,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0085,Sweet Potato and Banana Smoothie,luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0086,Banana Oat Pancakes,luteal,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0087,Brown Rice Pudding with Cardamom,luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0088,Chickpea Flour Pancakes (Socca),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0089,Warm Millet Porridge,luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0090,Buckwheat Crepes with Banana,luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0091,Avocado and Black Bean Breakfast Tacos,luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0092,Dark Chocolate and Banana,luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0093,Roasted Chickpeas,luteal,snack,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0094,Yogurt with Sunflower Seeds,luteal,snack,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0095,Banana and Walnut Muffin,luteal,snack,vegetarian,true,false,false,false,true,false,false,nuts;eggs
+MEAL-0096,Chamomile Tea with Almond Milk,luteal,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0097,Pumpkin Seed Clusters,luteal,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0098,Frozen Banana Bites,luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0099,Sweet Potato and Black Bean Bowl,luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0100,Chickpea and Brown Rice Salad,luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0101,Turkey and Sweet Potato Wrap,luteal,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0102,Mushroom and Barley Soup,luteal,lunch,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0103,Baked Falafel Bowl,luteal,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0104,Lentil Dhal with Wholegrain Naan,luteal,lunch,vegan,false,false,true,false,false,false,false,gluten
+MEAL-0105,Brown Rice Sushi Rolls,luteal,lunch,vegan,false,false,false,false,false,true,false,soy
+MEAL-0106,Banana Curry with Brown Rice,luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0107,Stuffed Sweet Potatoes,luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0108,Salmon with Brown Rice and Broccoli,luteal,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0109,Chicken and Chickpea Tagine,luteal,dinner,dairy_free,false,false,false,false,false,false,false,
+MEAL-0110,Pumpkin and Sage Risotto,luteal,dinner,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0111,Black Bean Enchiladas,luteal,dinner,vegetarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0112,Tofu and Vegetable Pad Thai,luteal,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0113,Iron-Boosted Spinach Omelette (Light Version),menstrual,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0114,Dark Chocolate Overnight Oats (High Protein),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0115,Ginger Turmeric Smoothie Bowl (Quick Prep),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0116,Lentil and Spinach Breakfast Bowl (Family Size),menstrual,breakfast,vegetarian,false,false,false,false,false,false,false,
+MEAL-0117,Salmon Avocado Toast (Low Carb),menstrual,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0118,Beetroot and Berry Smoothie (Seasonal),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0119,Fortified Cereal with Dried Apricots (Light Version),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0120,Trail Mix with Dark Chocolate (High Protein),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0121,Ginger Tea with Honey (Quick Prep),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0122,Beetroot Hummus with Veggies (Family Size),menstrual,snack,vegan,false,false,false,false,false,false,false,
+MEAL-0123,Warm Cinnamon Apple Slices (Low Carb),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0124,Energy Date Balls (Seasonal),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0125,Molasses and Tahini Dip (Light Version),menstrual,snack,vegan,false,false,false,false,false,true,true,soy;sesame
+MEAL-0126,Spinach and Cheese Muffin (High Protein),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0127,Lentil and Kale Soup (Quick Prep),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0128,Salmon Teriyaki Rice Bowl (Family Size),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0129,Spinach and Chickpea Curry (Low Carb),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0130,Beef and Broccoli Stir-Fry (Seasonal),menstrual,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0131,Mediterranean Sardine Salad (Light Version),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0132,Black Bean and Quinoa Bowl (High Protein),menstrual,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0133,Liver Pate Sandwich (Quick Prep),menstrual,lunch,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0134,Lamb and Lentil Stew (Family Size),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0135,Baked Salmon with Sweet Potato (Low Carb),menstrual,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0136,Dark Chocolate Chili Con Carne (Seasonal),menstrual,dinner,gluten_free,false,false,false,false,false,false,false,
+MEAL-0137,Tofu and Mushroom Ramen (Light Version),menstrual,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0138,Chicken Liver Pate with Crostini (High Protein),menstrual,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0139,Venison Steak with Red Cabbage (Quick Prep),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0140,Mussels in White Wine Sauce (Family Size),menstrual,dinner,pescatarian,false,false,false,true,false,false,false,shellfish
+MEAL-0141,Protein Pancakes with Berries (Low Carb),follicular,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0142,Scrambled Eggs with Smoked Turkey (Seasonal),follicular,breakfast,dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0143,Acai Berry Bowl (Light Version),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0144,Quinoa Breakfast Porridge (High Protein),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0145,Greek Yogurt Parfait (Quick Prep),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0146,Egg White Veggie Scramble (Family Size),follicular,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0147,Cottage Cheese and Fruit Bowl (Low Carb),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0148,Boiled Eggs and Cherry Tomatoes (Seasonal),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0149,Berries and Almond Butter (Light Version),follicular,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0150,Chicken Jerky Strips (High Protein),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0151,Edamame with Sea Salt (Quick Prep),follicular,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0152,Protein Smoothie (Family Size),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0153,Turkey Roll-Ups (Low Carb),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0154,Rice Cake with Tuna (Seasonal),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0155,Grilled Chicken Quinoa Bowl (Light Version),follicular,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0156,Tuna Nicoise Salad (High Protein),follicular,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0157,Turkey and Avocado Wrap (Quick Prep),follicular,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0158,Egg Fried Rice with Vegetables (Family Size),follicular,lunch,vegetarian;dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0159,Chicken Caesar Salad (Low Carb),follicular,lunch,omnivore,false,true,false,false,false,false,false,dairy
+MEAL-0160,Prawn Stir-Fry Noodles (Seasonal),follicular,lunch,pescatarian;dairy_free,false,false,false,true,false,false,false,shellfish
+MEAL-0161,Greek Chicken Souvlaki Bowl (Light Version),follicular,lunch,omnivore,false,false,false,false,false,false,false,
+MEAL-0162,Grilled Steak with Asparagus (High Protein),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0163,Chicken Stir-Fry with Cashews (Quick Prep),follicular,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0164,Baked Cod with Herbed Couscous (Family Size),follicular,dinner,pescatarian;dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0165,Turkey Meatballs with Pasta (Low Carb),follicular,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0166,Prawn and Vegetable Curry (Seasonal),follicular,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0167,Chicken and Sweet Potato Bake (Light Version),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0168,Salmon Pasta Bake (High Protein),follicular,dinner,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0169,Green Goddess Smoothie (Quick Prep),ovulation,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0170,Avocado Toast with Pumpkin Seeds (Family Size),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0171,Nut and Seed Granola Bowl (Low Carb),ovulation,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0172,Smoked Salmon Bagel (Seasonal),ovulation,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0173,Spinach and Mushroom Frittata (Light Version),ovulation,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0174,Pumpkin Seed Butter on Toast (High Protein),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0175,Shellfish Omelette (Quick Prep),ovulation,breakfast,pescatarian;gluten_free,false,false,false,true,true,false,false,shellfish;eggs
+MEAL-0176,Oyster Mushroom Crisps (Family Size),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0177,Mixed Nuts and Seeds (Low Carb),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0178,Kale Chips with Tahini (Seasonal),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0179,Cucumber and Sesame Bites (Light Version),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0180,Pomegranate and Pistachio Mix (High Protein),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0181,Cashew and Cacao Bites (Quick Prep),ovulation,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0182,Seaweed Snack Pack (Family Size),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0183,Prawn and Avocado Salad (Low Carb),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0184,Spinach and Walnut Pesto Pasta (Seasonal),ovulation,lunch,vegetarian,true,false,true,false,true,false,false,nuts;gluten;eggs
+MEAL-0185,Grilled Lamb Chop Salad (Light Version),ovulation,lunch,gluten_free,false,false,false,false,false,false,false,
+MEAL-0186,Sushi Bowl with Edamame (High Protein),ovulation,lunch,pescatarian;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0187,Roasted Beetroot and Goat Cheese Salad (Quick Prep),ovulation,lunch,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0188,Crab and Corn Chowder (Family Size),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0189,Chickpea and Pumpkin Seed Salad (Low Carb),ovulation,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0190,Grilled Oysters with Lemon (Seasonal),ovulation,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0191,Roasted Chicken with Root Vegetables (Light Version),ovulation,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0192,Sesame-Crusted Tuna Steak (High Protein),ovulation,dinner,pescatarian;dairy_free,false,false,false,false,false,false,true,sesame
+MEAL-0193,Stuffed Bell Peppers (Quick Prep),ovulation,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0194,Lamb Kofta with Tabbouleh (Family Size),ovulation,dinner,omnivore,false,false,true,false,false,false,false,gluten
+MEAL-0195,Crab Linguine (Low Carb),ovulation,dinner,pescatarian;dairy_free,false,false,true,true,false,false,false,gluten;shellfish
+MEAL-0196,Beef and Cashew Stir-Fry (Seasonal),ovulation,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0197,Sweet Potato and Banana Smoothie (Light Version),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0198,Banana Oat Pancakes (High Protein),luteal,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0199,Brown Rice Pudding with Cardamom (Quick Prep),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0200,Chickpea Flour Pancakes (Socca) (Family Size),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0201,Warm Millet Porridge (Low Carb),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0202,Buckwheat Crepes with Banana (Seasonal),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0203,Avocado and Black Bean Breakfast Tacos (Light Version),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0204,Dark Chocolate and Banana (High Protein),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0205,Roasted Chickpeas (Quick Prep),luteal,snack,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0206,Yogurt with Sunflower Seeds (Family Size),luteal,snack,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0207,Banana and Walnut Muffin (Low Carb),luteal,snack,vegetarian,true,false,false,false,true,false,false,nuts;eggs
+MEAL-0208,Chamomile Tea with Almond Milk (Seasonal),luteal,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0209,Pumpkin Seed Clusters (Light Version),luteal,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0210,Frozen Banana Bites (High Protein),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0211,Sweet Potato and Black Bean Bowl (Quick Prep),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0212,Chickpea and Brown Rice Salad (Family Size),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0213,Turkey and Sweet Potato Wrap (Low Carb),luteal,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0214,Mushroom and Barley Soup (Seasonal),luteal,lunch,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0215,Baked Falafel Bowl (Light Version),luteal,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0216,Lentil Dhal with Wholegrain Naan (High Protein),luteal,lunch,vegan,false,false,true,false,false,false,false,gluten
+MEAL-0217,Brown Rice Sushi Rolls (Quick Prep),luteal,lunch,vegan,false,false,false,false,false,true,false,soy
+MEAL-0218,Banana Curry with Brown Rice (Family Size),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0219,Stuffed Sweet Potatoes (Low Carb),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0220,Salmon with Brown Rice and Broccoli (Seasonal),luteal,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0221,Chicken and Chickpea Tagine (Light Version),luteal,dinner,dairy_free,false,false,false,false,false,false,false,
+MEAL-0222,Pumpkin and Sage Risotto (High Protein),luteal,dinner,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0223,Black Bean Enchiladas (Quick Prep),luteal,dinner,vegetarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0224,Tofu and Vegetable Pad Thai (Family Size),luteal,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0225,Iron-Boosted Spinach Omelette (Low Carb),menstrual,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0226,Dark Chocolate Overnight Oats (Seasonal),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0227,Ginger Turmeric Smoothie Bowl (Light Version),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0228,Lentil and Spinach Breakfast Bowl (High Protein),menstrual,breakfast,vegetarian,false,false,false,false,false,false,false,
+MEAL-0229,Salmon Avocado Toast (Quick Prep),menstrual,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0230,Beetroot and Berry Smoothie (Family Size),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0231,Fortified Cereal with Dried Apricots (Low Carb),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0232,Trail Mix with Dark Chocolate (Seasonal),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0233,Ginger Tea with Honey (Light Version),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0234,Beetroot Hummus with Veggies (High Protein),menstrual,snack,vegan,false,false,false,false,false,false,false,
+MEAL-0235,Warm Cinnamon Apple Slices (Quick Prep),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0236,Energy Date Balls (Family Size),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0237,Molasses and Tahini Dip (Low Carb),menstrual,snack,vegan,false,false,false,false,false,true,true,soy;sesame
+MEAL-0238,Spinach and Cheese Muffin (Seasonal),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0239,Lentil and Kale Soup (Light Version),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0240,Salmon Teriyaki Rice Bowl (High Protein),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0241,Spinach and Chickpea Curry (Quick Prep),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0242,Beef and Broccoli Stir-Fry (Family Size),menstrual,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0243,Mediterranean Sardine Salad (Low Carb),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0244,Black Bean and Quinoa Bowl (Seasonal),menstrual,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0245,Liver Pate Sandwich (Light Version),menstrual,lunch,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0246,Lamb and Lentil Stew (High Protein),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0247,Baked Salmon with Sweet Potato (Quick Prep),menstrual,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0248,Dark Chocolate Chili Con Carne (Family Size),menstrual,dinner,gluten_free,false,false,false,false,false,false,false,
+MEAL-0249,Tofu and Mushroom Ramen (Low Carb),menstrual,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0250,Chicken Liver Pate with Crostini (Seasonal),menstrual,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0251,Venison Steak with Red Cabbage (Light Version),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0252,Mussels in White Wine Sauce (High Protein),menstrual,dinner,pescatarian,false,false,false,true,false,false,false,shellfish
+MEAL-0253,Protein Pancakes with Berries (Quick Prep),follicular,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0254,Scrambled Eggs with Smoked Turkey (Family Size),follicular,breakfast,dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0255,Acai Berry Bowl (Low Carb),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0256,Quinoa Breakfast Porridge (Seasonal),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0257,Greek Yogurt Parfait (Light Version),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0258,Egg White Veggie Scramble (High Protein),follicular,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0259,Cottage Cheese and Fruit Bowl (Quick Prep),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0260,Boiled Eggs and Cherry Tomatoes (Family Size),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0261,Berries and Almond Butter (Low Carb),follicular,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0262,Chicken Jerky Strips (Seasonal),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0263,Edamame with Sea Salt (Light Version),follicular,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0264,Protein Smoothie (High Protein),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0265,Turkey Roll-Ups (Quick Prep),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0266,Rice Cake with Tuna (Family Size),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0267,Grilled Chicken Quinoa Bowl (Low Carb),follicular,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0268,Tuna Nicoise Salad (Seasonal),follicular,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0269,Turkey and Avocado Wrap (Light Version),follicular,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0270,Egg Fried Rice with Vegetables (High Protein),follicular,lunch,vegetarian;dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0271,Chicken Caesar Salad (Quick Prep),follicular,lunch,omnivore,false,true,false,false,false,false,false,dairy
+MEAL-0272,Prawn Stir-Fry Noodles (Family Size),follicular,lunch,pescatarian;dairy_free,false,false,false,true,false,false,false,shellfish
+MEAL-0273,Greek Chicken Souvlaki Bowl (Low Carb),follicular,lunch,omnivore,false,false,false,false,false,false,false,
+MEAL-0274,Grilled Steak with Asparagus (Seasonal),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0275,Chicken Stir-Fry with Cashews (Light Version),follicular,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0276,Baked Cod with Herbed Couscous (High Protein),follicular,dinner,pescatarian;dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0277,Turkey Meatballs with Pasta (Quick Prep),follicular,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0278,Prawn and Vegetable Curry (Family Size),follicular,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0279,Chicken and Sweet Potato Bake (Low Carb),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0280,Salmon Pasta Bake (Seasonal),follicular,dinner,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0281,Green Goddess Smoothie (Light Version),ovulation,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0282,Avocado Toast with Pumpkin Seeds (High Protein),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0283,Nut and Seed Granola Bowl (Quick Prep),ovulation,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0284,Smoked Salmon Bagel (Family Size),ovulation,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0285,Spinach and Mushroom Frittata (Low Carb),ovulation,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0286,Pumpkin Seed Butter on Toast (Seasonal),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0287,Shellfish Omelette (Light Version),ovulation,breakfast,pescatarian;gluten_free,false,false,false,true,true,false,false,shellfish;eggs
+MEAL-0288,Oyster Mushroom Crisps (High Protein),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0289,Mixed Nuts and Seeds (Quick Prep),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0290,Kale Chips with Tahini (Family Size),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0291,Cucumber and Sesame Bites (Low Carb),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0292,Pomegranate and Pistachio Mix (Seasonal),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0293,Cashew and Cacao Bites (Light Version),ovulation,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0294,Seaweed Snack Pack (High Protein),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0295,Prawn and Avocado Salad (Quick Prep),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0296,Spinach and Walnut Pesto Pasta (Family Size),ovulation,lunch,vegetarian,true,false,true,false,true,false,false,nuts;gluten;eggs
+MEAL-0297,Grilled Lamb Chop Salad (Low Carb),ovulation,lunch,gluten_free,false,false,false,false,false,false,false,
+MEAL-0298,Sushi Bowl with Edamame (Seasonal),ovulation,lunch,pescatarian;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0299,Roasted Beetroot and Goat Cheese Salad (Light Version),ovulation,lunch,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0300,Crab and Corn Chowder (High Protein),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0301,Chickpea and Pumpkin Seed Salad (Quick Prep),ovulation,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0302,Grilled Oysters with Lemon (Family Size),ovulation,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0303,Roasted Chicken with Root Vegetables (Low Carb),ovulation,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0304,Sesame-Crusted Tuna Steak (Seasonal),ovulation,dinner,pescatarian;dairy_free,false,false,false,false,false,false,true,sesame
+MEAL-0305,Stuffed Bell Peppers (Light Version),ovulation,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0306,Lamb Kofta with Tabbouleh (High Protein),ovulation,dinner,omnivore,false,false,true,false,false,false,false,gluten
+MEAL-0307,Crab Linguine (Quick Prep),ovulation,dinner,pescatarian;dairy_free,false,false,true,true,false,false,false,gluten;shellfish
+MEAL-0308,Beef and Cashew Stir-Fry (Family Size),ovulation,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0309,Sweet Potato and Banana Smoothie (Low Carb),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0310,Banana Oat Pancakes (Seasonal),luteal,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0311,Brown Rice Pudding with Cardamom (Light Version),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0312,Chickpea Flour Pancakes (Socca) (High Protein),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0313,Warm Millet Porridge (Quick Prep),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0314,Buckwheat Crepes with Banana (Family Size),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0315,Avocado and Black Bean Breakfast Tacos (Low Carb),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0316,Dark Chocolate and Banana (Seasonal),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0317,Roasted Chickpeas (Light Version),luteal,snack,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0318,Yogurt with Sunflower Seeds (High Protein),luteal,snack,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0319,Banana and Walnut Muffin (Quick Prep),luteal,snack,vegetarian,true,false,false,false,true,false,false,nuts;eggs
+MEAL-0320,Chamomile Tea with Almond Milk (Family Size),luteal,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0321,Pumpkin Seed Clusters (Low Carb),luteal,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0322,Frozen Banana Bites (Seasonal),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0323,Sweet Potato and Black Bean Bowl (Light Version),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0324,Chickpea and Brown Rice Salad (High Protein),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0325,Turkey and Sweet Potato Wrap (Quick Prep),luteal,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0326,Mushroom and Barley Soup (Family Size),luteal,lunch,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0327,Baked Falafel Bowl (Low Carb),luteal,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0328,Lentil Dhal with Wholegrain Naan (Seasonal),luteal,lunch,vegan,false,false,true,false,false,false,false,gluten
+MEAL-0329,Brown Rice Sushi Rolls (Light Version),luteal,lunch,vegan,false,false,false,false,false,true,false,soy
+MEAL-0330,Banana Curry with Brown Rice (High Protein),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0331,Stuffed Sweet Potatoes (Quick Prep),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0332,Salmon with Brown Rice and Broccoli (Family Size),luteal,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0333,Chicken and Chickpea Tagine (Low Carb),luteal,dinner,dairy_free,false,false,false,false,false,false,false,
+MEAL-0334,Pumpkin and Sage Risotto (Seasonal),luteal,dinner,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0335,Black Bean Enchiladas (Light Version),luteal,dinner,vegetarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0336,Tofu and Vegetable Pad Thai (High Protein),luteal,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0337,Iron-Boosted Spinach Omelette (Quick Prep),menstrual,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0338,Dark Chocolate Overnight Oats (Family Size),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0339,Ginger Turmeric Smoothie Bowl (Low Carb),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0340,Lentil and Spinach Breakfast Bowl (Seasonal),menstrual,breakfast,vegetarian,false,false,false,false,false,false,false,
+MEAL-0341,Salmon Avocado Toast (Light Version),menstrual,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0342,Beetroot and Berry Smoothie (High Protein),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0343,Fortified Cereal with Dried Apricots (Quick Prep),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0344,Trail Mix with Dark Chocolate (Family Size),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0345,Ginger Tea with Honey (Low Carb),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0346,Beetroot Hummus with Veggies (Seasonal),menstrual,snack,vegan,false,false,false,false,false,false,false,
+MEAL-0347,Warm Cinnamon Apple Slices (Light Version),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0348,Energy Date Balls (High Protein),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0349,Molasses and Tahini Dip (Quick Prep),menstrual,snack,vegan,false,false,false,false,false,true,true,soy;sesame
+MEAL-0350,Spinach and Cheese Muffin (Family Size),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0351,Lentil and Kale Soup (Low Carb),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0352,Salmon Teriyaki Rice Bowl (Seasonal),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0353,Spinach and Chickpea Curry (Light Version),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0354,Beef and Broccoli Stir-Fry (High Protein),menstrual,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0355,Mediterranean Sardine Salad (Quick Prep),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0356,Black Bean and Quinoa Bowl (Family Size),menstrual,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0357,Liver Pate Sandwich (Low Carb),menstrual,lunch,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0358,Lamb and Lentil Stew (Seasonal),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0359,Baked Salmon with Sweet Potato (Light Version),menstrual,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0360,Dark Chocolate Chili Con Carne (High Protein),menstrual,dinner,gluten_free,false,false,false,false,false,false,false,
+MEAL-0361,Tofu and Mushroom Ramen (Quick Prep),menstrual,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0362,Chicken Liver Pate with Crostini (Family Size),menstrual,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0363,Venison Steak with Red Cabbage (Low Carb),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0364,Mussels in White Wine Sauce (Seasonal),menstrual,dinner,pescatarian,false,false,false,true,false,false,false,shellfish
+MEAL-0365,Protein Pancakes with Berries (Light Version),follicular,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0366,Scrambled Eggs with Smoked Turkey (High Protein),follicular,breakfast,dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0367,Acai Berry Bowl (Quick Prep),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0368,Quinoa Breakfast Porridge (Family Size),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0369,Greek Yogurt Parfait (Low Carb),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0370,Egg White Veggie Scramble (Seasonal),follicular,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0371,Cottage Cheese and Fruit Bowl (Light Version),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0372,Boiled Eggs and Cherry Tomatoes (High Protein),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0373,Berries and Almond Butter (Quick Prep),follicular,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0374,Chicken Jerky Strips (Family Size),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0375,Edamame with Sea Salt (Low Carb),follicular,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0376,Protein Smoothie (Seasonal),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0377,Turkey Roll-Ups (Light Version),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0378,Rice Cake with Tuna (High Protein),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0379,Grilled Chicken Quinoa Bowl (Quick Prep),follicular,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0380,Tuna Nicoise Salad (Family Size),follicular,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0381,Turkey and Avocado Wrap (Low Carb),follicular,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0382,Egg Fried Rice with Vegetables (Seasonal),follicular,lunch,vegetarian;dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0383,Chicken Caesar Salad (Light Version),follicular,lunch,omnivore,false,true,false,false,false,false,false,dairy
+MEAL-0384,Prawn Stir-Fry Noodles (High Protein),follicular,lunch,pescatarian;dairy_free,false,false,false,true,false,false,false,shellfish
+MEAL-0385,Greek Chicken Souvlaki Bowl (Quick Prep),follicular,lunch,omnivore,false,false,false,false,false,false,false,
+MEAL-0386,Grilled Steak with Asparagus (Family Size),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0387,Chicken Stir-Fry with Cashews (Low Carb),follicular,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0388,Baked Cod with Herbed Couscous (Seasonal),follicular,dinner,pescatarian;dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0389,Turkey Meatballs with Pasta (Light Version),follicular,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0390,Prawn and Vegetable Curry (High Protein),follicular,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0391,Chicken and Sweet Potato Bake (Quick Prep),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0392,Salmon Pasta Bake (Family Size),follicular,dinner,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0393,Green Goddess Smoothie (Low Carb),ovulation,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0394,Avocado Toast with Pumpkin Seeds (Seasonal),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0395,Nut and Seed Granola Bowl (Light Version),ovulation,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0396,Smoked Salmon Bagel (High Protein),ovulation,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0397,Spinach and Mushroom Frittata (Quick Prep),ovulation,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0398,Pumpkin Seed Butter on Toast (Family Size),ovulation,breakfast,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0399,Shellfish Omelette (Low Carb),ovulation,breakfast,pescatarian;gluten_free,false,false,false,true,true,false,false,shellfish;eggs
+MEAL-0400,Oyster Mushroom Crisps (Seasonal),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0401,Mixed Nuts and Seeds (Light Version),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0402,Kale Chips with Tahini (High Protein),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0403,Cucumber and Sesame Bites (Quick Prep),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,true,soy;sesame
+MEAL-0404,Pomegranate and Pistachio Mix (Family Size),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0405,Cashew and Cacao Bites (Low Carb),ovulation,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0406,Seaweed Snack Pack (Seasonal),ovulation,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0407,Prawn and Avocado Salad (Light Version),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0408,Spinach and Walnut Pesto Pasta (High Protein),ovulation,lunch,vegetarian,true,false,true,false,true,false,false,nuts;gluten;eggs
+MEAL-0409,Grilled Lamb Chop Salad (Quick Prep),ovulation,lunch,gluten_free,false,false,false,false,false,false,false,
+MEAL-0410,Sushi Bowl with Edamame (Family Size),ovulation,lunch,pescatarian;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0411,Roasted Beetroot and Goat Cheese Salad (Low Carb),ovulation,lunch,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0412,Crab and Corn Chowder (Seasonal),ovulation,lunch,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0413,Chickpea and Pumpkin Seed Salad (Light Version),ovulation,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0414,Grilled Oysters with Lemon (High Protein),ovulation,dinner,pescatarian;gluten_free,false,false,false,true,false,false,false,shellfish
+MEAL-0415,Roasted Chicken with Root Vegetables (Quick Prep),ovulation,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0416,Sesame-Crusted Tuna Steak (Family Size),ovulation,dinner,pescatarian;dairy_free,false,false,false,false,false,false,true,sesame
+MEAL-0417,Stuffed Bell Peppers (Low Carb),ovulation,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0418,Lamb Kofta with Tabbouleh (Seasonal),ovulation,dinner,omnivore,false,false,true,false,false,false,false,gluten
+MEAL-0419,Crab Linguine (Light Version),ovulation,dinner,pescatarian;dairy_free,false,false,true,true,false,false,false,gluten;shellfish
+MEAL-0420,Beef and Cashew Stir-Fry (High Protein),ovulation,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0421,Sweet Potato and Banana Smoothie (Quick Prep),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0422,Banana Oat Pancakes (Family Size),luteal,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0423,Brown Rice Pudding with Cardamom (Low Carb),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0424,Chickpea Flour Pancakes (Socca) (Seasonal),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0425,Warm Millet Porridge (Light Version),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0426,Buckwheat Crepes with Banana (High Protein),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0427,Avocado and Black Bean Breakfast Tacos (Quick Prep),luteal,breakfast,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0428,Dark Chocolate and Banana (Family Size),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0429,Roasted Chickpeas (Low Carb),luteal,snack,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0430,Yogurt with Sunflower Seeds (Seasonal),luteal,snack,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0431,Banana and Walnut Muffin (Light Version),luteal,snack,vegetarian,true,false,false,false,true,false,false,nuts;eggs
+MEAL-0432,Chamomile Tea with Almond Milk (High Protein),luteal,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0433,Pumpkin Seed Clusters (Quick Prep),luteal,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0434,Frozen Banana Bites (Family Size),luteal,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0435,Sweet Potato and Black Bean Bowl (Low Carb),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0436,Chickpea and Brown Rice Salad (Seasonal),luteal,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0437,Turkey and Sweet Potato Wrap (Light Version),luteal,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0438,Mushroom and Barley Soup (High Protein),luteal,lunch,vegan,false,false,true,false,false,true,false,gluten;soy
+MEAL-0439,Baked Falafel Bowl (Quick Prep),luteal,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0440,Lentil Dhal with Wholegrain Naan (Family Size),luteal,lunch,vegan,false,false,true,false,false,false,false,gluten
+MEAL-0441,Brown Rice Sushi Rolls (Low Carb),luteal,lunch,vegan,false,false,false,false,false,true,false,soy
+MEAL-0442,Banana Curry with Brown Rice (Seasonal),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0443,Stuffed Sweet Potatoes (Light Version),luteal,dinner,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0444,Salmon with Brown Rice and Broccoli (High Protein),luteal,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0445,Chicken and Chickpea Tagine (Quick Prep),luteal,dinner,dairy_free,false,false,false,false,false,false,false,
+MEAL-0446,Pumpkin and Sage Risotto (Family Size),luteal,dinner,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0447,Black Bean Enchiladas (Low Carb),luteal,dinner,vegetarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0448,Tofu and Vegetable Pad Thai (Seasonal),luteal,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0449,Iron-Boosted Spinach Omelette (Light Version),menstrual,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0450,Dark Chocolate Overnight Oats (High Protein),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0451,Ginger Turmeric Smoothie Bowl (Quick Prep),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0452,Lentil and Spinach Breakfast Bowl (Family Size),menstrual,breakfast,vegetarian,false,false,false,false,false,false,false,
+MEAL-0453,Salmon Avocado Toast (Low Carb),menstrual,breakfast,pescatarian,false,false,true,false,false,false,false,gluten
+MEAL-0454,Beetroot and Berry Smoothie (Seasonal),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0455,Fortified Cereal with Dried Apricots (Light Version),menstrual,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0456,Trail Mix with Dark Chocolate (High Protein),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0457,Ginger Tea with Honey (Quick Prep),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0458,Beetroot Hummus with Veggies (Family Size),menstrual,snack,vegan,false,false,false,false,false,false,false,
+MEAL-0459,Warm Cinnamon Apple Slices (Low Carb),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0460,Energy Date Balls (Seasonal),menstrual,snack,vegan,false,false,false,false,false,true,false,soy
+MEAL-0461,Molasses and Tahini Dip (Light Version),menstrual,snack,vegan,false,false,false,false,false,true,true,soy;sesame
+MEAL-0462,Spinach and Cheese Muffin (High Protein),menstrual,snack,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0463,Lentil and Kale Soup (Quick Prep),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0464,Salmon Teriyaki Rice Bowl (Family Size),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0465,Spinach and Chickpea Curry (Low Carb),menstrual,lunch,vegan,false,false,false,false,false,false,false,
+MEAL-0466,Beef and Broccoli Stir-Fry (Seasonal),menstrual,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0467,Mediterranean Sardine Salad (Light Version),menstrual,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0468,Black Bean and Quinoa Bowl (High Protein),menstrual,lunch,vegan;gluten_free,false,false,false,false,false,false,false,
+MEAL-0469,Liver Pate Sandwich (Quick Prep),menstrual,lunch,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0470,Lamb and Lentil Stew (Family Size),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0471,Baked Salmon with Sweet Potato (Low Carb),menstrual,dinner,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0472,Dark Chocolate Chili Con Carne (Seasonal),menstrual,dinner,gluten_free,false,false,false,false,false,false,false,
+MEAL-0473,Tofu and Mushroom Ramen (Light Version),menstrual,dinner,vegan,false,false,false,false,false,true,false,soy
+MEAL-0474,Chicken Liver Pate with Crostini (High Protein),menstrual,dinner,dairy_free,false,false,true,false,false,false,false,gluten
+MEAL-0475,Venison Steak with Red Cabbage (Quick Prep),menstrual,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0476,Mussels in White Wine Sauce (Family Size),menstrual,dinner,pescatarian,false,false,false,true,false,false,false,shellfish
+MEAL-0477,Protein Pancakes with Berries (Low Carb),follicular,breakfast,vegetarian,false,false,false,false,true,false,false,eggs
+MEAL-0478,Scrambled Eggs with Smoked Turkey (Seasonal),follicular,breakfast,dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0479,Acai Berry Bowl (Light Version),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0480,Quinoa Breakfast Porridge (High Protein),follicular,breakfast,vegan,false,false,false,false,false,true,false,soy
+MEAL-0481,Greek Yogurt Parfait (Quick Prep),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0482,Egg White Veggie Scramble (Family Size),follicular,breakfast,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0483,Cottage Cheese and Fruit Bowl (Low Carb),follicular,breakfast,vegetarian;gluten_free,false,true,false,false,true,false,false,dairy;eggs
+MEAL-0484,Boiled Eggs and Cherry Tomatoes (Seasonal),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0485,Berries and Almond Butter (Light Version),follicular,snack,vegan;gluten_free,true,false,false,false,false,true,false,nuts;soy
+MEAL-0486,Chicken Jerky Strips (High Protein),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0487,Edamame with Sea Salt (Quick Prep),follicular,snack,vegan;gluten_free,false,false,false,false,false,true,false,soy
+MEAL-0488,Protein Smoothie (Family Size),follicular,snack,vegetarian;gluten_free,false,false,false,false,true,false,false,eggs
+MEAL-0489,Turkey Roll-Ups (Low Carb),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0490,Rice Cake with Tuna (Seasonal),follicular,snack,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0491,Grilled Chicken Quinoa Bowl (Light Version),follicular,lunch,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0492,Tuna Nicoise Salad (High Protein),follicular,lunch,pescatarian;gluten_free,false,false,false,false,false,false,false,
+MEAL-0493,Turkey and Avocado Wrap (Quick Prep),follicular,lunch,dairy_free,false,false,false,false,false,false,false,
+MEAL-0494,Egg Fried Rice with Vegetables (Family Size),follicular,lunch,vegetarian;dairy_free,false,false,false,false,true,false,false,eggs
+MEAL-0495,Chicken Caesar Salad (Low Carb),follicular,lunch,omnivore,false,true,false,false,false,false,false,dairy
+MEAL-0496,Prawn Stir-Fry Noodles (Seasonal),follicular,lunch,pescatarian;dairy_free,false,false,false,true,false,false,false,shellfish
+MEAL-0497,Greek Chicken Souvlaki Bowl (Light Version),follicular,lunch,omnivore,false,false,false,false,false,false,false,
+MEAL-0498,Grilled Steak with Asparagus (High Protein),follicular,dinner,gluten_free;dairy_free,false,false,false,false,false,false,false,
+MEAL-0499,Chicken Stir-Fry with Cashews (Quick Prep),follicular,dinner,dairy_free,true,false,false,false,false,false,false,nuts
+MEAL-0500,Baked Cod with Herbed Couscous (Family Size),follicular,dinner,pescatarian;dairy_free,false,false,true,false,false,false,false,gluten

@@ -1,0 +1,501 @@
+meal_id,cycle_phase,meal_type,meal_name,dietary_tags,prep_time_min,n_ingredients,scale_factor,calories_kcal,protein_g,iron_mg,magnesium_mg,vitamin_c_mg,vitamin_b6_mg,calcium_mg,zinc_mg,fiber_g,omega3_g,nutrition_is_computed
+MEAL-0276,follicular,dinner,Baked Cod with Herbed Couscous (High Protein),pescatarian;dairy_free,57,3,1.262,686.0,42.5,4.8,182.8,29.5,0.642,154.5,2.3,9.8,0.106,true
+MEAL-0402,ovulation,snack,Kale Chips with Tahini (High Protein),vegan;gluten_free,5,4,0.281,144.0,10.7,2.78,76.6,27.1,0.186,383.1,1.56,3.5,0.401,true
+MEAL-0352,menstrual,lunch,Salmon Teriyaki Rice Bowl (Seasonal),pescatarian;gluten_free,20,3,0.956,540.0,27.4,7.4,123.8,21.5,0.841,92.1,2.07,3.3,0.224,true
+MEAL-0365,follicular,breakfast,Protein Pancakes with Berries (Light Version),vegetarian,12,3,0.602,506.0,22.2,5.21,134.2,5.3,0.325,120.0,4.34,9.0,0.197,true
+MEAL-0460,menstrual,snack,Energy Date Balls (Seasonal),vegan,9,3,0.489,185.0,16.4,3.88,111.0,11.1,0.216,549.6,2.0,4.2,0.324,true
+MEAL-0023,menstrual,dinner,Baked Salmon with Sweet Potato,pescatarian;gluten_free,32,4,1.778,664.0,48.1,9.26,248.0,19.6,1.877,132.8,3.87,13.8,0.508,true
+MEAL-0469,menstrual,lunch,Liver Pate Sandwich (Quick Prep),dairy_free,28,3,0.775,366.0,25.4,12.68,103.9,34.5,0.984,136.8,3.87,6.8,0.103,true
+MEAL-0367,follicular,breakfast,Acai Berry Bowl (Quick Prep),vegan,11,3,0.383,281.0,17.9,3.79,116.7,3.5,0.125,419.0,2.78,7.0,0.287,true
+MEAL-0463,menstrual,lunch,Lentil and Kale Soup (Quick Prep),vegan,25,3,0.733,521.0,33.4,9.32,135.5,75.3,0.86,141.3,4.88,16.3,0.104,true
+MEAL-0295,ovulation,lunch,Prawn and Avocado Salad (Quick Prep),pescatarian;gluten_free,17,3,1.327,436.0,33.7,2.58,130.6,20.8,0.289,39.0,2.21,11.1,0.241,true
+MEAL-0440,luteal,lunch,Lentil Dhal with Wholegrain Naan (Family Size),vegan,18,3,0.798,684.0,39.4,12.23,145.0,23.7,0.843,175.0,5.34,19.8,0.094,true
+MEAL-0107,luteal,dinner,Stuffed Sweet Potatoes,vegan;gluten_free,20,4,1.545,734.0,53.3,13.68,312.3,17.5,0.995,1688.1,6.46,17.3,1.017,true
+MEAL-0168,follicular,dinner,Salmon Pasta Bake (High Protein),pescatarian,28,3,1.297,404.0,36.2,5.93,197.5,29.2,1.06,131.1,3.09,8.4,0.337,true
+MEAL-0200,luteal,breakfast,Chickpea Flour Pancakes (Socca) (Family Size),vegan;gluten_free,17,3,0.391,435.0,20.3,4.83,138.7,5.4,0.498,60.5,3.53,13.0,0.189,true
+MEAL-0093,luteal,snack,Roasted Chickpeas,vegan;gluten_free,7,3,0.251,183.0,9.6,2.61,64.9,7.1,0.278,46.4,1.47,5.9,0.1,true
+MEAL-0387,follicular,dinner,Chicken Stir-Fry with Cashews (Low Carb),dairy_free,59,4,0.841,374.0,27.0,5.28,188.1,19.0,0.842,96.1,3.91,4.9,0.373,true
+MEAL-0370,follicular,breakfast,Egg White Veggie Scramble (Seasonal),vegetarian;gluten_free,14,3,0.414,360.0,15.4,3.57,100.1,3.2,0.341,82.2,2.98,6.2,0.134,true
+MEAL-0013,menstrual,snack,Molasses and Tahini Dip,vegan,9,4,0.23,113.0,8.5,2.51,68.6,5.2,0.138,304.0,1.27,2.6,0.326,true
+MEAL-0033,follicular,breakfast,Greek Yogurt Parfait,vegetarian;gluten_free,23,4,0.373,357.0,19.5,3.26,96.3,2.9,0.342,135.5,2.98,5.6,0.121,true
+MEAL-0289,ovulation,snack,Mixed Nuts and Seeds (Quick Prep),vegan;gluten_free,6,3,0.555,210.0,18.6,4.41,126.0,12.6,0.245,623.8,2.27,4.8,0.368,true
+MEAL-0323,luteal,lunch,Sweet Potato and Black Bean Bowl (Light Version),vegan;gluten_free,40,4,0.906,698.0,37.1,11.23,336.6,10.0,0.847,229.0,6.61,28.1,0.127,true
+MEAL-0329,luteal,lunch,Brown Rice Sushi Rolls (Light Version),vegan,28,3,0.76,513.0,28.3,5.86,220.0,17.3,0.659,847.3,4.06,7.2,0.5,true
+MEAL-0182,ovulation,snack,Seaweed Snack Pack (Family Size),vegan;gluten_free,10,3,0.613,232.0,20.5,4.87,139.2,14.0,0.271,689.2,2.51,5.3,0.406,true
+MEAL-0178,ovulation,snack,Kale Chips with Tahini (Seasonal),vegan;gluten_free,15,4,0.422,216.0,16.0,4.18,115.0,40.6,0.28,574.7,2.34,5.3,0.602,true
+MEAL-0443,luteal,dinner,Stuffed Sweet Potatoes (Light Version),vegan;gluten_free,20,4,0.928,441.0,32.0,8.22,187.6,10.5,0.598,1014.2,3.88,10.4,0.611,true
+MEAL-0325,luteal,lunch,Turkey and Sweet Potato Wrap (Quick Prep),dairy_free,33,4,0.909,504.0,30.7,5.33,138.5,10.0,1.18,152.7,4.47,10.9,0.2,true
+MEAL-0480,follicular,breakfast,Quinoa Breakfast Porridge (High Protein),vegan,18,4,0.476,432.0,25.0,5.56,190.8,3.9,0.361,530.7,4.08,10.4,0.387,true
+MEAL-0161,follicular,lunch,Greek Chicken Souvlaki Bowl (Light Version),omnivore,34,3,1.416,473.0,40.4,7.0,234.0,31.8,1.3,151.2,4.95,7.3,0.228,true
+MEAL-0491,follicular,lunch,Grilled Chicken Quinoa Bowl (Light Version),gluten_free;dairy_free,39,3,1.093,365.0,31.1,5.4,180.5,24.6,1.003,116.7,3.82,5.6,0.176,true
+MEAL-0432,luteal,snack,Chamomile Tea with Almond Milk (High Protein),vegan;gluten_free,5,4,0.49,242.0,18.5,4.25,137.6,11.2,0.23,576.8,2.31,5.4,0.542,true
+MEAL-0316,luteal,snack,Dark Chocolate and Banana (Seasonal),vegan;gluten_free,9,4,0.495,227.0,16.7,3.53,112.9,4.0,0.31,524.8,2.15,6.0,0.327,true
+MEAL-0382,follicular,lunch,Egg Fried Rice with Vegetables (Seasonal),vegetarian;dairy_free,32,3,0.436,337.0,11.4,4.42,48.1,9.8,0.297,95.6,1.8,1.5,0.08,true
+MEAL-0333,luteal,dinner,Chicken and Chickpea Tagine (Low Carb),dairy_free,34,4,0.664,598.0,39.3,7.57,188.3,18.9,1.142,127.6,5.07,15.5,0.324,true
+MEAL-0220,luteal,dinner,Salmon with Brown Rice and Broccoli (Seasonal),pescatarian;gluten_free,42,3,0.662,385.0,19.7,1.64,119.3,47.2,0.835,36.2,2.14,4.2,0.185,true
+MEAL-0189,ovulation,lunch,Chickpea and Pumpkin Seed Salad (Low Carb),vegan;gluten_free,16,4,0.584,493.0,25.8,7.03,215.2,16.8,0.658,114.2,4.32,14.4,0.65,true
+MEAL-0032,follicular,breakfast,Quinoa Breakfast Porridge,vegan,18,4,0.468,424.0,24.5,5.46,187.2,3.8,0.355,520.9,4.0,10.2,0.38,true
+MEAL-0383,follicular,lunch,Chicken Caesar Salad (Light Version),omnivore,24,4,1.019,460.0,40.0,5.28,181.7,22.9,0.963,470.6,4.4,5.2,0.173,true
+MEAL-0253,follicular,breakfast,Protein Pancakes with Berries (Quick Prep),vegetarian,24,3,0.377,317.0,13.9,3.26,84.1,3.3,0.204,75.2,2.72,5.6,0.123,true
+MEAL-0226,menstrual,breakfast,Dark Chocolate Overnight Oats (Seasonal),vegan,12,4,0.498,389.0,24.3,5.48,181.1,4.0,0.309,549.8,3.88,10.7,0.373,true
+MEAL-0393,ovulation,breakfast,Green Goddess Smoothie (Low Carb),vegan;gluten_free,12,3,0.423,323.0,20.0,4.19,137.0,3.4,0.259,463.1,3.07,7.8,0.316,true
+MEAL-0375,follicular,snack,Edamame with Sea Salt (Low Carb),vegan;gluten_free,11,3,0.683,235.0,17.4,5.03,161.3,21.6,0.31,132.6,2.59,8.8,0.225,true
+MEAL-0494,follicular,lunch,Egg Fried Rice with Vegetables (Family Size),vegetarian;dairy_free,25,3,0.504,389.0,13.1,5.1,55.5,11.3,0.342,110.3,2.07,1.7,0.093,true
+MEAL-0453,menstrual,breakfast,Salmon Avocado Toast (Low Carb),pescatarian,16,3,0.797,425.0,24.4,3.1,74.9,12.9,0.566,82.0,1.66,9.6,0.273,true
+MEAL-0195,ovulation,dinner,Crab Linguine (Low Carb),pescatarian;dairy_free,24,3,2.269,625.0,58.4,11.11,359.8,57.1,0.913,396.8,11.84,14.6,0.33,true
+MEAL-0416,ovulation,dinner,Sesame-Crusted Tuna Steak (Family Size),pescatarian;dairy_free,59,4,1.131,458.0,36.1,8.85,289.7,25.4,0.988,344.5,4.19,9.0,1.375,true
+MEAL-0173,ovulation,breakfast,Spinach and Mushroom Frittata (Light Version),vegetarian;gluten_free,20,4,0.524,432.0,21.4,5.74,150.7,12.7,0.383,144.2,4.14,8.0,0.175,true
+MEAL-0421,luteal,breakfast,Sweet Potato and Banana Smoothie (Quick Prep),vegan;gluten_free,22,5,0.401,352.0,20.2,5.2,145.2,7.7,0.389,457.7,3.12,9.2,0.3,true
+MEAL-0181,ovulation,snack,Cashew and Cacao Bites (Quick Prep),vegan;gluten_free,13,5,0.26,132.0,10.1,2.7,84.7,6.0,0.139,297.1,1.51,3.2,0.246,true
+MEAL-0462,menstrual,snack,Spinach and Cheese Muffin (High Protein),vegetarian,8,3,0.33,160.0,7.7,2.21,47.9,7.4,0.216,75.5,1.33,1.7,0.079,true
+MEAL-0314,luteal,breakfast,Buckwheat Crepes with Banana (Family Size),vegan;gluten_free,23,3,0.675,480.0,27.6,4.85,254.1,5.5,0.602,708.2,3.64,12.2,0.434,true
+MEAL-0054,follicular,dinner,Prawn and Vegetable Curry,pescatarian;gluten_free,47,3,2.712,648.0,69.6,10.73,379.7,61.0,0.823,270.2,4.7,13.9,0.305,true
+MEAL-0066,ovulation,snack,Kale Chips with Tahini,vegan;gluten_free,14,4,0.258,132.0,9.8,2.55,70.3,24.8,0.171,351.2,1.43,3.2,0.368,true
+MEAL-0142,follicular,breakfast,Scrambled Eggs with Smoked Turkey (Seasonal),dairy_free,19,4,0.445,466.0,27.0,4.42,119.9,3.5,0.668,98.5,4.46,6.7,0.203,true
+MEAL-0363,menstrual,dinner,Venison Steak with Red Cabbage (Low Carb),gluten_free;dairy_free,29,4,1.316,718.0,75.2,11.36,180.0,38.5,1.47,95.8,12.4,7.1,0.167,true
+MEAL-0224,luteal,dinner,Tofu and Vegetable Pad Thai (Family Size),vegan,41,3,1.923,700.0,58.3,12.17,295.8,43.8,0.579,2131.7,5.92,12.3,1.151,true
+MEAL-0415,ovulation,dinner,Roasted Chicken with Root Vegetables (Quick Prep),gluten_free;dairy_free,47,3,1.125,392.0,30.3,3.39,125.6,5.3,0.982,60.8,3.67,6.3,0.18,true
+MEAL-0065,ovulation,snack,Mixed Nuts and Seeds,vegan;gluten_free,6,3,0.603,228.0,20.2,4.79,136.8,13.7,0.266,677.3,2.46,5.2,0.399,true
+MEAL-0302,ovulation,dinner,Grilled Oysters with Lemon (Family Size),pescatarian;gluten_free,26,3,2.575,606.0,41.4,22.03,411.6,76.4,0.898,275.1,42.98,13.2,0.805,true
+MEAL-0360,menstrual,dinner,Dark Chocolate Chili Con Carne (High Protein),gluten_free,40,4,1.267,530.0,41.1,9.44,256.9,28.5,0.937,157.4,9.8,10.2,0.134,true
+MEAL-0193,ovulation,dinner,Stuffed Bell Peppers (Quick Prep),vegan;gluten_free,43,3,1.761,662.0,56.1,10.65,302.5,113.8,0.818,1853.8,6.63,14.4,1.159,true
+MEAL-0042,follicular,snack,Rice Cake with Tuna,gluten_free;dairy_free,9,3,0.334,194.0,10.4,2.78,50.2,7.5,0.247,32.5,0.79,1.2,0.135,true
+MEAL-0134,menstrual,dinner,Lamb and Lentil Stew (Family Size),gluten_free;dairy_free,58,4,0.344,354.0,22.2,5.36,81.1,10.1,0.437,58.9,3.69,7.3,0.085,true
+MEAL-0148,follicular,snack,Boiled Eggs and Cherry Tomatoes (Seasonal),vegetarian;gluten_free,15,3,0.336,163.0,7.4,1.66,30.2,6.3,0.189,53.8,1.23,1.4,0.079,true
+MEAL-0386,follicular,dinner,Grilled Steak with Asparagus (Family Size),gluten_free;dairy_free,46,3,1.006,400.0,30.5,5.92,111.5,4.5,0.65,54.3,7.24,5.1,0.1,true
+MEAL-0313,luteal,breakfast,Warm Millet Porridge (Quick Prep),vegan;gluten_free,13,4,0.412,503.0,24.7,6.02,192.1,3.3,0.436,457.4,4.29,9.4,0.372,true
+MEAL-0345,menstrual,snack,Ginger Tea with Honey (Low Carb),vegetarian,9,4,0.352,173.0,8.3,2.37,52.3,8.1,0.235,81.0,1.43,1.9,0.085,true
+MEAL-0243,menstrual,lunch,Mediterranean Sardine Salad (Low Carb),pescatarian;gluten_free,19,3,1.936,677.0,57.6,12.75,339.1,43.5,0.879,858.6,5.64,9.9,2.829,true
+MEAL-0242,menstrual,lunch,Beef and Broccoli Stir-Fry (Family Size),gluten_free;dairy_free,33,3,1.243,508.0,38.3,5.92,144.6,88.7,0.887,90.0,8.82,6.8,0.123,true
+MEAL-0082,ovulation,dinner,Lamb Kofta with Tabbouleh,omnivore,44,3,0.751,607.0,28.2,4.0,106.1,16.9,0.334,95.6,4.14,5.8,0.1,true
+MEAL-0057,ovulation,breakfast,Green Goddess Smoothie,vegan;gluten_free,15,3,0.602,459.0,28.4,5.95,194.8,4.9,0.368,658.1,4.36,11.1,0.449,true
+MEAL-0294,ovulation,snack,Seaweed Snack Pack (High Protein),vegan;gluten_free,5,3,0.502,190.0,16.8,3.99,114.0,11.4,0.222,564.4,2.05,4.3,0.332,true
+MEAL-0129,menstrual,lunch,Spinach and Chickpea Curry (Low Carb),vegan,26,3,0.536,391.0,20.5,5.59,138.6,15.3,0.593,99.2,3.15,12.6,0.213,true
+MEAL-0257,follicular,breakfast,Greek Yogurt Parfait (Light Version),vegetarian;gluten_free,15,4,0.291,279.0,15.3,2.54,75.2,2.3,0.267,105.9,2.33,4.4,0.095,true
+MEAL-0077,ovulation,lunch,Chickpea and Pumpkin Seed Salad,vegan;gluten_free,21,4,0.397,335.0,17.6,4.78,146.2,11.4,0.447,77.6,2.94,9.8,0.442,true
+MEAL-0356,menstrual,lunch,Black Bean and Quinoa Bowl (Family Size),vegan;gluten_free,21,3,1.061,715.0,42.4,12.19,420.7,23.9,0.777,301.4,7.65,30.1,0.154,true
+MEAL-0277,follicular,dinner,Turkey Meatballs with Pasta (Quick Prep),dairy_free,33,3,1.777,666.0,58.8,9.84,276.5,39.9,1.678,209.0,8.62,11.4,0.308,true
+MEAL-0004,menstrual,breakfast,Lentil and Spinach Breakfast Bowl,vegetarian,18,3,0.255,258.0,15.2,4.48,88.1,7.4,0.282,50.0,2.57,7.8,0.056,true
+MEAL-0361,menstrual,dinner,Tofu and Mushroom Ramen (Quick Prep),vegan,44,3,0.994,361.0,30.3,4.53,97.2,2.0,0.227,1025.5,3.05,5.4,0.595,true
+MEAL-0465,menstrual,lunch,Spinach and Chickpea Curry (Low Carb),vegan,24,3,0.664,484.0,25.4,6.91,171.5,18.9,0.734,122.8,3.9,15.5,0.264,true
+MEAL-0027,menstrual,dinner,Venison Steak with Red Cabbage,gluten_free;dairy_free,46,4,1.063,580.0,60.8,9.18,145.4,31.1,1.187,77.4,10.01,5.7,0.135,true
+MEAL-0477,follicular,breakfast,Protein Pancakes with Berries (Low Carb),vegetarian,10,3,0.439,369.0,16.2,3.8,97.9,3.8,0.237,87.5,3.17,6.5,0.143,true
+MEAL-0034,follicular,breakfast,Egg White Veggie Scramble,vegetarian;gluten_free,22,3,0.39,339.0,14.5,3.37,94.3,3.1,0.321,77.4,2.81,5.9,0.126,true
+MEAL-0136,menstrual,dinner,Dark Chocolate Chili Con Carne (Seasonal),gluten_free,36,4,1.478,618.0,47.9,11.01,299.5,33.2,1.092,183.6,11.43,11.9,0.156,true
+MEAL-0112,luteal,dinner,Tofu and Vegetable Pad Thai,vegan,30,3,1.264,460.0,38.3,7.99,194.4,28.8,0.381,1400.9,3.89,8.1,0.756,true
+MEAL-0359,menstrual,dinner,Baked Salmon with Sweet Potato (Light Version),pescatarian;gluten_free,35,4,1.564,584.0,42.3,8.15,218.1,17.3,1.651,116.8,3.41,12.1,0.447,true
+MEAL-0211,luteal,lunch,Sweet Potato and Black Bean Bowl (Quick Prep),vegan;gluten_free,21,4,0.471,363.0,19.3,5.84,175.1,5.2,0.44,119.1,3.44,14.6,0.066,true
+MEAL-0355,menstrual,lunch,Mediterranean Sardine Salad (Quick Prep),pescatarian;gluten_free,23,3,1.138,398.0,33.8,7.5,199.3,25.6,0.517,504.8,3.31,5.8,1.663,true
+MEAL-0159,follicular,lunch,Chicken Caesar Salad (Low Carb),omnivore,30,4,1.236,558.0,48.5,6.41,220.4,27.8,1.168,570.9,5.34,6.3,0.21,true
+MEAL-0274,follicular,dinner,Grilled Steak with Asparagus (Seasonal),gluten_free;dairy_free,38,3,1.413,562.0,42.9,8.32,156.6,6.3,0.914,76.3,10.18,7.1,0.141,true
+MEAL-0483,follicular,breakfast,Cottage Cheese and Fruit Bowl (Low Carb),vegetarian;gluten_free,15,4,0.532,538.0,28.4,4.67,131.8,7.4,0.478,150.2,4.06,8.1,0.178,true
+MEAL-0485,follicular,snack,Berries and Almond Butter (Light Version),vegan;gluten_free,5,4,0.269,142.0,9.7,1.82,60.1,2.4,0.097,297.4,1.19,3.1,0.298,true
+MEAL-0251,menstrual,dinner,Venison Steak with Red Cabbage (Light Version),gluten_free;dairy_free,47,4,1.149,627.0,65.7,9.92,157.2,33.6,1.283,83.7,10.83,6.2,0.146,true
+MEAL-0272,follicular,lunch,Prawn Stir-Fry Noodles (Family Size),pescatarian;dairy_free,37,3,1.871,420.0,42.1,4.37,125.0,42.1,0.305,157.1,1.35,5.5,0.092,true
+MEAL-0473,menstrual,dinner,Tofu and Mushroom Ramen (Light Version),vegan,24,3,1.823,662.0,55.6,8.31,178.3,3.6,0.416,1880.5,5.6,9.9,1.091,true
+MEAL-0062,ovulation,breakfast,Pumpkin Seed Butter on Toast,vegan,16,4,0.387,279.0,16.6,3.57,104.1,3.5,0.224,435.7,2.08,5.4,0.525,true
+MEAL-0125,menstrual,snack,Molasses and Tahini Dip (Light Version),vegan,12,4,0.358,176.0,13.2,3.9,106.8,8.2,0.216,473.5,1.98,4.1,0.508,true
+MEAL-0219,luteal,dinner,Stuffed Sweet Potatoes (Low Carb),vegan;gluten_free,55,4,0.88,418.0,30.3,7.79,177.9,10.0,0.566,961.3,3.68,9.9,0.579,true
+MEAL-0046,follicular,lunch,Egg Fried Rice with Vegetables,vegetarian;dairy_free,22,3,0.501,387.0,13.1,5.08,55.2,11.3,0.341,109.7,2.06,1.7,0.092,true
+MEAL-0124,menstrual,snack,Energy Date Balls (Seasonal),vegan,15,3,0.534,202.0,17.9,4.24,121.2,12.2,0.236,600.1,2.18,4.6,0.354,true
+MEAL-0011,menstrual,snack,Warm Cinnamon Apple Slices,vegan,14,3,0.653,247.0,21.8,5.19,148.2,14.9,0.288,733.8,2.67,5.6,0.432,true
+MEAL-0083,ovulation,dinner,Crab Linguine,pescatarian;dairy_free,41,3,2.004,552.0,51.6,9.81,317.8,50.5,0.807,350.4,10.45,12.9,0.292,true
+MEAL-0086,luteal,breakfast,Banana Oat Pancakes,vegan,24,3,0.535,408.0,25.2,5.29,173.1,4.3,0.327,585.0,3.88,9.9,0.399,true
+MEAL-0157,follicular,lunch,Turkey and Avocado Wrap (Quick Prep),dairy_free,21,3,0.912,499.0,29.6,2.68,123.7,14.3,0.921,117.6,4.33,11.5,0.267,true
+MEAL-0205,luteal,snack,Roasted Chickpeas (Quick Prep),vegan;gluten_free,11,3,0.307,224.0,11.8,3.2,79.4,8.7,0.34,56.8,1.8,7.2,0.122,true
+MEAL-0230,menstrual,breakfast,Beetroot and Berry Smoothie (Family Size),vegan,10,4,0.705,542.0,33.9,7.44,227.9,9.1,0.269,781.1,5.32,14.5,0.53,true
+MEAL-0059,ovulation,breakfast,Nut and Seed Granola Bowl,vegan,15,3,0.358,273.0,16.9,3.54,115.8,2.9,0.219,391.4,2.6,6.6,0.267,true
+MEAL-0106,luteal,dinner,Banana Curry with Brown Rice,vegan;gluten_free,32,3,1.079,795.0,38.8,6.23,270.4,8.8,1.123,1122.4,5.45,10.9,0.707,true
+MEAL-0209,luteal,snack,Pumpkin Seed Clusters (Light Version),vegan,12,4,0.247,122.0,9.8,2.36,83.4,5.7,0.114,280.6,1.39,2.4,0.341,true
+MEAL-0418,ovulation,dinner,Lamb Kofta with Tabbouleh (Seasonal),omnivore,23,3,0.79,638.0,29.6,4.2,111.5,17.8,0.351,100.4,4.35,6.1,0.105,true
+MEAL-0069,ovulation,snack,Cashew and Cacao Bites,vegan;gluten_free,11,5,0.422,214.0,16.3,4.38,137.2,9.7,0.225,481.7,2.44,5.1,0.399,true
+MEAL-0213,luteal,lunch,Turkey and Sweet Potato Wrap (Low Carb),dairy_free,31,4,1.254,695.0,42.3,7.35,191.0,13.8,1.627,210.6,6.16,15.0,0.275,true
+MEAL-0287,ovulation,breakfast,Shellfish Omelette (Light Version),pescatarian;gluten_free,10,4,0.359,339.0,19.8,3.09,86.7,2.8,0.295,71.1,2.58,5.4,0.131,true
+MEAL-0261,follicular,snack,Berries and Almond Butter (Low Carb),vegan;gluten_free,6,4,0.286,151.0,10.3,1.94,63.9,2.6,0.103,316.3,1.27,3.3,0.317,true
+MEAL-0450,menstrual,breakfast,Dark Chocolate Overnight Oats (High Protein),vegan,13,4,0.504,394.0,24.6,5.55,183.4,4.1,0.313,556.9,3.93,10.8,0.378,true
+MEAL-0001,menstrual,breakfast,Iron-Boosted Spinach Omelette,vegetarian,22,3,0.311,251.0,11.9,3.28,87.3,7.0,0.202,84.9,2.33,4.5,0.102,true
+MEAL-0116,menstrual,breakfast,Lentil and Spinach Breakfast Bowl (Family Size),vegetarian,16,3,0.301,305.0,17.9,5.3,104.2,8.8,0.334,59.2,3.04,9.2,0.067,true
+MEAL-0137,menstrual,dinner,Tofu and Mushroom Ramen (Light Version),vegan,32,3,1.889,686.0,57.7,8.61,184.7,3.7,0.431,1948.6,5.8,10.3,1.131,true
+MEAL-0120,menstrual,snack,Trail Mix with Dark Chocolate (High Protein),vegan,5,4,0.605,240.0,21.2,5.48,161.5,13.8,0.273,686.4,2.8,7.0,0.402,true
+MEAL-0175,ovulation,breakfast,Shellfish Omelette (Quick Prep),pescatarian;gluten_free,18,4,0.343,324.0,18.9,2.96,82.8,2.7,0.282,68.0,2.47,5.2,0.125,true
+MEAL-0104,luteal,lunch,Lentil Dhal with Wholegrain Naan,vegan,20,3,0.755,647.0,37.3,11.57,137.1,22.4,0.797,165.5,5.05,18.7,0.089,true
+MEAL-0121,menstrual,snack,Ginger Tea with Honey (Quick Prep),vegetarian,5,4,0.355,174.0,8.4,2.39,52.6,8.1,0.236,81.5,1.44,1.9,0.085,true
+MEAL-0298,ovulation,lunch,Sushi Bowl with Edamame (Seasonal),pescatarian;gluten_free,22,3,0.663,419.0,18.6,7.16,133.4,21.0,0.318,122.3,2.57,7.5,0.182,true
+MEAL-0481,follicular,breakfast,Greek Yogurt Parfait (Quick Prep),vegetarian;gluten_free,16,4,0.49,469.0,25.7,4.28,126.5,3.8,0.45,178.0,3.91,7.4,0.159,true
+MEAL-0354,menstrual,lunch,Beef and Broccoli Stir-Fry (High Protein),gluten_free;dairy_free,33,3,0.841,344.0,26.0,4.01,97.9,60.0,0.6,60.9,5.97,4.6,0.083,true
+MEAL-0098,luteal,snack,Frozen Banana Bites,vegan;gluten_free,5,3,0.477,210.0,15.3,2.87,89.8,3.9,0.294,500.7,1.81,4.4,0.315,true
+MEAL-0072,ovulation,lunch,Spinach and Walnut Pesto Pasta,vegetarian,40,4,0.868,564.0,24.6,6.55,142.8,19.7,0.629,211.2,4.3,6.8,1.655,true
+MEAL-0050,follicular,dinner,Grilled Steak with Asparagus,gluten_free;dairy_free,52,3,1.557,619.0,47.2,9.17,172.5,7.0,1.006,84.1,11.21,7.8,0.155,true
+MEAL-0216,luteal,lunch,Lentil Dhal with Wholegrain Naan (High Protein),vegan,40,3,0.583,500.0,28.8,8.94,106.0,17.3,0.616,127.9,3.91,14.4,0.068,true
+MEAL-0132,menstrual,lunch,Black Bean and Quinoa Bowl (High Protein),vegan;gluten_free,25,3,1.014,683.0,40.5,11.64,401.9,22.8,0.742,287.9,7.3,28.8,0.147,true
+MEAL-0351,menstrual,lunch,Lentil and Kale Soup (Low Carb),vegan,25,3,0.721,513.0,32.9,9.18,133.4,74.1,0.847,139.1,4.8,16.1,0.102,true
+MEAL-0245,menstrual,lunch,Liver Pate Sandwich (Light Version),dairy_free,22,3,0.835,394.0,27.4,13.65,111.9,37.1,1.06,147.2,4.17,7.3,0.111,true
+MEAL-0155,follicular,lunch,Grilled Chicken Quinoa Bowl (Light Version),gluten_free;dairy_free,40,3,1.701,568.0,48.5,8.4,280.9,38.2,1.561,181.6,5.95,8.7,0.274,true
+MEAL-0089,luteal,breakfast,Warm Millet Porridge,vegan;gluten_free,23,4,0.485,592.0,29.1,7.08,226.1,3.9,0.513,538.3,5.05,11.0,0.438,true
+MEAL-0149,follicular,snack,Berries and Almond Butter (Light Version),vegan;gluten_free,8,4,0.311,164.0,11.2,2.11,69.4,2.8,0.112,343.5,1.38,3.6,0.344,true
+MEAL-0210,luteal,snack,Frozen Banana Bites (High Protein),vegan;gluten_free,9,3,0.602,265.0,19.4,3.62,113.3,4.9,0.371,631.9,2.29,5.5,0.397,true
+MEAL-0152,follicular,snack,Protein Smoothie (Family Size),vegetarian;gluten_free,11,3,0.332,161.0,7.8,2.22,48.2,7.5,0.217,76.0,1.34,1.7,0.08,true
+MEAL-0064,ovulation,snack,Oyster Mushroom Crisps,vegan;gluten_free,14,3,0.41,155.0,13.8,2.54,70.2,0.8,0.151,429.9,1.67,3.1,0.272,true
+MEAL-0147,follicular,breakfast,Cottage Cheese and Fruit Bowl (Low Carb),vegetarian;gluten_free,13,4,0.33,334.0,17.7,2.9,81.8,4.6,0.297,93.2,2.52,5.0,0.11,true
+MEAL-0487,follicular,snack,Edamame with Sea Salt (Quick Prep),vegan;gluten_free,7,3,0.422,145.0,10.7,3.1,99.5,13.3,0.191,81.8,1.6,5.4,0.139,true
+MEAL-0263,follicular,snack,Edamame with Sea Salt (Light Version),vegan;gluten_free,11,3,0.378,130.0,9.6,2.78,89.2,12.0,0.171,73.4,1.43,4.9,0.124,true
+MEAL-0016,menstrual,lunch,Salmon Teriyaki Rice Bowl,pescatarian;gluten_free,18,3,1.172,662.0,33.6,9.08,151.8,26.4,1.032,112.9,2.54,4.0,0.275,true
+MEAL-0334,luteal,dinner,Pumpkin and Sage Risotto (Seasonal),vegetarian;gluten_free,27,3,0.654,505.0,17.1,6.62,72.0,14.7,0.445,143.2,2.69,2.2,0.12,true
+MEAL-0053,follicular,dinner,Turkey Meatballs with Pasta,dairy_free,54,3,1.793,672.0,59.3,9.93,279.0,40.3,1.693,210.9,8.7,11.5,0.311,true
+MEAL-0377,follicular,snack,Turkey Roll-Ups (Light Version),gluten_free;dairy_free,14,3,0.676,230.0,21.1,3.56,113.4,15.2,0.663,82.8,3.08,3.5,0.137,true
+MEAL-0430,luteal,snack,Yogurt with Sunflower Seeds (Seasonal),vegetarian;gluten_free,9,4,0.356,204.0,13.8,2.42,57.5,8.0,0.266,140.2,1.71,1.8,0.086,true
+MEAL-0040,follicular,snack,Protein Smoothie,vegetarian;gluten_free,15,3,0.266,129.0,6.2,1.78,38.6,6.0,0.174,60.9,1.07,1.4,0.064,true
+MEAL-0429,luteal,snack,Roasted Chickpeas (Low Carb),vegan;gluten_free,9,3,0.367,268.0,14.1,3.83,95.0,10.5,0.406,68.0,2.16,8.6,0.146,true
+MEAL-0020,menstrual,lunch,Black Bean and Quinoa Bowl,vegan;gluten_free,31,3,0.824,555.0,32.9,9.46,326.5,18.5,0.603,234.0,5.94,23.4,0.119,true
+MEAL-0427,luteal,breakfast,Avocado and Black Bean Breakfast Tacos (Quick Prep),vegan;gluten_free,24,3,0.55,485.0,22.7,5.04,200.6,8.6,0.419,160.0,4.08,19.7,0.129,true
+MEAL-0244,menstrual,lunch,Black Bean and Quinoa Bowl (Seasonal),vegan;gluten_free,24,3,0.899,606.0,35.9,10.33,356.5,20.2,0.659,255.5,6.48,25.5,0.13,true
+MEAL-0073,ovulation,lunch,Grilled Lamb Chop Salad,gluten_free,34,3,0.783,392.0,21.5,4.55,129.3,17.6,0.36,93.0,4.56,4.0,0.143,true
+MEAL-0461,menstrual,snack,Molasses and Tahini Dip (Light Version),vegan,15,4,0.48,236.0,17.7,5.23,143.2,10.9,0.289,634.9,2.65,5.5,0.682,true
+MEAL-0144,follicular,breakfast,Quinoa Breakfast Porridge (High Protein),vegan,18,4,0.395,358.0,20.7,4.61,158.1,3.2,0.299,439.8,3.38,8.6,0.32,true
+MEAL-0126,menstrual,snack,Spinach and Cheese Muffin (High Protein),vegetarian,13,3,0.533,258.0,12.5,3.56,77.2,12.0,0.348,121.8,2.15,2.7,0.127,true
+MEAL-0373,follicular,snack,Berries and Almond Butter (Quick Prep),vegan;gluten_free,12,4,0.427,225.0,15.4,2.89,95.3,3.9,0.154,471.3,1.89,4.9,0.472,true
+MEAL-0498,follicular,dinner,Grilled Steak with Asparagus (High Protein),gluten_free;dairy_free,23,3,1.73,688.0,52.5,10.19,191.7,7.8,1.119,93.4,12.46,8.7,0.172,true
+MEAL-0143,follicular,breakfast,Acai Berry Bowl (Light Version),vegan,10,3,0.643,472.0,30.1,6.37,196.0,5.8,0.211,703.9,4.67,11.8,0.482,true
+MEAL-0364,menstrual,dinner,Mussels in White Wine Sauce (Seasonal),pescatarian,42,3,1.359,326.0,24.8,10.21,231.9,40.3,0.474,167.2,4.31,7.0,0.319,true
+MEAL-0222,luteal,dinner,Pumpkin and Sage Risotto (High Protein),vegetarian;gluten_free,31,3,0.785,606.0,20.5,7.95,86.5,17.6,0.534,171.8,3.23,2.7,0.144,true
+MEAL-0192,ovulation,dinner,Sesame-Crusted Tuna Steak (High Protein),pescatarian;dairy_free,28,4,1.057,428.0,33.8,8.27,270.7,23.8,0.923,321.9,3.91,8.4,1.285,true
+MEAL-0166,follicular,dinner,Prawn and Vegetable Curry (Seasonal),pescatarian;gluten_free,34,3,1.519,363.0,39.0,6.01,212.7,34.2,0.461,151.3,2.63,7.8,0.171,true
+MEAL-0186,ovulation,lunch,Sushi Bowl with Edamame (High Protein),pescatarian;gluten_free,29,3,0.905,572.0,25.4,9.78,182.1,28.6,0.434,167.0,3.5,10.2,0.248,true
+MEAL-0128,menstrual,lunch,Salmon Teriyaki Rice Bowl (Family Size),pescatarian;gluten_free,24,3,0.97,548.0,27.8,7.51,125.7,21.8,0.854,93.5,2.1,3.3,0.228,true
+MEAL-0449,menstrual,breakfast,Iron-Boosted Spinach Omelette (Light Version),vegetarian,18,3,0.548,442.0,21.0,5.78,153.6,12.3,0.355,149.5,4.1,7.9,0.179,true
+MEAL-0413,ovulation,lunch,Chickpea and Pumpkin Seed Salad (Light Version),vegan;gluten_free,39,4,0.659,556.0,29.1,7.93,242.7,19.0,0.742,128.8,4.87,16.3,0.733,true
+MEAL-0433,luteal,snack,Pumpkin Seed Clusters (Quick Prep),vegan,13,4,0.288,142.0,11.4,2.75,97.0,6.7,0.133,326.6,1.62,2.8,0.396,true
+MEAL-0199,luteal,breakfast,Brown Rice Pudding with Cardamom (Quick Prep),vegan;gluten_free,11,3,0.642,473.0,23.1,3.71,160.9,5.2,0.668,667.8,3.24,6.5,0.42,true
+MEAL-0306,ovulation,dinner,Lamb Kofta with Tabbouleh (High Protein),omnivore,22,3,0.625,505.0,23.4,3.33,88.3,14.1,0.278,79.5,3.45,4.9,0.084,true
+MEAL-0319,luteal,snack,Banana and Walnut Muffin (Quick Prep),vegetarian,11,4,0.254,172.0,6.4,1.36,35.0,2.1,0.238,44.1,1.11,1.8,0.492,true
+MEAL-0493,follicular,lunch,Turkey and Avocado Wrap (Quick Prep),dairy_free,40,3,1.151,630.0,37.3,3.38,156.1,18.0,1.163,148.5,5.47,14.5,0.337,true
+MEAL-0006,menstrual,breakfast,Beetroot and Berry Smoothie,vegan,21,4,0.509,391.0,24.5,5.37,164.4,6.6,0.194,563.5,3.84,10.5,0.383,true
+MEAL-0215,luteal,lunch,Baked Falafel Bowl (Light Version),vegan,31,3,0.709,517.0,27.1,7.39,183.2,20.2,0.784,131.2,4.16,16.6,0.282,true
+MEAL-0439,luteal,lunch,Baked Falafel Bowl (Quick Prep),vegan,21,3,0.624,455.0,23.9,6.5,161.3,17.8,0.69,115.5,3.66,14.6,0.248,true
+MEAL-0232,menstrual,snack,Trail Mix with Dark Chocolate (Seasonal),vegan,11,4,0.545,216.0,19.1,4.93,145.4,12.4,0.246,617.7,2.52,6.3,0.362,true
+MEAL-0110,luteal,dinner,Pumpkin and Sage Risotto,vegetarian;gluten_free,44,3,0.823,636.0,21.5,8.34,90.7,18.5,0.56,180.3,3.39,2.8,0.152,true
+MEAL-0176,ovulation,snack,Oyster Mushroom Crisps (Family Size),vegan;gluten_free,12,3,0.487,184.0,16.4,3.01,83.3,1.0,0.18,510.3,1.99,3.7,0.323,true
+MEAL-0470,menstrual,dinner,Lamb and Lentil Stew (Family Size),gluten_free;dairy_free,60,4,0.747,768.0,48.1,11.63,176.0,21.8,0.948,127.9,8.01,15.8,0.183,true
+MEAL-0474,menstrual,dinner,Chicken Liver Pate with Crostini (High Protein),dairy_free,46,4,0.746,480.0,40.1,12.93,118.7,33.1,1.405,136.9,5.04,6.5,0.166,true
+MEAL-0391,follicular,dinner,Chicken and Sweet Potato Bake (Quick Prep),gluten_free;dairy_free,60,4,1.158,499.0,34.2,6.78,162.6,12.8,1.298,87.6,4.16,9.0,0.182,true
+MEAL-0486,follicular,snack,Chicken Jerky Strips (High Protein),gluten_free;dairy_free,11,3,0.545,182.0,15.5,2.69,90.0,12.2,0.5,58.2,1.91,2.8,0.088,true
+MEAL-0414,ovulation,dinner,Grilled Oysters with Lemon (High Protein),pescatarian;gluten_free,55,3,2.329,548.0,37.4,19.92,372.2,69.1,0.812,248.7,38.87,11.9,0.728,true
+MEAL-0424,luteal,breakfast,Chickpea Flour Pancakes (Socca) (Seasonal),vegan;gluten_free,12,3,0.382,426.0,19.9,4.73,135.8,5.3,0.488,59.2,3.46,12.8,0.185,true
+MEAL-0123,menstrual,snack,Warm Cinnamon Apple Slices (Low Carb),vegan,10,3,0.645,244.0,21.6,5.12,146.4,14.7,0.285,724.8,2.64,5.5,0.427,true
+MEAL-0417,ovulation,dinner,Stuffed Bell Peppers (Low Carb),vegan;gluten_free,28,3,1.407,529.0,44.8,8.51,241.7,90.9,0.654,1481.3,5.3,11.5,0.926,true
+MEAL-0184,ovulation,lunch,Spinach and Walnut Pesto Pasta (Seasonal),vegetarian,27,4,0.698,454.0,19.8,5.27,115.0,15.9,0.506,170.0,3.46,5.4,1.332,true
+MEAL-0412,ovulation,lunch,Crab and Corn Chowder (Seasonal),pescatarian;gluten_free,40,3,1.536,447.0,37.0,4.41,210.4,12.5,0.502,156.8,7.45,8.5,0.294,true
+MEAL-0008,menstrual,snack,Trail Mix with Dark Chocolate,vegan,13,4,0.441,175.0,15.5,4.0,117.8,10.1,0.199,500.5,2.04,5.1,0.293,true
+MEAL-0024,menstrual,dinner,Dark Chocolate Chili Con Carne,gluten_free,53,4,1.836,768.0,59.6,13.69,372.2,41.3,1.357,228.1,14.21,14.8,0.193,true
+MEAL-0090,luteal,breakfast,Buckwheat Crepes with Banana,vegan;gluten_free,19,3,0.457,325.0,18.7,3.28,172.0,3.7,0.408,479.5,2.46,8.3,0.294,true
+MEAL-0353,menstrual,lunch,Spinach and Chickpea Curry (Light Version),vegan,18,3,0.452,330.0,17.3,4.71,117.0,12.9,0.5,83.7,2.66,10.6,0.18,true
+MEAL-0007,menstrual,breakfast,Fortified Cereal with Dried Apricots,vegan,10,3,0.544,395.0,25.8,5.44,167.8,5.1,0.179,599.0,3.97,9.8,0.406,true
+MEAL-0202,luteal,breakfast,Buckwheat Crepes with Banana (Seasonal),vegan;gluten_free,14,3,0.739,526.0,30.3,5.32,278.4,6.0,0.66,776.0,3.99,13.4,0.476,true
+MEAL-0286,ovulation,breakfast,Pumpkin Seed Butter on Toast (Seasonal),vegan,20,4,0.582,420.0,25.1,5.37,156.7,5.2,0.337,655.9,3.13,8.2,0.79,true
+MEAL-0303,ovulation,dinner,Roasted Chicken with Root Vegetables (Low Carb),gluten_free;dairy_free,27,3,1.622,565.0,43.7,4.88,181.0,7.7,1.415,87.6,5.29,9.1,0.259,true
+MEAL-0406,ovulation,snack,Seaweed Snack Pack (Seasonal),vegan;gluten_free,5,3,0.46,174.0,15.4,3.65,104.4,10.5,0.203,516.9,1.88,3.9,0.305,true
+MEAL-0078,ovulation,dinner,Grilled Oysters with Lemon,pescatarian;gluten_free,56,3,1.623,382.0,26.1,13.89,259.4,48.2,0.566,173.4,27.1,8.3,0.507,true
+MEAL-0398,ovulation,breakfast,Pumpkin Seed Butter on Toast (Family Size),vegan,17,4,0.624,450.0,26.8,5.76,167.9,5.6,0.361,702.7,3.36,8.8,0.846,true
+MEAL-0028,menstrual,dinner,Mussels in White Wine Sauce,pescatarian,28,3,2.886,692.0,52.7,21.67,492.3,85.6,1.006,354.9,9.15,14.8,0.678,true
+MEAL-0248,menstrual,dinner,Dark Chocolate Chili Con Carne (Family Size),gluten_free,47,4,1.659,694.0,53.8,12.37,336.4,37.3,1.226,206.2,12.84,13.4,0.175,true
+MEAL-0452,menstrual,breakfast,Lentil and Spinach Breakfast Bowl (Family Size),vegetarian,20,3,0.428,434.0,25.5,7.54,148.3,12.5,0.475,84.2,4.32,13.1,0.095,true
+MEAL-0395,ovulation,breakfast,Nut and Seed Granola Bowl (Light Version),vegan,13,3,0.64,488.0,30.2,6.33,207.1,5.2,0.391,699.7,4.64,11.8,0.478,true
+MEAL-0466,menstrual,lunch,Beef and Broccoli Stir-Fry (Seasonal),gluten_free;dairy_free,19,3,1.14,466.0,35.2,5.43,132.7,81.3,0.813,82.5,8.09,6.2,0.113,true
+MEAL-0036,follicular,snack,Boiled Eggs and Cherry Tomatoes,vegetarian;gluten_free,5,3,0.322,156.0,7.1,1.59,28.9,6.0,0.181,51.5,1.18,1.4,0.076,true
+MEAL-0172,ovulation,breakfast,Smoked Salmon Bagel (Seasonal),pescatarian,20,3,1.054,521.0,33.4,4.1,115.7,8.3,1.113,36.7,1.9,7.7,0.294,true
+MEAL-0431,luteal,snack,Banana and Walnut Muffin (Light Version),vegetarian,11,4,0.352,238.0,8.8,1.88,48.4,2.8,0.329,61.0,1.53,2.5,0.68,true
+MEAL-0434,luteal,snack,Frozen Banana Bites (Family Size),vegan;gluten_free,5,3,0.382,168.0,12.3,2.29,71.8,3.1,0.235,400.6,1.45,3.5,0.252,true
+MEAL-0238,menstrual,snack,Spinach and Cheese Muffin (Seasonal),vegetarian,9,3,0.213,103.0,5.0,1.42,30.8,4.8,0.139,48.6,0.86,1.1,0.051,true
+MEAL-0484,follicular,snack,Boiled Eggs and Cherry Tomatoes (Seasonal),vegetarian;gluten_free,8,3,0.258,125.0,5.7,1.27,23.2,4.8,0.145,41.2,0.95,1.1,0.061,true
+MEAL-0038,follicular,snack,Chicken Jerky Strips,gluten_free;dairy_free,5,3,0.404,135.0,11.5,2.0,66.8,9.1,0.371,43.2,1.41,2.1,0.065,true
+MEAL-0122,menstrual,snack,Beetroot Hummus with Veggies (Family Size),vegan,6,3,0.148,110.0,5.5,1.31,31.5,1.5,0.148,17.5,0.85,3.5,0.058,true
+MEAL-0328,luteal,lunch,Lentil Dhal with Wholegrain Naan (Seasonal),vegan,25,3,0.895,767.0,44.2,13.72,162.6,26.6,0.945,196.2,5.99,22.2,0.105,true
+MEAL-0496,follicular,lunch,Prawn Stir-Fry Noodles (Seasonal),pescatarian;dairy_free,39,3,2.343,526.0,52.8,5.47,156.5,52.7,0.382,196.8,1.7,6.9,0.115,true
+MEAL-0206,luteal,snack,Yogurt with Sunflower Seeds (Family Size),vegetarian;gluten_free,14,4,0.417,239.0,16.2,2.83,67.4,9.4,0.312,164.2,2.01,2.1,0.1,true
+MEAL-0426,luteal,breakfast,Buckwheat Crepes with Banana (High Protein),vegan;gluten_free,20,3,0.434,309.0,17.8,3.12,163.6,3.5,0.387,455.9,2.34,7.9,0.28,true
+MEAL-0271,follicular,lunch,Chicken Caesar Salad (Quick Prep),omnivore,19,4,1.413,638.0,55.4,7.33,252.0,31.8,1.335,652.7,6.1,7.2,0.24,true
+MEAL-0482,follicular,breakfast,Egg White Veggie Scramble (Family Size),vegetarian;gluten_free,21,3,0.34,295.0,12.6,2.93,82.1,2.7,0.279,67.3,2.44,5.1,0.11,true
+MEAL-0259,follicular,breakfast,Cottage Cheese and Fruit Bowl (Quick Prep),vegetarian;gluten_free,11,4,0.483,489.0,25.8,4.24,119.8,6.7,0.434,136.5,3.69,7.4,0.162,true
+MEAL-0270,follicular,lunch,Egg Fried Rice with Vegetables (High Protein),vegetarian;dairy_free,26,3,0.57,440.0,14.9,5.77,62.8,12.8,0.387,124.8,2.34,2.0,0.105,true
+MEAL-0275,follicular,dinner,Chicken Stir-Fry with Cashews (Light Version),dairy_free,44,4,0.974,433.0,31.3,6.11,217.8,22.0,0.975,111.2,4.53,5.6,0.432,true
+MEAL-0049,follicular,lunch,Greek Chicken Souvlaki Bowl,omnivore,26,3,1.449,484.0,41.3,7.16,239.4,32.6,1.33,154.8,5.07,7.4,0.234,true
+MEAL-0119,menstrual,breakfast,Fortified Cereal with Dried Apricots (Light Version),vegan,13,3,0.569,413.0,27.0,5.69,175.4,5.3,0.187,626.3,4.15,10.2,0.425,true
+MEAL-0472,menstrual,dinner,Dark Chocolate Chili Con Carne (Seasonal),gluten_free,44,4,1.612,674.0,52.3,12.01,326.7,36.2,1.191,200.2,12.47,13.0,0.17,true
+MEAL-0456,menstrual,snack,Trail Mix with Dark Chocolate (High Protein),vegan,15,4,0.545,216.0,19.1,4.93,145.4,12.4,0.246,617.7,2.52,6.3,0.362,true
+MEAL-0457,menstrual,snack,Ginger Tea with Honey (Quick Prep),vegetarian,12,4,0.226,111.0,5.3,1.52,33.6,5.2,0.151,52.0,0.92,1.2,0.054,true
+MEAL-0141,follicular,breakfast,Protein Pancakes with Berries (Low Carb),vegetarian,19,3,0.525,441.0,19.3,4.54,117.0,4.6,0.283,104.6,3.78,7.8,0.171,true
+MEAL-0476,menstrual,dinner,Mussels in White Wine Sauce (Family Size),pescatarian,42,3,1.939,465.0,35.4,14.56,330.8,57.6,0.676,238.5,6.15,9.9,0.456,true
+MEAL-0241,menstrual,lunch,Spinach and Chickpea Curry (Quick Prep),vegan,37,3,0.585,427.0,22.4,6.1,151.3,16.7,0.648,108.4,3.44,13.7,0.233,true
+MEAL-0291,ovulation,snack,Cucumber and Sesame Bites (Low Carb),vegan;gluten_free,5,4,0.246,121.0,9.1,2.68,73.4,5.6,0.148,325.5,1.36,2.8,0.35,true
+MEAL-0026,menstrual,dinner,Chicken Liver Pate with Crostini,dairy_free,31,4,0.634,408.0,34.1,10.99,100.9,28.2,1.194,116.4,4.29,5.5,0.141,true
+MEAL-0074,ovulation,lunch,Sushi Bowl with Edamame,pescatarian;gluten_free,18,3,0.715,452.0,20.1,7.73,143.9,22.6,0.343,132.0,2.77,8.0,0.196,true
+MEAL-0282,ovulation,breakfast,Avocado Toast with Pumpkin Seeds (High Protein),vegan,15,4,0.572,429.0,25.2,5.24,152.6,9.6,0.182,647.6,3.21,9.6,0.818,true
+MEAL-0225,menstrual,breakfast,Iron-Boosted Spinach Omelette (Low Carb),vegetarian,25,3,0.69,557.0,26.5,7.29,193.6,15.5,0.448,188.4,5.17,10.0,0.226,true
+MEAL-0435,luteal,lunch,Sweet Potato and Black Bean Bowl (Low Carb),vegan;gluten_free,35,4,0.445,343.0,18.2,5.52,165.4,4.9,0.416,112.6,3.25,13.8,0.063,true
+MEAL-0087,luteal,breakfast,Brown Rice Pudding with Cardamom,vegan;gluten_free,12,3,0.42,309.0,15.1,2.42,105.1,3.4,0.437,436.3,2.12,4.2,0.275,true
+MEAL-0091,luteal,breakfast,Avocado and Black Bean Breakfast Tacos,vegan;gluten_free,14,3,0.334,294.0,13.8,3.06,121.6,5.2,0.254,97.0,2.47,12.0,0.078,true
+MEAL-0322,luteal,snack,Frozen Banana Bites (Seasonal),vegan;gluten_free,7,3,0.443,195.0,14.3,2.66,83.3,3.6,0.273,465.0,1.68,4.1,0.292,true
+MEAL-0447,luteal,dinner,Black Bean Enchiladas (Low Carb),vegetarian;gluten_free,29,3,0.966,651.0,38.6,11.1,383.0,21.7,0.708,274.4,6.96,27.4,0.14,true
+MEAL-0169,ovulation,breakfast,Green Goddess Smoothie (Quick Prep),vegan;gluten_free,21,3,0.51,389.0,24.0,5.04,165.1,4.1,0.312,557.7,3.7,9.4,0.381,true
+MEAL-0409,ovulation,lunch,Grilled Lamb Chop Salad (Quick Prep),gluten_free,18,3,1.252,627.0,34.4,7.28,206.8,28.1,0.575,148.7,7.29,6.4,0.229,true
+MEAL-0308,ovulation,dinner,Beef and Cashew Stir-Fry (Family Size),dairy_free,27,4,1.181,603.0,40.8,9.07,261.2,26.7,0.96,143.4,9.86,6.8,0.456,true
+MEAL-0410,ovulation,lunch,Sushi Bowl with Edamame (Family Size),pescatarian;gluten_free,32,3,0.723,457.0,20.3,7.81,145.5,22.9,0.347,133.4,2.8,8.1,0.198,true
+MEAL-0163,follicular,dinner,Chicken Stir-Fry with Cashews (Quick Prep),dairy_free,33,4,1.386,616.0,44.5,8.7,309.8,31.3,1.387,158.2,6.45,8.0,0.615,true
+MEAL-0079,ovulation,dinner,Roasted Chicken with Root Vegetables,gluten_free;dairy_free,23,3,1.389,484.0,37.4,4.18,155.0,6.6,1.212,75.0,4.53,7.8,0.222,true
+MEAL-0236,menstrual,snack,Energy Date Balls (Family Size),vegan,7,3,0.423,160.0,14.2,3.36,96.0,9.6,0.187,475.3,1.73,3.6,0.28,true
+MEAL-0231,menstrual,breakfast,Fortified Cereal with Dried Apricots (Low Carb),vegan,10,3,0.419,304.0,19.9,4.19,129.1,3.9,0.138,461.0,3.06,7.5,0.313,true
+MEAL-0055,follicular,dinner,Chicken and Sweet Potato Bake,gluten_free;dairy_free,27,4,1.021,440.0,30.2,5.98,143.4,11.3,1.144,77.2,3.67,7.9,0.161,true
+MEAL-0388,follicular,dinner,Baked Cod with Herbed Couscous (Seasonal),pescatarian;dairy_free,52,3,1.064,578.0,35.8,4.05,154.0,24.9,0.541,130.2,1.94,8.3,0.089,true
+MEAL-0467,menstrual,lunch,Mediterranean Sardine Salad (Light Version),pescatarian;gluten_free,36,3,1.393,487.0,41.4,9.17,243.9,31.3,0.632,617.7,4.06,7.1,2.035,true
+MEAL-0267,follicular,lunch,Grilled Chicken Quinoa Bowl (Low Carb),gluten_free;dairy_free,34,3,1.171,391.0,33.4,5.78,193.4,26.3,1.075,125.0,4.09,6.0,0.189,true
+MEAL-0250,menstrual,dinner,Chicken Liver Pate with Crostini (Seasonal),dairy_free,32,4,0.519,334.0,27.9,9.0,82.6,23.1,0.978,95.3,3.51,4.5,0.115,true
+MEAL-0096,luteal,snack,Chamomile Tea with Almond Milk,vegan;gluten_free,8,4,0.295,146.0,11.1,2.57,83.0,6.7,0.139,348.0,1.39,3.3,0.327,true
+MEAL-0109,luteal,dinner,Chicken and Chickpea Tagine,dairy_free,34,4,0.546,492.0,32.3,6.23,154.9,15.6,0.939,105.0,4.17,12.8,0.267,true
+MEAL-0376,follicular,snack,Protein Smoothie (Seasonal),vegetarian;gluten_free,14,3,0.273,132.0,6.4,1.82,39.5,6.1,0.178,62.3,1.1,1.4,0.065,true
+MEAL-0310,luteal,breakfast,Banana Oat Pancakes (Seasonal),vegan,18,3,0.669,510.0,31.5,6.61,216.4,5.4,0.409,731.2,4.85,12.4,0.499,true
+MEAL-0384,follicular,lunch,Prawn Stir-Fry Noodles (High Protein),pescatarian;dairy_free,37,3,1.893,425.0,42.6,4.42,126.5,42.6,0.309,159.0,1.37,5.6,0.093,true
+MEAL-0445,luteal,dinner,Chicken and Chickpea Tagine (Quick Prep),dairy_free,45,4,0.723,651.0,42.8,8.24,205.0,20.6,1.243,138.9,5.52,16.9,0.353,true
+MEAL-0235,menstrual,snack,Warm Cinnamon Apple Slices (Quick Prep),vegan,10,3,0.682,258.0,22.8,5.42,154.8,15.5,0.301,766.4,2.79,5.8,0.451,true
+MEAL-0420,ovulation,dinner,Beef and Cashew Stir-Fry (High Protein),dairy_free,20,4,0.768,392.0,26.5,5.9,169.8,17.3,0.624,93.2,6.41,4.4,0.296,true
+MEAL-0268,follicular,lunch,Tuna Nicoise Salad (Seasonal),pescatarian;gluten_free,20,3,1.565,457.0,44.7,7.63,289.5,35.2,1.116,167.1,3.56,8.0,0.717,true
+MEAL-0265,follicular,snack,Turkey Roll-Ups (Quick Prep),gluten_free;dairy_free,10,3,0.688,234.0,21.4,3.62,115.3,15.5,0.675,84.2,3.13,3.5,0.14,true
+MEAL-0204,luteal,snack,Dark Chocolate and Banana (High Protein),vegan;gluten_free,9,4,0.563,258.0,19.0,4.01,128.4,4.6,0.352,596.5,2.44,6.8,0.372,true
+MEAL-0404,ovulation,snack,Pomegranate and Pistachio Mix (Family Size),vegan;gluten_free,14,3,0.351,133.0,11.8,2.79,79.8,8.0,0.155,395.1,1.44,3.0,0.233,true
+MEAL-0113,menstrual,breakfast,Iron-Boosted Spinach Omelette (Light Version),vegetarian,16,3,0.411,332.0,15.8,4.34,115.4,9.2,0.267,112.3,3.08,6.0,0.134,true
+MEAL-0111,luteal,dinner,Black Bean Enchiladas,vegetarian;gluten_free,37,3,0.721,486.0,28.8,8.28,285.9,16.2,0.528,204.9,5.2,20.5,0.104,true
+MEAL-0419,ovulation,dinner,Crab Linguine (Light Version),pescatarian;dairy_free,21,3,2.113,582.0,54.4,10.35,335.0,53.2,0.851,369.5,11.02,13.6,0.308,true
+MEAL-0162,follicular,dinner,Grilled Steak with Asparagus (High Protein),gluten_free;dairy_free,57,3,1.72,684.0,52.2,10.13,190.6,7.7,1.112,92.9,12.39,8.7,0.171,true
+MEAL-0284,ovulation,breakfast,Smoked Salmon Bagel (Family Size),pescatarian,17,3,0.591,292.0,18.7,2.3,64.8,4.6,0.624,20.6,1.07,4.3,0.165,true
+MEAL-0478,follicular,breakfast,Scrambled Eggs with Smoked Turkey (Seasonal),dairy_free,22,4,0.489,512.0,29.7,4.86,131.8,3.8,0.734,108.2,4.9,7.4,0.223,true
+MEAL-0500,follicular,dinner,Baked Cod with Herbed Couscous (Family Size),pescatarian;dairy_free,54,3,1.134,616.0,38.1,4.31,164.1,26.5,0.576,138.8,2.07,8.8,0.095,true
+MEAL-0076,ovulation,lunch,Crab and Corn Chowder,pescatarian;gluten_free,28,3,1.398,407.0,33.7,4.01,191.5,11.4,0.457,142.8,6.79,7.7,0.268,true
+MEAL-0411,ovulation,lunch,Roasted Beetroot and Goat Cheese Salad (Low Carb),vegetarian;gluten_free,39,4,0.442,399.0,19.0,4.25,106.4,1.7,0.275,109.9,3.37,6.6,0.146,true
+MEAL-0464,menstrual,lunch,Salmon Teriyaki Rice Bowl (Family Size),pescatarian;gluten_free,35,3,0.99,559.0,28.4,7.66,128.2,22.3,0.871,95.3,2.15,3.4,0.232,true
+MEAL-0035,follicular,breakfast,Cottage Cheese and Fruit Bowl,vegetarian;gluten_free,13,4,0.303,306.0,16.2,2.66,74.9,4.2,0.272,85.4,2.31,4.6,0.101,true
+MEAL-0385,follicular,lunch,Greek Chicken Souvlaki Bowl (Quick Prep),omnivore,21,3,1.464,489.0,41.7,7.23,241.9,32.9,1.344,156.4,5.12,7.5,0.236,true
+MEAL-0068,ovulation,snack,Pomegranate and Pistachio Mix,vegan;gluten_free,13,3,0.362,137.0,12.1,2.88,82.2,8.2,0.16,407.0,1.48,3.1,0.24,true
+MEAL-0327,luteal,lunch,Baked Falafel Bowl (Low Carb),vegan,33,3,1.036,756.0,39.7,10.8,267.9,29.5,1.146,191.9,6.09,24.3,0.413,true
+MEAL-0446,luteal,dinner,Pumpkin and Sage Risotto (Family Size),vegetarian;gluten_free,54,3,0.739,571.0,19.3,7.49,81.5,16.6,0.503,161.9,3.04,2.5,0.136,true
+MEAL-0372,follicular,snack,Boiled Eggs and Cherry Tomatoes (High Protein),vegetarian;gluten_free,15,3,0.462,224.0,10.2,2.28,41.5,8.7,0.26,73.9,1.69,2.0,0.109,true
+MEAL-0403,ovulation,snack,Cucumber and Sesame Bites (Quick Prep),vegan;gluten_free,6,4,0.393,193.0,14.5,4.28,117.1,8.9,0.236,519.2,2.17,4.5,0.558,true
+MEAL-0339,menstrual,breakfast,Ginger Turmeric Smoothie Bowl (Low Carb),vegan,25,4,0.71,546.0,33.6,7.05,232.2,6.1,0.443,777.2,5.17,13.3,0.531,true
+MEAL-0311,luteal,breakfast,Brown Rice Pudding with Cardamom (Light Version),vegan;gluten_free,14,3,0.523,385.0,18.8,3.02,130.9,4.2,0.544,543.5,2.64,5.3,0.342,true
+MEAL-0408,ovulation,lunch,Spinach and Walnut Pesto Pasta (High Protein),vegetarian,28,4,0.728,473.0,20.7,5.49,119.8,16.5,0.528,177.1,3.6,5.7,1.388,true
+MEAL-0198,luteal,breakfast,Banana Oat Pancakes (High Protein),vegan,16,3,0.537,410.0,25.3,5.31,174.0,4.4,0.328,587.8,3.9,9.9,0.401,true
+MEAL-0390,follicular,dinner,Prawn and Vegetable Curry (High Protein),pescatarian;gluten_free,52,3,2.214,529.0,56.8,8.76,310.0,49.8,0.672,220.5,3.84,11.3,0.249,true
+MEAL-0103,luteal,lunch,Baked Falafel Bowl,vegan,22,3,0.624,455.0,23.9,6.5,161.3,17.8,0.69,115.5,3.66,14.6,0.248,true
+MEAL-0115,menstrual,breakfast,Ginger Turmeric Smoothie Bowl (Quick Prep),vegan,23,4,0.512,394.0,24.2,5.09,167.5,4.4,0.32,560.8,3.73,9.6,0.383,true
+MEAL-0212,luteal,lunch,Chickpea and Brown Rice Salad (Family Size),vegan;gluten_free,18,3,0.49,503.0,20.6,4.99,157.4,14.0,0.751,86.1,3.49,12.0,0.193,true
+MEAL-0030,follicular,breakfast,Scrambled Eggs with Smoked Turkey,dairy_free,25,4,0.299,313.0,18.2,2.97,80.5,2.3,0.449,66.1,3.0,4.5,0.136,true
+MEAL-0102,luteal,lunch,Mushroom and Barley Soup,vegan,20,3,0.714,470.0,30.9,6.22,181.2,1.4,0.43,761.3,4.35,17.9,0.474,true
+MEAL-0237,menstrual,snack,Molasses and Tahini Dip (Low Carb),vegan,11,4,0.236,116.0,8.7,2.57,70.4,5.4,0.142,312.0,1.3,2.7,0.335,true
+MEAL-0471,menstrual,dinner,Baked Salmon with Sweet Potato (Low Carb),pescatarian;gluten_free,45,4,1.502,561.0,40.6,7.83,209.5,16.6,1.586,112.2,3.27,11.7,0.429,true
+MEAL-0495,follicular,lunch,Chicken Caesar Salad (Low Carb),omnivore,20,4,0.87,393.0,34.1,4.51,155.3,19.6,0.823,402.1,3.76,4.5,0.148,true
+MEAL-0317,luteal,snack,Roasted Chickpeas (Light Version),vegan;gluten_free,12,3,0.337,246.0,12.9,3.51,87.2,9.6,0.373,62.4,1.98,7.9,0.134,true
+MEAL-0309,luteal,breakfast,Sweet Potato and Banana Smoothie (Low Carb),vegan;gluten_free,12,5,0.374,328.0,18.9,4.84,135.3,7.2,0.362,426.5,2.9,8.6,0.28,true
+MEAL-0499,follicular,dinner,Chicken Stir-Fry with Cashews (Quick Prep),dairy_free,59,4,1.43,636.0,46.0,8.98,319.9,32.3,1.433,163.4,6.65,8.3,0.635,true
+MEAL-0014,menstrual,snack,Spinach and Cheese Muffin,vegetarian,7,3,0.299,145.0,7.0,2.0,43.4,6.7,0.196,68.4,1.21,1.5,0.072,true
+MEAL-0218,luteal,dinner,Banana Curry with Brown Rice (Family Size),vegan;gluten_free,48,3,1.103,812.0,39.6,6.36,276.2,9.0,1.147,1146.4,5.56,11.1,0.722,true
+MEAL-0229,menstrual,breakfast,Salmon Avocado Toast (Quick Prep),pescatarian,14,3,0.803,428.0,24.6,3.12,75.4,13.0,0.57,82.6,1.67,9.6,0.275,true
+MEAL-0003,menstrual,breakfast,Ginger Turmeric Smoothie Bowl,vegan,14,4,0.632,486.0,29.9,6.28,206.7,5.4,0.394,691.8,4.6,11.8,0.472,true
+MEAL-0269,follicular,lunch,Turkey and Avocado Wrap (Light Version),dairy_free,39,3,1.177,644.0,38.2,3.46,159.6,18.4,1.188,151.8,5.59,14.8,0.345,true
+MEAL-0394,ovulation,breakfast,Avocado Toast with Pumpkin Seeds (Seasonal),vegan,20,4,0.379,284.0,16.7,3.47,101.0,6.4,0.121,428.7,2.13,6.3,0.542,true
+MEAL-0041,follicular,snack,Turkey Roll-Ups,gluten_free;dairy_free,12,3,0.571,194.0,17.8,3.0,95.6,12.8,0.559,69.8,2.6,2.9,0.116,true
+MEAL-0156,follicular,lunch,Tuna Nicoise Salad (High Protein),pescatarian;gluten_free,18,3,2.24,654.0,64.0,10.92,414.3,50.3,1.597,239.2,5.09,11.5,1.026,true
+MEAL-0400,ovulation,snack,Oyster Mushroom Crisps (Seasonal),vegan;gluten_free,11,3,0.461,174.0,15.5,2.85,78.8,0.9,0.17,482.6,1.88,3.5,0.305,true
+MEAL-0183,ovulation,lunch,Prawn and Avocado Salad (Low Carb),pescatarian;gluten_free,16,3,1.126,370.0,28.6,2.19,110.8,17.6,0.245,33.1,1.88,9.5,0.205,true
+MEAL-0441,luteal,lunch,Brown Rice Sushi Rolls (Low Carb),vegan,21,3,0.894,603.0,33.3,6.89,258.6,20.4,0.774,995.9,4.77,8.5,0.587,true
+MEAL-0256,follicular,breakfast,Quinoa Breakfast Porridge (Seasonal),vegan,22,4,0.504,457.0,26.4,5.88,201.8,4.1,0.382,561.5,4.31,11.0,0.409,true
+MEAL-0227,menstrual,breakfast,Ginger Turmeric Smoothie Bowl (Light Version),vegan,15,4,0.456,351.0,21.6,4.53,149.3,3.9,0.285,499.6,3.32,8.5,0.341,true
+MEAL-0258,follicular,breakfast,Egg White Veggie Scramble (High Protein),vegetarian;gluten_free,16,3,0.592,514.0,22.0,5.1,143.0,4.6,0.487,117.3,4.26,8.9,0.192,true
+MEAL-0214,luteal,lunch,Mushroom and Barley Soup (Seasonal),vegan,34,3,1.119,737.0,48.5,9.75,284.1,2.2,0.675,1193.8,6.82,28.0,0.743,true
+MEAL-0423,luteal,breakfast,Brown Rice Pudding with Cardamom (Low Carb),vegan;gluten_free,19,3,0.747,550.0,26.8,4.31,187.1,6.1,0.777,776.5,3.77,7.5,0.489,true
+MEAL-0488,follicular,snack,Protein Smoothie (Family Size),vegetarian;gluten_free,13,3,0.312,151.0,7.3,2.08,45.2,7.0,0.204,71.3,1.26,1.6,0.075,true
+MEAL-0281,ovulation,breakfast,Green Goddess Smoothie (Light Version),vegan;gluten_free,22,3,0.527,402.0,24.8,5.21,170.6,4.3,0.322,576.4,3.82,9.8,0.394,true
+MEAL-0497,follicular,lunch,Greek Chicken Souvlaki Bowl (Light Version),omnivore,35,3,1.778,594.0,50.7,8.79,293.8,40.0,1.633,189.9,6.22,9.1,0.287,true
+MEAL-0458,menstrual,snack,Beetroot Hummus with Veggies (Family Size),vegan,12,3,0.259,193.0,9.7,2.3,55.3,2.6,0.26,30.7,1.48,6.2,0.102,true
+MEAL-0101,luteal,lunch,Turkey and Sweet Potato Wrap,dairy_free,39,4,0.857,475.0,28.9,5.02,130.6,9.5,1.112,143.9,4.21,10.2,0.188,true
+MEAL-0133,menstrual,lunch,Liver Pate Sandwich (Quick Prep),dairy_free,19,3,1.1,519.0,36.1,17.98,147.3,48.9,1.396,194.0,5.49,9.6,0.146,true
+MEAL-0018,menstrual,lunch,Beef and Broccoli Stir-Fry,gluten_free;dairy_free,15,3,1.089,445.0,33.6,5.18,126.7,77.7,0.777,78.8,7.72,5.9,0.108,true
+MEAL-0448,luteal,dinner,Tofu and Vegetable Pad Thai (Seasonal),vegan,33,3,1.821,663.0,55.3,11.52,280.1,41.5,0.549,2019.1,5.61,11.7,1.09,true
+MEAL-0117,menstrual,breakfast,Salmon Avocado Toast (Low Carb),pescatarian,22,3,0.771,411.0,23.6,3.0,72.4,12.4,0.547,79.3,1.6,9.3,0.264,true
+MEAL-0379,follicular,lunch,Grilled Chicken Quinoa Bowl (Quick Prep),gluten_free;dairy_free,26,3,1.24,414.0,35.3,6.12,204.8,27.9,1.138,132.4,4.33,6.3,0.2,true
+MEAL-0100,luteal,lunch,Chickpea and Brown Rice Salad,vegan;gluten_free,17,3,0.672,689.0,28.2,6.84,215.5,19.1,1.028,117.9,4.78,16.4,0.264,true
+MEAL-0357,menstrual,lunch,Liver Pate Sandwich (Low Carb),dairy_free,31,3,1.383,653.0,45.4,22.62,185.4,61.5,1.756,244.0,6.91,12.1,0.183,true
+MEAL-0071,ovulation,lunch,Prawn and Avocado Salad,pescatarian;gluten_free,33,3,0.995,327.0,25.3,1.93,98.0,15.6,0.217,29.3,1.66,8.4,0.181,true
+MEAL-0052,follicular,dinner,Baked Cod with Herbed Couscous,pescatarian;dairy_free,28,3,0.791,430.0,26.6,3.01,114.6,18.5,0.402,96.9,1.44,6.1,0.067,true
+MEAL-0167,follicular,dinner,Chicken and Sweet Potato Bake (Light Version),gluten_free;dairy_free,55,4,1.325,571.0,39.1,7.76,186.1,14.6,1.485,100.2,4.76,10.3,0.208,true
+MEAL-0347,menstrual,snack,Warm Cinnamon Apple Slices (Light Version),vegan,14,3,0.573,217.0,19.2,4.56,130.2,13.1,0.253,644.6,2.34,4.9,0.38,true
+MEAL-0320,luteal,snack,Chamomile Tea with Almond Milk (Family Size),vegan;gluten_free,8,4,0.563,278.0,21.2,4.89,158.1,12.8,0.264,662.6,2.65,6.2,0.622,true
+MEAL-0324,luteal,lunch,Chickpea and Brown Rice Salad (High Protein),vegan;gluten_free,24,3,0.643,660.0,27.0,6.55,206.5,18.3,0.985,112.9,4.58,15.7,0.253,true
+MEAL-0280,follicular,dinner,Salmon Pasta Bake (Seasonal),pescatarian,20,3,1.605,500.0,44.8,7.34,244.5,36.1,1.312,162.3,3.83,10.3,0.417,true
+MEAL-0095,luteal,snack,Banana and Walnut Muffin,vegetarian,14,4,0.23,156.0,5.8,1.23,31.7,1.9,0.216,40.0,1.01,1.6,0.446,true
+MEAL-0233,menstrual,snack,Ginger Tea with Honey (Light Version),vegetarian,5,4,0.33,162.0,7.8,2.22,49.0,7.6,0.22,75.9,1.34,1.7,0.079,true
+MEAL-0475,menstrual,dinner,Venison Steak with Red Cabbage (Quick Prep),gluten_free;dairy_free,41,4,1.255,685.0,71.8,10.84,171.8,36.8,1.402,91.4,11.83,6.7,0.159,true
+MEAL-0145,follicular,breakfast,Greek Yogurt Parfait (Quick Prep),vegetarian;gluten_free,24,4,0.418,400.0,21.9,3.65,107.9,3.3,0.383,151.8,3.33,6.3,0.136,true
+MEAL-0344,menstrual,snack,Trail Mix with Dark Chocolate (Family Size),vegan,10,4,0.499,198.0,17.5,4.52,133.2,11.4,0.225,566.3,2.31,5.8,0.331,true
+MEAL-0194,ovulation,dinner,Lamb Kofta with Tabbouleh (Family Size),omnivore,56,3,0.707,571.0,26.5,3.76,99.8,15.9,0.314,89.9,3.9,5.5,0.094,true
+MEAL-0399,ovulation,breakfast,Shellfish Omelette (Low Carb),pescatarian;gluten_free,23,4,0.395,373.0,21.8,3.4,95.4,3.1,0.325,78.2,2.84,5.9,0.144,true
+MEAL-0009,menstrual,snack,Ginger Tea with Honey,vegetarian,5,4,0.477,234.0,11.2,3.21,70.8,10.9,0.318,109.6,1.94,2.5,0.114,true
+MEAL-0153,follicular,snack,Turkey Roll-Ups (Low Carb),gluten_free;dairy_free,12,3,0.559,190.0,17.4,2.94,93.7,12.6,0.548,68.4,2.54,2.9,0.114,true
+MEAL-0349,menstrual,snack,Molasses and Tahini Dip (Quick Prep),vegan,11,4,0.464,228.0,17.1,5.06,138.4,10.6,0.279,613.3,2.56,5.3,0.659,true
+MEAL-0396,ovulation,breakfast,Smoked Salmon Bagel (High Protein),pescatarian,25,3,0.649,321.0,20.6,2.52,71.3,5.1,0.686,22.6,1.17,4.7,0.181,true
+MEAL-0362,menstrual,dinner,Chicken Liver Pate with Crostini (Family Size),dairy_free,53,4,1.041,670.0,55.9,18.05,165.7,46.3,1.961,191.1,7.04,9.1,0.232,true
+MEAL-0490,follicular,snack,Rice Cake with Tuna (Seasonal),gluten_free;dairy_free,9,3,0.231,134.0,7.2,1.92,34.7,5.2,0.171,22.5,0.54,0.8,0.093,true
+MEAL-0348,menstrual,snack,Energy Date Balls (High Protein),vegan,5,3,0.275,104.0,9.2,2.18,62.4,6.3,0.121,308.9,1.12,2.4,0.182,true
+MEAL-0118,menstrual,breakfast,Beetroot and Berry Smoothie (Seasonal),vegan,12,4,0.428,329.0,20.6,4.51,138.4,5.5,0.163,474.1,3.23,8.8,0.322,true
+MEAL-0255,follicular,breakfast,Acai Berry Bowl (Low Carb),vegan,23,3,0.432,317.0,20.2,4.28,131.6,3.9,0.141,472.7,3.14,7.9,0.324,true
+MEAL-0336,luteal,dinner,Tofu and Vegetable Pad Thai (High Protein),vegan,35,3,2.264,824.0,68.7,14.32,348.2,51.6,0.682,2509.4,6.97,14.5,1.355,true
+MEAL-0058,ovulation,breakfast,Avocado Toast with Pumpkin Seeds,vegan,24,4,0.41,307.0,18.1,3.75,109.2,6.9,0.13,463.4,2.3,6.9,0.585,true
+MEAL-0203,luteal,breakfast,Avocado and Black Bean Breakfast Tacos (Light Version),vegan;gluten_free,17,3,0.393,346.0,16.2,3.6,143.1,6.1,0.299,114.2,2.91,14.1,0.092,true
+MEAL-0307,ovulation,dinner,Crab Linguine (Quick Prep),pescatarian;dairy_free,28,3,2.403,662.0,61.8,11.77,381.1,60.5,0.967,420.3,12.54,15.5,0.35,true
+MEAL-0299,ovulation,lunch,Roasted Beetroot and Goat Cheese Salad (Light Version),vegetarian;gluten_free,38,4,0.561,506.0,24.1,5.39,134.9,2.2,0.348,139.4,4.27,8.4,0.185,true
+MEAL-0188,ovulation,lunch,Crab and Corn Chowder (Family Size),pescatarian;gluten_free,40,3,1.127,328.0,27.2,3.23,154.4,9.2,0.368,115.0,5.47,6.2,0.216,true
+MEAL-0191,ovulation,dinner,Roasted Chicken with Root Vegetables (Light Version),gluten_free;dairy_free,57,3,1.693,590.0,45.6,5.1,189.0,8.0,1.477,91.4,5.53,9.5,0.27,true
+MEAL-0278,follicular,dinner,Prawn and Vegetable Curry (Family Size),pescatarian;gluten_free,44,3,2.871,686.0,73.7,11.36,402.0,64.6,0.872,286.0,4.97,14.7,0.323,true
+MEAL-0455,menstrual,breakfast,Fortified Cereal with Dried Apricots (Light Version),vegan,13,3,0.386,280.0,18.3,3.86,118.9,3.6,0.127,424.6,2.82,6.9,0.288,true
+MEAL-0337,menstrual,breakfast,Iron-Boosted Spinach Omelette (Quick Prep),vegetarian,21,3,0.6,484.0,23.0,6.33,168.2,13.5,0.389,163.7,4.49,8.7,0.196,true
+MEAL-0146,follicular,breakfast,Egg White Veggie Scramble (Family Size),vegetarian;gluten_free,16,3,0.361,314.0,13.4,3.12,87.3,2.8,0.297,71.7,2.6,5.4,0.117,true
+MEAL-0092,luteal,snack,Dark Chocolate and Banana,vegan;gluten_free,13,4,0.559,256.0,18.8,3.98,127.4,4.5,0.349,591.8,2.43,6.8,0.369,true
+MEAL-0342,menstrual,breakfast,Beetroot and Berry Smoothie (High Protein),vegan,12,4,0.514,395.0,24.7,5.42,166.1,6.7,0.196,569.2,3.88,10.6,0.387,true
+MEAL-0369,follicular,breakfast,Greek Yogurt Parfait (Low Carb),vegetarian;gluten_free,22,4,0.547,524.0,28.7,4.78,141.3,4.3,0.502,198.8,4.37,8.2,0.178,true
+MEAL-0335,luteal,dinner,Black Bean Enchiladas (Light Version),vegetarian;gluten_free,41,3,0.699,471.0,27.9,8.03,277.1,15.7,0.512,198.6,5.04,19.8,0.101,true
+MEAL-0346,menstrual,snack,Beetroot Hummus with Veggies (Seasonal),vegan,8,3,0.199,148.0,7.4,1.77,42.4,2.0,0.199,23.6,1.14,4.7,0.078,true
+MEAL-0061,ovulation,breakfast,Spinach and Mushroom Frittata,vegetarian;gluten_free,21,4,0.308,254.0,12.6,3.38,88.6,7.4,0.225,84.8,2.43,4.7,0.103,true
+MEAL-0075,ovulation,lunch,Roasted Beetroot and Goat Cheese Salad,vegetarian;gluten_free,26,4,0.699,631.0,30.0,6.72,168.2,2.7,0.435,173.8,5.33,10.5,0.231,true
+MEAL-0084,ovulation,dinner,Beef and Cashew Stir-Fry,dairy_free,54,4,0.895,457.0,30.9,6.87,198.0,20.2,0.728,108.7,7.47,5.2,0.345,true
+MEAL-0005,menstrual,breakfast,Salmon Avocado Toast,pescatarian,17,3,0.685,365.0,21.0,2.66,64.3,11.1,0.486,70.5,1.42,8.2,0.234,true
+MEAL-0105,luteal,lunch,Brown Rice Sushi Rolls,vegan,35,3,0.605,408.0,22.5,4.66,175.0,13.8,0.524,673.9,3.23,5.8,0.397,true
+MEAL-0177,ovulation,snack,Mixed Nuts and Seeds (Low Carb),vegan;gluten_free,8,3,0.489,185.0,16.4,3.88,111.0,11.1,0.216,549.6,2.0,4.2,0.324,true
+MEAL-0187,ovulation,lunch,Roasted Beetroot and Goat Cheese Salad (Quick Prep),vegetarian;gluten_free,22,4,0.418,377.0,18.0,4.01,100.5,1.6,0.26,103.9,3.18,6.2,0.138,true
+MEAL-0279,follicular,dinner,Chicken and Sweet Potato Bake (Low Carb),gluten_free;dairy_free,58,4,1.611,694.0,47.6,9.43,226.2,17.8,1.805,121.8,5.79,12.5,0.253,true
+MEAL-0019,menstrual,lunch,Mediterranean Sardine Salad,pescatarian;gluten_free,21,3,0.895,313.0,26.6,5.89,156.8,20.1,0.406,397.0,2.61,4.6,1.308,true
+MEAL-0331,luteal,dinner,Stuffed Sweet Potatoes (Quick Prep),vegan;gluten_free,27,4,0.859,408.0,29.6,7.61,173.6,9.7,0.553,938.3,3.59,9.6,0.565,true
+MEAL-0139,menstrual,dinner,Venison Steak with Red Cabbage (Quick Prep),gluten_free;dairy_free,30,4,1.105,603.0,63.2,9.54,151.2,32.4,1.234,80.5,10.41,5.9,0.14,true
+MEAL-0099,luteal,lunch,Sweet Potato and Black Bean Bowl,vegan;gluten_free,16,4,0.672,518.0,27.6,8.33,249.8,7.4,0.628,170.0,4.91,20.8,0.095,true
+MEAL-0048,follicular,lunch,Prawn Stir-Fry Noodles,pescatarian;dairy_free,28,3,2.365,531.0,53.3,5.53,158.0,53.2,0.386,198.7,1.71,7.0,0.116,true
+MEAL-0468,menstrual,lunch,Black Bean and Quinoa Bowl (High Protein),vegan;gluten_free,32,3,0.451,304.0,18.0,5.18,178.9,10.1,0.33,128.2,3.25,12.8,0.065,true
+MEAL-0010,menstrual,snack,Beetroot Hummus with Veggies,vegan,9,3,0.213,159.0,8.0,1.9,45.6,2.1,0.214,25.3,1.22,5.1,0.084,true
+MEAL-0015,menstrual,lunch,Lentil and Kale Soup,vegan,27,3,0.825,587.0,37.7,10.51,152.6,84.8,0.969,159.2,5.5,18.4,0.117,true
+MEAL-0165,follicular,dinner,Turkey Meatballs with Pasta (Low Carb),dairy_free,31,3,1.521,570.0,50.3,8.43,236.6,34.2,1.436,178.8,7.38,9.8,0.263,true
+MEAL-0266,follicular,snack,Rice Cake with Tuna (Family Size),gluten_free;dairy_free,12,3,0.281,163.0,8.8,2.34,42.2,6.3,0.208,27.3,0.66,1.0,0.113,true
+MEAL-0489,follicular,snack,Turkey Roll-Ups (Low Carb),gluten_free;dairy_free,9,3,0.565,192.0,17.6,2.97,94.6,12.7,0.554,69.1,2.57,2.9,0.115,true
+MEAL-0043,follicular,lunch,Grilled Chicken Quinoa Bowl,gluten_free;dairy_free,20,3,1.832,612.0,52.2,9.05,302.7,41.2,1.682,195.7,6.41,9.4,0.295,true
+MEAL-0273,follicular,lunch,Greek Chicken Souvlaki Bowl (Low Carb),omnivore,26,3,1.617,540.0,46.1,7.99,267.1,36.3,1.484,172.7,5.65,8.3,0.261,true
+MEAL-0171,ovulation,breakfast,Nut and Seed Granola Bowl (Low Carb),vegan,15,3,0.676,516.0,31.9,6.69,218.9,5.5,0.413,739.8,4.91,12.5,0.505,true
+MEAL-0217,luteal,lunch,Brown Rice Sushi Rolls (Quick Prep),vegan,34,3,0.931,628.0,34.7,7.17,269.3,21.2,0.806,1037.2,4.96,8.9,0.612,true
+MEAL-0318,luteal,snack,Yogurt with Sunflower Seeds (High Protein),vegetarian;gluten_free,13,4,0.381,218.0,14.7,2.58,61.5,8.6,0.285,149.8,1.83,1.9,0.092,true
+MEAL-0397,ovulation,breakfast,Spinach and Mushroom Frittata (Quick Prep),vegetarian;gluten_free,13,4,0.606,500.0,24.8,6.65,174.5,14.6,0.444,166.9,4.79,9.3,0.202,true
+MEAL-0479,follicular,breakfast,Acai Berry Bowl (Light Version),vegan,21,3,0.722,530.0,33.8,7.15,220.1,6.5,0.237,790.3,5.24,13.2,0.541,true
+MEAL-0252,menstrual,dinner,Mussels in White Wine Sauce (High Protein),pescatarian,47,3,3.203,768.0,58.5,24.06,546.4,95.1,1.116,393.9,10.16,16.4,0.753,true
+MEAL-0300,ovulation,lunch,Crab and Corn Chowder (High Protein),pescatarian;gluten_free,40,3,1.776,517.0,42.8,5.1,243.3,14.5,0.58,181.3,8.62,9.8,0.34,true
+MEAL-0288,ovulation,snack,Oyster Mushroom Crisps (High Protein),vegan;gluten_free,7,3,0.538,203.0,18.1,3.32,91.9,1.1,0.198,563.0,2.19,4.1,0.356,true
+MEAL-0070,ovulation,snack,Seaweed Snack Pack,vegan;gluten_free,12,3,0.37,140.0,12.4,2.94,84.0,8.4,0.163,415.9,1.51,3.2,0.245,true
+MEAL-0179,ovulation,snack,Cucumber and Sesame Bites (Light Version),vegan;gluten_free,13,4,0.248,122.0,9.2,2.71,74.0,5.7,0.149,328.2,1.37,2.8,0.352,true
+MEAL-0389,follicular,dinner,Turkey Meatballs with Pasta (Light Version),dairy_free,47,3,1.041,390.0,34.4,5.76,161.9,23.4,0.983,122.4,5.05,6.7,0.18,true
+MEAL-0292,ovulation,snack,Pomegranate and Pistachio Mix (Seasonal),vegan;gluten_free,5,3,0.304,115.0,10.2,2.41,69.0,6.9,0.134,341.6,1.24,2.6,0.201,true
+MEAL-0047,follicular,lunch,Chicken Caesar Salad,omnivore,18,4,0.76,343.0,29.8,3.94,135.5,17.1,0.718,350.9,3.28,3.9,0.129,true
+MEAL-0160,follicular,lunch,Prawn Stir-Fry Noodles (Seasonal),pescatarian;dairy_free,19,3,2.031,456.0,45.8,4.74,135.7,45.7,0.331,170.6,1.47,6.0,0.1,true
+MEAL-0436,luteal,lunch,Chickpea and Brown Rice Salad (Seasonal),vegan;gluten_free,25,3,0.466,478.0,19.6,4.74,149.5,13.3,0.713,81.8,3.32,11.4,0.183,true
+MEAL-0285,ovulation,breakfast,Spinach and Mushroom Frittata (Low Carb),vegetarian;gluten_free,12,4,0.404,333.0,16.5,4.43,116.2,9.8,0.296,111.2,3.19,6.2,0.135,true
+MEAL-0158,follicular,lunch,Egg Fried Rice with Vegetables (Family Size),vegetarian;dairy_free,27,3,0.488,377.0,12.7,4.94,53.8,11.0,0.332,106.9,2.01,1.7,0.09,true
+MEAL-0260,follicular,snack,Boiled Eggs and Cherry Tomatoes (Family Size),vegetarian;gluten_free,5,3,0.489,237.0,10.8,2.41,43.9,9.2,0.275,78.2,1.79,2.1,0.115,true
+MEAL-0025,menstrual,dinner,Tofu and Mushroom Ramen,vegan,41,3,2.035,739.0,62.1,9.27,199.0,4.0,0.465,2099.2,6.25,11.1,1.218,true
+MEAL-0197,luteal,breakfast,Sweet Potato and Banana Smoothie (Light Version),vegan;gluten_free,24,5,0.574,504.0,29.0,7.44,207.8,11.0,0.556,655.4,4.46,13.1,0.43,true
+MEAL-0454,menstrual,breakfast,Beetroot and Berry Smoothie (Seasonal),vegan,16,4,0.493,379.0,23.7,5.2,159.4,6.4,0.188,546.2,3.72,10.1,0.371,true
+MEAL-0332,luteal,dinner,Salmon with Brown Rice and Broccoli (Family Size),pescatarian;gluten_free,32,3,1.335,777.0,39.7,3.3,240.8,95.3,1.686,73.0,4.32,8.5,0.374,true
+MEAL-0338,menstrual,breakfast,Dark Chocolate Overnight Oats (Family Size),vegan,12,4,0.38,297.0,18.5,4.18,138.3,3.1,0.236,419.8,2.97,8.2,0.285,true
+MEAL-0254,follicular,breakfast,Scrambled Eggs with Smoked Turkey (Family Size),dairy_free,10,4,0.419,438.0,25.4,4.16,112.7,3.3,0.628,92.5,4.19,6.3,0.191,true
+MEAL-0067,ovulation,snack,Cucumber and Sesame Bites,vegan;gluten_free,13,4,0.431,212.0,15.9,4.7,128.6,9.8,0.26,570.3,2.38,4.9,0.612,true
+MEAL-0207,luteal,snack,Banana and Walnut Muffin (Low Carb),vegetarian,7,4,0.409,277.0,10.3,2.18,56.3,3.3,0.383,71.0,1.78,2.9,0.792,true
+MEAL-0029,follicular,breakfast,Protein Pancakes with Berries,vegetarian,15,3,0.49,412.0,18.0,4.24,109.3,4.3,0.265,97.7,3.53,7.3,0.16,true
+MEAL-0374,follicular,snack,Chicken Jerky Strips (Family Size),gluten_free;dairy_free,13,3,0.395,132.0,11.3,1.95,65.3,8.9,0.363,42.2,1.38,2.0,0.064,true
+MEAL-0085,luteal,breakfast,Sweet Potato and Banana Smoothie,vegan;gluten_free,19,5,0.597,524.0,30.1,7.74,216.1,11.4,0.579,681.4,4.64,13.7,0.447,true
+MEAL-0151,follicular,snack,Edamame with Sea Salt (Quick Prep),vegan;gluten_free,15,3,0.535,184.0,13.6,3.94,126.3,16.9,0.243,103.9,2.03,6.9,0.176,true
+MEAL-0240,menstrual,lunch,Salmon Teriyaki Rice Bowl (High Protein),pescatarian;gluten_free,26,3,1.093,617.0,31.3,8.46,141.5,24.6,0.961,105.2,2.37,3.8,0.256,true
+MEAL-0080,ovulation,dinner,Sesame-Crusted Tuna Steak,pescatarian;dairy_free,57,4,1.128,457.0,36.1,8.83,289.1,25.4,0.986,343.7,4.18,8.9,1.372,true
+MEAL-0039,follicular,snack,Edamame with Sea Salt,vegan;gluten_free,15,3,0.666,229.0,16.9,4.9,157.2,21.1,0.302,129.2,2.52,8.6,0.219,true
+MEAL-0358,menstrual,dinner,Lamb and Lentil Stew (Seasonal),gluten_free;dairy_free,22,4,0.729,750.0,46.9,11.36,171.8,21.3,0.926,124.9,7.82,15.4,0.179,true
+MEAL-0108,luteal,dinner,Salmon with Brown Rice and Broccoli,pescatarian;gluten_free,47,3,1.222,711.0,36.4,3.02,220.3,87.2,1.542,66.8,3.95,7.8,0.342,true
+MEAL-0180,ovulation,snack,Pomegranate and Pistachio Mix (High Protein),vegan;gluten_free,8,3,0.455,172.0,15.2,3.61,103.2,10.4,0.201,511.0,1.86,3.9,0.301,true
+MEAL-0368,follicular,breakfast,Quinoa Breakfast Porridge (Family Size),vegan,22,4,0.304,276.0,16.0,3.55,121.9,2.5,0.231,339.1,2.61,6.7,0.247,true
+MEAL-0438,luteal,lunch,Mushroom and Barley Soup (High Protein),vegan,17,3,0.861,567.0,37.3,7.5,218.6,1.7,0.519,918.4,5.25,21.5,0.571,true
+MEAL-0293,ovulation,snack,Cashew and Cacao Bites (Light Version),vegan;gluten_free,5,5,0.367,186.0,14.2,3.81,119.3,8.4,0.196,418.7,2.12,4.5,0.347,true
+MEAL-0002,menstrual,breakfast,Dark Chocolate Overnight Oats,vegan,13,4,0.312,244.0,15.2,3.44,113.6,2.5,0.194,344.9,2.44,6.7,0.234,true
+MEAL-0249,menstrual,dinner,Tofu and Mushroom Ramen (Low Carb),vegan,37,3,1.806,656.0,55.1,8.23,176.6,3.6,0.413,1863.4,5.55,9.8,1.081,true
+MEAL-0315,luteal,breakfast,Avocado and Black Bean Breakfast Tacos (Low Carb),vegan;gluten_free,14,3,0.539,475.0,22.2,4.94,196.5,8.4,0.411,156.7,3.99,19.3,0.126,true
+MEAL-0326,luteal,lunch,Mushroom and Barley Soup (Family Size),vegan,18,3,1.15,757.0,49.8,10.01,291.8,2.3,0.693,1226.2,7.01,28.8,0.763,true
+MEAL-0150,follicular,snack,Chicken Jerky Strips (High Protein),gluten_free;dairy_free,15,3,0.491,164.0,14.0,2.43,81.1,11.0,0.451,52.4,1.72,2.5,0.079,true
+MEAL-0196,ovulation,dinner,Beef and Cashew Stir-Fry (Seasonal),dairy_free,42,4,0.858,438.0,29.6,6.59,189.7,19.4,0.697,104.1,7.16,5.0,0.331,true
+MEAL-0425,luteal,breakfast,Warm Millet Porridge (Light Version),vegan;gluten_free,11,4,0.499,609.0,29.9,7.29,232.6,4.1,0.527,553.8,5.19,11.3,0.451,true
+MEAL-0131,menstrual,lunch,Mediterranean Sardine Salad (Light Version),pescatarian;gluten_free,32,3,1.994,697.0,59.3,13.13,349.1,44.8,0.905,884.0,5.8,10.2,2.912,true
+MEAL-0437,luteal,lunch,Turkey and Sweet Potato Wrap (Light Version),dairy_free,25,4,0.905,502.0,30.6,5.31,138.0,10.0,1.175,152.1,4.45,10.8,0.199,true
+MEAL-0190,ovulation,dinner,Grilled Oysters with Lemon (Seasonal),pescatarian;gluten_free,60,3,1.738,409.0,27.9,14.87,277.8,51.6,0.606,185.6,29.01,8.9,0.543,true
+MEAL-0056,follicular,dinner,Salmon Pasta Bake,pescatarian,54,3,1.396,435.0,39.0,6.39,212.7,31.4,1.142,141.2,3.33,9.0,0.363,true
+MEAL-0060,ovulation,breakfast,Smoked Salmon Bagel,pescatarian,12,3,0.767,379.0,24.3,2.98,84.2,6.0,0.81,26.7,1.38,5.6,0.214,true
+MEAL-0296,ovulation,lunch,Spinach and Walnut Pesto Pasta (Family Size),vegetarian,17,4,0.637,414.0,18.1,4.8,104.8,14.5,0.462,155.0,3.15,5.0,1.215,true
+MEAL-0022,menstrual,dinner,Lamb and Lentil Stew,gluten_free;dairy_free,48,4,0.488,502.0,31.4,7.6,115.0,14.3,0.619,83.6,5.24,10.3,0.12,true
+MEAL-0097,luteal,snack,Pumpkin Seed Clusters,vegan,15,4,0.56,276.0,22.1,5.35,188.6,12.9,0.258,634.9,3.14,5.5,0.771,true
+MEAL-0350,menstrual,snack,Spinach and Cheese Muffin (Family Size),vegetarian,15,3,0.285,138.0,6.7,1.9,41.3,6.4,0.186,65.1,1.15,1.5,0.068,true
+MEAL-0428,luteal,snack,Dark Chocolate and Banana (Family Size),vegan;gluten_free,8,4,0.29,133.0,9.8,2.07,66.2,2.4,0.181,307.5,1.26,3.5,0.192,true
+MEAL-0051,follicular,dinner,Chicken Stir-Fry with Cashews,dairy_free,53,4,1.246,554.0,40.0,7.82,278.6,28.1,1.248,142.3,5.8,7.2,0.553,true
+MEAL-0228,menstrual,breakfast,Lentil and Spinach Breakfast Bowl (High Protein),vegetarian,12,3,0.319,323.0,19.0,5.61,110.3,9.3,0.353,62.6,3.22,9.7,0.071,true
+MEAL-0283,ovulation,breakfast,Nut and Seed Granola Bowl (Quick Prep),vegan,11,3,0.468,357.0,22.1,4.63,151.5,3.8,0.286,511.8,3.39,8.7,0.35,true
+MEAL-0312,luteal,breakfast,Chickpea Flour Pancakes (Socca) (High Protein),vegan;gluten_free,20,3,0.435,485.0,22.6,5.38,154.7,6.0,0.555,67.4,3.94,14.5,0.21,true
+MEAL-0451,menstrual,breakfast,Ginger Turmeric Smoothie Bowl (Quick Prep),vegan,21,4,0.458,352.0,21.6,4.55,149.7,3.9,0.285,501.1,3.33,8.5,0.342,true
+MEAL-0223,luteal,dinner,Black Bean Enchiladas (Quick Prep),vegetarian;gluten_free,42,3,1.229,828.0,49.1,14.11,487.2,27.6,0.9,349.1,8.86,34.9,0.178,true
+MEAL-0246,menstrual,dinner,Lamb and Lentil Stew (High Protein),gluten_free;dairy_free,40,4,0.624,642.0,40.2,9.72,147.1,18.2,0.792,106.9,6.7,13.2,0.153,true
+MEAL-0380,follicular,lunch,Tuna Nicoise Salad (Family Size),pescatarian;gluten_free,28,3,2.127,621.0,60.7,10.37,393.4,47.8,1.517,227.1,4.83,10.9,0.974,true
+MEAL-0185,ovulation,lunch,Grilled Lamb Chop Salad (Light Version),gluten_free,33,3,0.871,436.0,23.9,5.06,143.8,19.6,0.4,103.4,5.07,4.5,0.159,true
+MEAL-0021,menstrual,lunch,Liver Pate Sandwich,dairy_free,17,3,1.441,680.0,47.2,23.56,193.1,64.0,1.829,254.1,7.2,12.6,0.191,true
+MEAL-0378,follicular,snack,Rice Cake with Tuna (High Protein),gluten_free;dairy_free,5,3,0.229,133.0,7.2,1.91,34.4,5.2,0.17,22.3,0.54,0.8,0.092,true
+MEAL-0304,ovulation,dinner,Sesame-Crusted Tuna Steak (Seasonal),pescatarian;dairy_free,50,4,1.563,633.0,49.9,12.23,400.4,35.1,1.365,476.1,5.79,12.4,1.9,true
+MEAL-0343,menstrual,breakfast,Fortified Cereal with Dried Apricots (Quick Prep),vegan,20,3,0.483,351.0,22.9,4.84,149.1,4.5,0.159,532.3,3.53,8.7,0.361,true
+MEAL-0063,ovulation,breakfast,Shellfish Omelette,pescatarian;gluten_free,23,4,0.404,382.0,22.3,3.49,97.7,3.2,0.333,80.1,2.91,6.1,0.148,true
+MEAL-0405,ovulation,snack,Cashew and Cacao Bites (Low Carb),vegan;gluten_free,15,5,0.311,158.0,12.0,3.24,101.3,7.1,0.166,355.6,1.8,3.8,0.295,true
+MEAL-0130,menstrual,lunch,Beef and Broccoli Stir-Fry (Seasonal),gluten_free;dairy_free,35,3,0.824,337.0,25.4,3.92,96.0,58.8,0.588,59.7,5.85,4.5,0.081,true
+MEAL-0381,follicular,lunch,Turkey and Avocado Wrap (Low Carb),dairy_free,32,3,0.85,465.0,27.6,2.5,115.2,13.3,0.858,109.6,4.04,10.7,0.249,true
+MEAL-0135,menstrual,dinner,Baked Salmon with Sweet Potato (Low Carb),pescatarian;gluten_free,44,4,1.922,718.0,52.0,10.02,268.2,21.2,2.03,143.6,4.19,14.9,0.55,true
+MEAL-0031,follicular,breakfast,Acai Berry Bowl,vegan,12,3,0.723,531.0,33.9,7.17,220.5,6.5,0.237,791.8,5.25,13.3,0.542,true
+MEAL-0290,ovulation,snack,Kale Chips with Tahini (Family Size),vegan;gluten_free,13,4,0.39,200.0,14.8,3.87,106.4,37.6,0.259,532.1,2.16,4.9,0.557,true
+MEAL-0140,menstrual,dinner,Mussels in White Wine Sauce (Family Size),pescatarian,48,3,2.002,480.0,36.6,15.03,341.5,59.4,0.698,246.2,6.35,10.2,0.47,true
+MEAL-0221,luteal,dinner,Chicken and Chickpea Tagine (Light Version),dairy_free,30,4,0.812,732.0,48.1,9.27,230.5,23.1,1.398,156.2,6.2,19.0,0.397,true
+MEAL-0301,ovulation,lunch,Chickpea and Pumpkin Seed Salad (Quick Prep),vegan;gluten_free,28,4,0.573,484.0,25.4,6.9,211.3,16.5,0.646,112.1,4.24,14.2,0.638,true
+MEAL-0444,luteal,dinner,Salmon with Brown Rice and Broccoli (High Protein),pescatarian;gluten_free,49,3,0.87,506.0,25.9,2.15,156.8,62.1,1.098,47.6,2.81,5.6,0.244,true
+MEAL-0201,luteal,breakfast,Warm Millet Porridge (Low Carb),vegan;gluten_free,21,4,0.423,516.0,25.4,6.18,197.1,3.4,0.447,469.2,4.4,9.6,0.382,true
+MEAL-0094,luteal,snack,Yogurt with Sunflower Seeds,vegetarian;gluten_free,8,4,0.372,213.0,14.4,2.52,60.0,8.4,0.278,146.3,1.79,1.9,0.089,true
+MEAL-0138,menstrual,dinner,Chicken Liver Pate with Crostini (High Protein),dairy_free,60,4,0.671,432.0,36.1,11.64,106.9,29.8,1.265,123.2,4.54,5.9,0.149,true
+MEAL-0371,follicular,breakfast,Cottage Cheese and Fruit Bowl (Light Version),vegetarian;gluten_free,21,4,0.512,518.0,27.4,4.5,126.9,7.1,0.46,144.6,3.91,7.8,0.171,true
+MEAL-0422,luteal,breakfast,Banana Oat Pancakes (Family Size),vegan,17,3,0.619,472.0,29.2,6.12,200.3,5.0,0.378,676.7,4.49,11.5,0.462,true
+MEAL-0044,follicular,lunch,Tuna Nicoise Salad,pescatarian;gluten_free,16,3,1.308,382.0,37.4,6.38,242.0,29.4,0.933,139.7,2.97,6.7,0.599,true
+MEAL-0208,luteal,snack,Chamomile Tea with Almond Milk (Seasonal),vegan;gluten_free,11,4,0.364,180.0,13.7,3.16,102.3,8.3,0.171,429.0,1.72,4.0,0.403,true
+MEAL-0264,follicular,snack,Protein Smoothie (High Protein),vegetarian;gluten_free,6,3,0.382,185.0,8.9,2.55,55.4,8.6,0.25,87.3,1.54,2.0,0.091,true
+MEAL-0017,menstrual,lunch,Spinach and Chickpea Curry,vegan,40,3,0.605,441.0,23.1,6.3,156.3,17.2,0.669,111.9,3.55,14.2,0.241,true
+MEAL-0174,ovulation,breakfast,Pumpkin Seed Butter on Toast (High Protein),vegan,13,4,0.378,273.0,16.3,3.49,101.9,3.4,0.219,426.3,2.04,5.3,0.513,true
+MEAL-0247,menstrual,dinner,Baked Salmon with Sweet Potato (Quick Prep),pescatarian;gluten_free,56,4,1.213,453.0,32.8,6.32,169.2,13.4,1.281,90.6,2.64,9.4,0.347,true
+MEAL-0459,menstrual,snack,Warm Cinnamon Apple Slices (Low Carb),vegan,7,3,0.359,136.0,12.0,2.86,81.6,8.2,0.159,404.0,1.47,3.1,0.238,true
+MEAL-0170,ovulation,breakfast,Avocado Toast with Pumpkin Seeds (Family Size),vegan,10,4,0.635,476.0,28.0,5.81,169.3,10.7,0.202,718.5,3.56,10.6,0.908,true
+MEAL-0239,menstrual,lunch,Lentil and Kale Soup (Light Version),vegan,36,3,0.806,573.0,36.8,10.26,149.0,82.8,0.946,155.4,5.37,18.0,0.114,true
+MEAL-0164,follicular,dinner,Baked Cod with Herbed Couscous (Family Size),pescatarian;dairy_free,48,3,0.802,436.0,27.0,3.05,116.2,18.8,0.408,98.2,1.46,6.2,0.067,true
+MEAL-0321,luteal,snack,Pumpkin Seed Clusters (Low Carb),vegan,5,4,0.446,220.0,17.6,4.26,150.3,10.3,0.206,506.1,2.5,4.4,0.614,true
+MEAL-0154,follicular,snack,Rice Cake with Tuna (Seasonal),gluten_free;dairy_free,8,3,0.297,172.0,9.3,2.47,44.5,6.7,0.219,28.8,0.7,1.0,0.12,true
+MEAL-0012,menstrual,snack,Energy Date Balls,vegan,7,3,0.346,131.0,11.6,2.75,78.6,7.9,0.153,389.2,1.41,3.0,0.229,true
+MEAL-0127,menstrual,lunch,Lentil and Kale Soup (Quick Prep),vegan,29,3,0.717,510.0,32.7,9.13,132.6,73.7,0.842,138.3,4.78,16.0,0.101,true
+MEAL-0341,menstrual,breakfast,Salmon Avocado Toast (Light Version),pescatarian,25,3,0.983,524.0,30.1,3.82,92.3,15.9,0.698,101.1,2.04,11.8,0.336,true
+MEAL-0262,follicular,snack,Chicken Jerky Strips (Seasonal),gluten_free;dairy_free,14,3,0.545,182.0,15.5,2.69,90.0,12.2,0.5,58.2,1.91,2.8,0.088,true
+MEAL-0305,ovulation,dinner,Stuffed Bell Peppers (Light Version),vegan;gluten_free,26,3,1.388,522.0,44.2,8.4,238.5,89.7,0.645,1461.7,5.23,11.3,0.914,true
+MEAL-0401,ovulation,snack,Mixed Nuts and Seeds (Light Version),vegan;gluten_free,5,3,0.536,203.0,18.0,4.26,121.8,12.2,0.237,603.0,2.19,4.6,0.355,true
+MEAL-0442,luteal,dinner,Banana Curry with Brown Rice (Seasonal),vegan;gluten_free,60,3,0.596,439.0,21.4,3.44,149.3,4.8,0.62,619.8,3.01,6.0,0.39,true
+MEAL-0045,follicular,lunch,Turkey and Avocado Wrap,dairy_free,40,3,0.906,496.0,29.4,2.66,122.9,14.2,0.915,116.9,4.31,11.4,0.265,true
+MEAL-0330,luteal,dinner,Banana Curry with Brown Rice (High Protein),vegan;gluten_free,56,3,0.66,486.0,23.7,3.81,165.3,5.4,0.687,686.1,3.33,6.7,0.432,true
+MEAL-0366,follicular,breakfast,Scrambled Eggs with Smoked Turkey (High Protein),dairy_free,20,4,0.414,433.0,25.1,4.11,111.4,3.2,0.621,91.5,4.15,6.2,0.189,true
+MEAL-0407,ovulation,lunch,Prawn and Avocado Salad (Light Version),pescatarian;gluten_free,36,3,1.306,429.0,33.1,2.53,128.5,20.5,0.284,38.4,2.18,11.0,0.237,true
+MEAL-0088,luteal,breakfast,Chickpea Flour Pancakes (Socca),vegan;gluten_free,10,3,0.445,496.0,23.1,5.51,158.2,6.2,0.568,68.9,4.02,14.9,0.215,true
+MEAL-0392,follicular,dinner,Salmon Pasta Bake (Family Size),pescatarian,27,3,1.416,441.0,39.5,6.48,215.6,31.8,1.157,143.1,3.37,9.1,0.368,true
+MEAL-0340,menstrual,breakfast,Lentil and Spinach Breakfast Bowl (Seasonal),vegetarian,25,3,0.417,422.0,24.8,7.33,144.2,12.2,0.462,81.8,4.2,12.7,0.092,true
+MEAL-0234,menstrual,snack,Beetroot Hummus with Veggies (High Protein),vegan,7,3,0.138,103.0,5.2,1.23,29.5,1.4,0.139,16.4,0.79,3.3,0.054,true
+MEAL-0114,menstrual,breakfast,Dark Chocolate Overnight Oats (High Protein),vegan,19,4,0.483,377.0,23.5,5.31,175.5,3.9,0.299,532.8,3.76,10.4,0.361,true
+MEAL-0297,ovulation,lunch,Grilled Lamb Chop Salad (Low Carb),gluten_free,15,3,0.807,404.0,22.1,4.69,133.3,18.1,0.371,95.8,4.7,4.1,0.147,true
+MEAL-0081,ovulation,dinner,Stuffed Bell Peppers,vegan;gluten_free,32,3,1.176,442.0,37.5,7.11,202.0,76.0,0.546,1237.7,4.43,9.6,0.774,true
+MEAL-0492,follicular,lunch,Tuna Nicoise Salad (High Protein),pescatarian;gluten_free,34,3,1.394,407.0,39.8,6.79,257.9,31.3,0.994,148.9,3.17,7.1,0.639,true
+MEAL-0037,follicular,snack,Berries and Almond Butter,vegan;gluten_free,7,4,0.44,232.0,15.9,2.98,98.2,4.0,0.158,486.0,1.95,5.0,0.487,true
